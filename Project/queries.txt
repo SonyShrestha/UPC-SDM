@@ -1,0 +1,103 @@
+1. Query for SupermarketInventory
+
+PREFIX global: <http://www.example.edu/spicy_bytes/schema#>
+SELECT ?s ?unitPrice ?quantityRemaining ?dateExpiry ?date
+WHERE {
+  ?s a global:SupermarketInventory ;
+     global:unitPrice ?unitPrice ;
+     global:quantityRemaining ?quantityRemaining ;
+     global:dateExpiry ?dateExpiry ;
+     global:date ?date .
+}
+LIMIT 100
+
+2. Query for Customer
+
+PREFIX global: <http://www.example.edu/spicy_bytes/schema#>
+SELECT ?s ?idCustomer ?nameCustomer
+WHERE {
+  ?s a global:Customer ;
+     global:idCustomer ?idCustomer ;
+     global:nameCustomer ?nameCustomer .
+}
+LIMIT 100
+
+3. Query for CustomerInventory
+
+PREFIX global: <http://www.example.edu/spicy_bytes/schema#>
+SELECT ?s ?unitPrice ?quantityRemaining ?dateExpiry ?date
+WHERE {
+  ?s a global:CustomerInventory ;
+     global:unitPrice ?unitPrice ;
+     global:quantityRemaining ?quantityRemaining ;
+     global:date ?date .
+}
+LIMIT 100
+
+4. Query for CustomerLocation
+
+PREFIX global: <http://www.example.edu/spicy_bytes/schema#>
+SELECT ?s ?idLocation ?idcustomer
+WHERE {
+  ?s a global:Location ;
+     global:idLocation ?idLocation ;
+     global:idcustomer ?idcustomer .
+}
+LIMIT 100
+
+5. Query for Location
+
+PREFIX global: <http://www.example.edu/spicy_bytes/schema#>
+SELECT ?s ?idLocation ?namePlace ?codePostal ?codeCountry ?latitude ?longitude
+WHERE {
+  ?s a global:Location ;
+     global:idLocation ?idLocation ;
+     global:namePlace ?namePlace ;
+     global:codePostal ?codePostal ;
+     global:codeCountry ?codeCountry ;
+     global:latitude ?latitude ;
+     global:longitude ?longitude .
+}
+LIMIT 100
+
+6. Query for SupermarketInventory
+
+PREFIX global: <http://www.example.edu/spicy_bytes/schema#>
+SELECT ?s ?idStore ?codeCounty ?nameCommercial ?NIFCompany
+WHERE {
+  ?s a global:Supermarket ;
+     global:idStore ?idStore ;
+     global:codeCounty ?codeCounty ;
+     global:nameCommercial ?nameCommercial ;
+     global:NIFCompany ?NIFCompany .
+}
+LIMIT 100
+
+7. Business Purchase Query
+
+PREFIX global: <http://www.example.edu/spicy_bytes/schema#>
+SELECT ?b2c ?datePurchased ?quantityPurchased ?unitPrice ?seller ?buyer ?productPurchased
+WHERE {
+  ?b2c a global:BusinessPurchase ;
+       global:quantityPurchased ?quantityPurchased ;
+       global:unitPrice ?unitPrice ;
+       global:seller ?seller ;
+       global:buyer ?buyer ;
+       global:productPurchased ?productPurchased .
+}
+LIMIT 100
+
+8. Customer Purchase Query
+
+PREFIX global: <http://www.example.edu/spicy_bytes/schema#>
+SELECT ?c2c ?datePurchased ?quantityPurchased ?unitPrice ?seller ?buyer ?productPurchased
+WHERE {
+  ?c2c a global:CustomerPurchase ;
+       global:datePurchased ?datePurchased ;
+       global:quantityPurchased ?quantityPurchased ;
+       global:unitPrice ?unitPrice ;
+       global:seller ?seller ;
+       global:buyer ?buyer ;
+       global:productPurchased ?productPurchased .
+}
+LIMIT 100

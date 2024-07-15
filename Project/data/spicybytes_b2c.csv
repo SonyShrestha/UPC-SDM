@@ -1,0 +1,257 @@
+store_id,customer_id,customer_name,product_name,unit_price,quantity,purchase_date
+cens-0811200000-1343,421,Joseph Wilson,Delish by Flipkart Eggless Vanilla flavored Cake Rusk  (200 g),150,1,2024-04-09
+cens-0811200000-1343,445,Zachary Ross,"Nutralite Veg Mayo|Eggless Mayonnaise|Enriched With Vitamins A, D2, and E 275 g  (25 g Extra in Pack)",105,1,2024-04-19
+cens-0811200000-1343,413,Lauren Silva,"Sublabh Ultra Baskati Rice (Long Grain, Parboiled)  (5 kg)",261,1,2024-04-23
+cens-0811200000-1343,6,Xavier Johnson,"Tata Sampann Premium Quality Badam Giri, 100% Pure California Almonds  (500 g)",477,1,2024-03-16
+cens-0811200000-1343,18,Erika Collins,FIGARO Extra Virgin Olive Oil Plastic Bottle  (250 ml),393,1,2024-03-17
+cens-0811200000-1343,472,Jesus Arroyo,UNIBIC Double Choco Chip Cookies  (75 g),100,1,2024-02-29
+cens-0800600000-594,399,Chelsea Rice,Real Masala Guava  (1 L),140,1,2024-03-10
+cens-0800600000-594,446,Jason Chapman,BRITANNIA Treat Creme Roll Vanilla Croissants  (45 g),17,1,2024-03-21
+cens-0800600000-594,167,Joanna Collins,Farmley Premium Whole Cranberries  (200 g),173,1,2024-03-16
+cens-0800600000-594,387,Brian Hudson,Catch Super Garam Masala (Garam Masala Powder)  (200 g),105,1,2024-02-15
+cens-0800600000-594,91,Nancy Garcia,Bagrry's Corn Flakes Plus Original & Healthier (with Fibre Power) Pouch  (80 g Extra in Pack)  (800 g),199,1,2024-03-01
+cens-0800600000-594,488,Debra George,natural tattva Natural Rock Salt (Pothoro Lunno)  (500 g),45,1,2024-03-10
+cens-0800600000-594,129,John Martin,BRITANNIA Little Hearts Classic Sweet & Salty (Mitha & Luniya)  (75 g),24,1,2024-03-11
+cens-0813850006-49,187,Joyce Webb,Gits Rasgulla Open & Eat Tin (Rosogola)  (1 kg),170,1,2024-04-05
+cens-0813850006-49,203,Lori French,Amulya Dairy Whitener Milk Powder  (1 kg),441,1,2024-03-09
+cens-0813850006-49,230,George Rogers,MDH Chana Masala (Chhole Masala)  (100 g),69,1,2024-03-06
+cens-0813850006-49,420,Jeremiah Weber,pajaka Snackie Garlic Mixture  (500 g),220,1,2024-02-23
+cens-0813850006-49,2,Nicholas Cardenas,"Kellogg's Chocos Fills Double Chocolaty, 0% Maida, Oats, Wheat & Rice, Multigrain Snack Pouch  (160 g)",9,1,2024-05-03
+cens-0813850006-49,464,Mark Roberts,Eco Valley Quick Cooking Hearty Oats Pouch  (1 kg),133,1,2024-03-11
+cens-0813850006-49,281,Jeffrey Warren,Agrilite Maida  (500 g),21,1,2024-02-13
+cens-0813850006-49,75,James Collins,"Tata Sampann Instant Fibre Rich Dosa Ready to Cook Mix/Batter, Make crispy dosas in 15 mins 500 g",140,1,2024-04-25
+cens-0813850006-49,371,April Fuentes,"Apis Honey  (Combo Pack 1 + 1 Free, 500 g each)  (500 g)",227,1,2024-03-06
+cens-0813850006-49,339,Megan Sampson,Farmley Premium Broken (Akhrot) (Akrot) Walnuts  (200 g),214,1,2024-03-03
+cens-0813850006-49,379,John Roberson,Farmley Premium Jumbo Walnut Inshell Walnuts (Akhrot)  (1 kg),641,1,2024-03-18
+cens-0813850006-49,297,David Gomez,Classic Cloves by Flipkart Grocery (Labanga)  (100 g),126,1,2024-02-10
+cens-0813850006-49,97,Mark Davis,Natureland Organics Refined Wheat Flour (Maida)  (500 g),40,1,2024-05-03
+cens-0813850006-49,374,Timothy Lopez,Alpenliebe Mixed Fruit Lollipop  (64 g),46,1,2024-03-14
+cens-0811200000-1343,487,Robert Ortega,"Nescafe Classic Coffee Powder, 100% Pure Instant Coffee  (90 g)",311,2,2024-04-18
+cens-0811200000-1343,113,Leslie Jackson,"Kwality Pizza Pasta Seasoning of Herbs, Spices & Dehydrated Vegetable  (45 g)",49,2,2024-02-09
+cens-0811200000-1343,351,Corey Smith,VEEBA Chef'S Special Veg Mayonnaise Eggless 875 g,156,2,2024-03-29
+cens-0811200000-1343,142,Andrew Solomon,COMPLAN Nutrition and Health Drink Royale Chocolate Jar (Flavored)  (500 g),277,2,2024-03-09
+cens-0811200000-1343,69,Carla Taylor MD,EPIGAMIA Cookies & Cream Milkshake,52,2,2024-04-27
+cens-0811200000-1343,388,David Long,Real Fruit Juice - Cranberry  (1 L),130,2,2024-03-17
+cens-0800600000-594,19,William Cardenas,EVEREST SHAHI BIRYANI MASALA  (50 g),72,2,2024-02-23
+cens-0800600000-594,20,Tina Brewer,Classic Almonds by Flipkart Grocery (Badam)  (200 g),144,2,2024-03-22
+cens-0800600000-594,112,Isaiah Nunez,Classic Wheat Flour Atta by Flipkart Grocery (Whole-Gehuro otta)  (10 kg),383,2,2024-04-11
+cens-0800600000-594,437,Brenda Swanson,lalji All in One (Mixture)  (400 g),235,2,2024-03-27
+cens-0800600000-594,455,Stephen Green,Farmley Tangy Tomato Makhana Roasted In Olive Oil (Makhna)  (2 x 83 g),274,2,2024-03-21
+cens-0800600000-594,150,Peter Sexton,Ruchi Gold Refined Palm Oil Pouch (Khajuri Tela)  (850 g),103,2,2024-04-15
+cens-0800600000-594,209,Sarah Anderson,Alpenliebe Juicy Fills Assorted Jelly Candy  (324 g),105,2,2024-04-17
+cens-0800600000-594,11,John Morris,Alpenliebe Mixed Fruit Lollipop  (64 g),46,2,2024-04-18
+cens-0800600000-594,446,Jason Chapman,"UNIBIC Sugar Free Oatmeal, Marie Biscuit  (75 g)",46,2,2024-04-01
+cens-0813850006-49,51,Carrie Mosley,INDIA GATE Mini Mogra Basmati Rice (Basmati chaula)  (10 kg),593,2,2024-02-28
+cens-0813850006-49,459,Melissa Cardenas,AASHIRVAAD Select Sharbati Atta MP Wheat Atta for softer rotis (Whole-Gehuro otta)  (5 kg),297,2,2024-04-12
+cens-0813850006-49,50,Roger Rivera,Pass Pass Minty Mix Mouth Freshener Dinning Table Pack Mint Mouth Freshener  (100 g),74,2,2024-04-18
+cens-0813850006-49,305,Kim Tran,Milky Mist Sweet Lassi  (200 ml),20,2,2024-04-02
+cens-0813850006-49,492,Cole Clark,"Tata Sampann Quality Kaju, 100% Pure Premium Cashews  (500 g)",478,2,2024-04-03
+cens-0813850006-49,498,Gina Gordon,KARACHI BAKERY Orange Soan Papdi Mithai Box  (200 g),38,2,2024-05-04
+cens-0813850006-49,369,Alison Johnson,Gits Paneer Tikka Masala Ready to Eat 285 g,110,2,2024-02-27
+cens-0813850006-49,333,Steven Rodriguez,Natureland Organics Black Urad Dal (Biri Dali) (Split)  (500 g),100,2,2024-02-22
+cens-0813850006-49,402,Matthew Simmons,Bikano Combo Pack (Namkeen)  (5 x 0.2 kg),190,2,2024-04-15
+cens-0813850006-49,334,Julie Willis,"Cadbury Dairy Milk Hazelnut, Roasted & Chocolate Coated Bites  (40 g)",69,2,2024-03-17
+cens-0811200000-1343,98,Kelly Proctor,Maggi Nutri licious Veg Atta Masala Instant Noodles Vegetarian  (290 g),112,3,2024-02-21
+cens-0811200000-1343,10,Kayla Cruz,Delish by Flipkart Mango Pickle (Acharo)  (400 g),180,3,2024-02-10
+cens-0811200000-1343,158,Mary Salinas,Delish by Flipkart Mango Pickle (Acharo)  (400 g),180,3,2024-04-26
+cens-0811200000-1343,126,Jade Mayo,Flipkart Supermart Gold Tea Pouch (Regular Tea)  (250 g),199,3,2024-03-03
+cens-0811200000-1343,305,Kim Tran,RUCHI Chicken Masala Powder  (100 g),65,3,2024-04-22
+cens-0811200000-1343,27,Mary Hubbard,Cadbury Dairy Milk Chocolate Family Pack Bars  (134 g),130,3,2024-02-16
+cens-0811200000-1343,327,Heather Adams,Delish by Flipkart Mango Pickle (Acharo)  (400 g),180,3,2024-05-02
+cens-0811200000-1343,472,Jesus Arroyo,UNIBIC Choco Nut Cookies  (300 g),150,3,2024-05-01
+cens-0811200000-1343,233,Vincent Downs,BRITANNIA Gobbles Fruit Cake  (60 g),22,3,2024-05-02
+cens-0800600000-594,372,Paige Ortega,"Happilo Deluxe Kashmiri Walnuts, Kernels (Akhrot)  (190 g)",284,3,2024-02-19
+cens-0800600000-594,444,Ralph Thomas,"Nescafe Classic Coffee Powder, 100% Pure Instant Coffee  (90 g)",311,3,2024-02-08
+cens-0800600000-594,318,Christopher Mcdonald,"Dukes Bourbon Premium chocolate flavoured Cream Sandwich  (540 g, Pack of 4)",144,3,2024-04-14
+cens-0800600000-594,461,Mr. Marcus Butler MD,Maggi 2 Minute Special Masala Instant Noodles Vegetarian  (12 x 70 g),182,3,2024-03-01
+cens-0800600000-594,339,Megan Sampson,UNIBIC Cashew Cookies  (75 g),23,3,2024-04-06
+cens-0800600000-594,151,Jessica Watson,sprite PET Bottle  (2.25 L),100,3,2024-04-24
+cens-0800600000-594,235,Holly Jordan,"Tata Salt Himalayan Rock Salt, Premium Sendha Namak Rock Salt (Pothoro Lunno)  (1 kg)",120,3,2024-02-29
+cens-0800600000-594,256,Raymond Burton,Too Yumm! Veggie Stix Sour Cream and Onion Chips  (10 g Extra in Pack)  (65 g),28,3,2024-03-14
+cens-0800600000-594,236,Sue Beck,DNV Mixed Pickle (Acharo)  (1 kg),107,3,2024-03-24
+cens-0800600000-594,353,Riley Smith,Cadbury Choclairs Gold (100 Candies) Coffee Toffee  (520 g),160,3,2024-04-13
+cens-0800600000-594,476,John Hampton,Nescafe Classic Instant Coffee  (200 g),613,3,2024-03-31
+cens-0813850006-49,14,Eric Jones,Amul School Pack Salted Butter  (100 g),6,3,2024-02-09
+cens-0813850006-49,370,Todd Hunt,Delish by Flipkart Cocoa and Chocolate Spread 300 g,126,3,2024-03-11
+cens-0813850006-49,47,Angela Williamson,Apis Mixed Fruit Jam 1 kg,128,3,2024-04-10
+cens-0813850006-49,114,Michelle Brown,Maaza Mango Drink Original Flavor  (600 ml),35,3,2024-03-30
+cens-0813850006-49,330,Joseph Ellis,Milky Mist Skimmed Skimmed Milk Powder  (1 kg),364,3,2024-04-17
+cens-0811200000-1343,166,Cameron Gill,Apis Himalayan Honey  (750 g),156,4,2024-03-06
+cens-0811200000-1343,29,Richard Donovan,"PATANJALI Chakki Atta, Whole Wheat with Bran, Genhu ka Atta, Organic Flour (Whole-Gehuro otta)  (10 kg)",422,4,2024-02-21
+cens-0811200000-1343,332,Carolyn Hays,Mayurank Foods Mix Dal (Masur Dali)  (500 g),67,4,2024-04-10
+cens-0811200000-1343,476,John Hampton,"Delish by Flipkart Crunchy Muesli with 81% Multigrain Flakes, Source of Protein Pouch Pouch  (400 g)",278,4,2024-03-23
+cens-0811200000-1343,66,Scott Taylor,Skittles Original Fruit flavored Candies Fruit Candy  (90 g),100,4,2024-04-22
+cens-0811200000-1343,86,Beth Reed,Organic Tattva Brown Sugar  (500 g),58,4,2024-03-13
+cens-0811200000-1343,246,Christian Johnson,"ACT II Instant Popcorn (Cooker) - Cheese Flavor Buy 2 Get 1 Free Cheese Popcorn  (Combo Pack 2 + 1 Free, 70 g each)  (210 g, Pack of 2)",104,4,2024-03-26
+cens-0800600000-594,82,Antonio Powell,Real Fruit Juice - Apple  (1 L),126,4,2024-04-16
+cens-0800600000-594,138,Jeff Bowen,Cadbury Dairy Milk Silk Chocolate Bars  (60 g),72,4,2024-04-07
+cens-0800600000-594,403,Jesus Smith,Tata Sampann Coriander Powder With Natural Oils (dhania gunda)  (100 g),36,4,2024-04-10
+cens-0800600000-594,437,Brenda Swanson,"Red Label Natural Care Cardamom, Ginger, Liquorice, Tulsi Tea Box (Flavored Tea)  (500 g)",255,4,2024-04-15
+cens-0800600000-594,247,Sarah Huynh,Lay's India's Magic Masala Chips  (40 g),19,4,2024-04-17
+cens-0800600000-594,398,Michael Wilkinson,Apis Himalayan Honey  (750 g),156,4,2024-03-22
+cens-0813850006-49,273,Anthony Haley,MDH Kitchen King Mixed Spices Powder (Pariba masala)  (100 g),72,4,2024-04-16
+cens-0813850006-49,496,Alexis Hopkins,"Sunfeast YiPPee! Tricolor Instant , Creamy Corn Pasta  (65 g)",21,4,2024-04-17
+cens-0813850006-49,354,Lee Roberts,Amul Taaza Homogenised Toned Milk,1,4,2024-02-09
+cens-0813850006-49,25,Megan Craig,UNIBIC Fruit & Nut Cookies  (300 g),150,4,2024-03-07
+cens-0813850006-49,235,Holly Jordan,Delish by Flipkart Pure Honey with No Sugar Adulteration  (1 kg),214,4,2024-02-22
+cens-0813850006-49,299,Jennifer Thomas,MTR Khatta Meetha Poha 60 g,23,4,2024-03-02
+cens-0811200000-1343,364,Stacey Guzman,Nutralite Doodhshakti Probiotic|Made from Creamy Milk|Delicious Taste Butter Spread  (500 g),234,5,2024-02-28
+cens-0811200000-1343,277,Marissa Davis,"Kwality Crunchy Muesli Fruit & Nut, 76% Multigrains, High in Fibre & Protein, Breakfast Jar  (1 kg)",269,5,2024-04-23
+cens-0811200000-1343,318,Christopher Mcdonald,Premium Cumin Seeds (Gota jeera) (Jeera) by Flipkart Grocery  (100 g),110,5,2024-02-29
+cens-0811200000-1343,334,Julie Willis,Organic Tattva Ragi Flour (Mandia ro otta)  (500 g),59,5,2024-04-15
+cens-0811200000-1343,404,Michelle Johns,Real Fruit Juice - Litchi  (1 L),113,5,2024-02-16
+cens-0811200000-1343,251,Stephanie Holland,Classic Chana Dal (Buta Dali) (Split) by Flipkart Grocery  (1 kg),160,5,2024-04-02
+cens-0811200000-1343,44,Brenda Brewer,"Red Bull Original Energy Drink  (250 ml, Plain Flavored)",111,5,2024-04-04
+cens-0811200000-1343,257,Aimee Kelly,Flipkart Supermart Kadak Tea Pouch (Regular Tea)  (1 kg),162,5,2024-03-07
+cens-0800600000-594,497,Kristy Fisher,Catch Turmeric Powder  (200 g),48,5,2024-04-09
+cens-0800600000-594,482,Denise Jones,"Tata Sampann Instant Fibre Rich Idli Ready to Cook Mix/Batter, Make soft idlis in 15 mins 500 g",140,5,2024-02-15
+cens-0800600000-594,445,Zachary Ross,MDH Deggi Mirch Chilli Powder (Lal lanka gunda)  (100 g),103,5,2024-02-28
+cens-0800600000-594,406,Catherine Thompson,Zelssy Special Sada Mixture (Namkeen)  (425 g),102,5,2024-02-06
+cens-0800600000-594,287,Dr. Alan Everett,Nutralite Premium|Enriched with Vitamins and Omega 3|Naturally Cholesterol-free Fat Spread  (500 g),205,5,2024-03-10
+cens-0800600000-594,89,Brandy Garrett,Sunfeast Oats & Raisins Cookies Digestive  (150 g),45,5,2024-05-05
+cens-0800600000-594,257,Aimee Kelly,Chupa Chups Bites Mixed Fruit Sour Candy  (61.6 g),3,5,2024-03-08
+cens-0800600000-594,199,Andre White,Delish by Flipkart Jeera Cookies  (200 g),130,5,2024-04-11
+cens-0800600000-594,125,Jessica Taylor,Classic Indian Raisins by Flipkart Grocery (Kishmish)  (500 g),129,5,2024-04-15
+cens-0800600000-594,163,Ethan Bradley,Flipkart Supermart Coconut Cookies  (200 g),130,5,2024-02-16
+cens-0800600000-594,99,Natasha Green,EPIGAMIA Turbo Cookies & Cream Protein Milkshake,150,5,2024-03-05
+cens-0813850006-49,80,Linda Santos,Farmley Premium Raisins (Kishmish)  (500 g),174,5,2024-03-13
+cens-0813850006-49,489,David Oneill,"Kellogg's Chocos Crunchy Bites, Source of Calcium & Fibre, Breakfast Cereal for Kids Pouch  (56 g Extra in Pack)  (375 g)",176,5,2024-04-23
+cens-0813850006-49,32,Audrey Evans,"HERSHEY'S Strawberry Syrup Strawberry  (623, Pack of 1)",163,5,2024-04-28
+cens-0813850006-49,313,Yvette Greene,"GLUCON-D Regular Glucose Powder, Refill Extra 50 g Free Energy Drink  (50 g Extra in Pack)  (450 g, Plain Flavored)",14,5,2024-04-04
+cens-0813850006-49,201,Rachel Mathews,Sugar free Gold Sweetener  (100 g),133,5,2024-03-09
+cens-0813850006-49,65,Robert Rodriguez,Flipkart Supermart Mini Bhakarwadi  (200 g),118,5,2024-02-24
+cens-0813850006-49,250,Alyssa Johnson,Cadbury Dairy Milk Chocolate Bars  (23 g),19,5,2024-03-16
+cens-0811200000-1343,449,Melissa Holt,Anik Cow Ghee 500 ml Plastic Bottle (Ghio),334,6,2024-03-25
+cens-0811200000-1343,227,Mary Rivas,Unity From The House of India Gate - Dubar Basmati Rice (Basmati chaula) (Medium Grain)  (5 kg),429,6,2024-03-06
+cens-0811200000-1343,274,George Phillips,Classic Urad Gota (Gota Biri Dali) (Whole) by Flipkart Grocery  (1 kg),154,6,2024-04-10
+cens-0811200000-1343,398,Michael Wilkinson,Cadbury Bournvita Lil Champs Health Drink  (500 g),328,6,2024-02-17
+cens-0811200000-1343,422,Heather Lang,Gits Badam Pista Falooda mix 200 g,68,6,2024-04-05
+cens-0811200000-1343,20,Tina Brewer,Sublabh Gold Super Premium Baskati Rice  (10 kg),651,6,2024-04-17
+cens-0811200000-1343,394,Cathy Riley,Flipkart Supermart Food Essentials Premium Tea Pouch (Regular Tea)  (250 g),120,6,2024-02-10
+cens-0811200000-1343,465,Misty Carter,zoff Poppy Seeds (Posta)  (100 g),337,6,2024-03-21
+cens-0811200000-1343,444,Ralph Thomas,WONDERLAND Roasted & Salted Pistachios  (200 g),205,6,2024-04-09
+cens-0811200000-1343,338,James Townsend,Milky Mist Plain Processed cheese Cubes  (200 g),113,6,2024-04-18
+cens-0811200000-1343,380,Samantha Short,"Saffola Mayonnaise Eggless|Extra Creamy&Tasty|for sandwich,wraps,pastas,burgers & a dip 700 g",202,6,2024-05-01
+cens-0800600000-594,281,Jeffrey Warren,Soyfit Chilli Tofu  (200 g),105,6,2024-02-14
+cens-0800600000-594,320,Corey Lee,DHAMPURE Sulphurless Sugar (White Sugar)  (500 g),26,6,2024-02-10
+cens-0800600000-594,190,Stacy Hawkins,Classic Moong Dal (Muga Dali) (Whole) by Flipkart Grocery  (2 kg),266,6,2024-04-28
+cens-0800600000-594,182,Dr. Toni Kirk MD,Flipkart Grocery Classic Desi Ghee 500 ml Tetrapack (Ghio),284,6,2024-04-08
+cens-0813850006-49,102,Gabriel Guerra,zoff Dried Red Chilli Whole (Gota lanka)  (500 g),170,6,2024-04-09
+cens-0813850006-49,312,Tracy Garcia,Amul Source of Calcium & Protein Sweet Lassi  (250 ml),2,6,2024-02-17
+cens-0813850006-49,335,Lisa Webster,MDH Biryani Masala  (50 g),74,6,2024-03-14
+cens-0813850006-49,182,Dr. Toni Kirk MD,Milky Mist Vanilla Milk Shake,22,6,2024-05-03
+cens-0813850006-49,396,Melissa Parker,Delish by Flipkart Tamarind and Dates Chutney Paste  (200 g),100,6,2024-03-15
+cens-0813850006-49,206,Tiffany Graham,HORLICKS Classic Malt  (500 g),251,6,2024-02-10
+cens-0811200000-1343,253,Rachel Miranda,Bolas Roasted & Salted Pistachios  (200 g),356,7,2024-03-10
+cens-0811200000-1343,225,Carol Mccoy,Too Yumm! Multigrain Chips  (10 G Extra in Pack)  (65 g),26,7,2024-04-13
+cens-0811200000-1343,331,Richard Bender,Too Yumm! Classic Salted Chips  (90 g),38,7,2024-04-20
+cens-0811200000-1343,382,Sherry Charles,Saffola Gold Refined Cooking Rice Bran & Corn Blended Oil Can (Mishrita Tela)  (3 L),558,7,2024-04-19
+cens-0811200000-1343,229,Randy Rodriguez,Classic Urad Dal (Biri Dali) (Whole) by Flipkart Grocery  (5 kg),754,7,2024-03-27
+cens-0811200000-1343,483,Justin Holmes,Unity From The House of India Gate - Rozzana Basmati Rice (Basmati chaula) (Medium Grain)  (5 kg),399,7,2024-02-09
+cens-0811200000-1343,28,Hailey Petersen,INDIA GATE Regular Choice Basmati Rice (Basmati chaula) (Medium Grain)  (5 kg),434,7,2024-03-09
+cens-0800600000-594,259,Kristin Stephenson,Kalbavi Premium W320 Cashews (Kaju)  (500 g),371,7,2024-03-02
+cens-0800600000-594,56,Nicholas Burns PhD,"Kellogg's Chocos with Wholegrain, High in Calcium, Protein & Vitamins, Kid's Cereal Pouch  (250 g)",136,7,2024-02-25
+cens-0800600000-594,118,Ricardo Rice,"Tata Sampann Rava Dosa Mix, Ready to Cook Mix, Crispy & Tasty Dosa 500 g",140,7,2024-04-29
+cens-0800600000-594,311,Douglas Torres,"Kwality Crunchy Muesli Almonds & Raisins, 76% Multigrains, High in Fiber & Protein Plastic Bottle  (1 kg)",257,7,2024-03-12
+cens-0800600000-594,157,Steven Cobb,ProV Mini Almonds Roasted and Salted (Badam (Lunia/Poda))  (18 g),28,7,2024-04-20
+cens-0800600000-594,474,Victoria Torres,Fortune Kachi Ghani Mustard Oil Plastic Bottle (Sorisa Tela)  (500 ml),65,7,2024-03-30
+cens-0800600000-594,149,Jeffrey Callahan,"Rejuve by Flipkart Apple Fruit Drink, 100% Indian Fruit, Source of Vitamin C  (1 L)",114,7,2024-02-19
+cens-0800600000-594,175,Miranda Chambers,Soyfit Chilli Tofu  (200 g),105,7,2024-03-06
+cens-0800600000-594,325,Michael Simmons,Raw Pressery Mixed Fruit Juice  (1 L),155,7,2024-02-19
+cens-0813850006-49,45,Jonathan Wright,Fortune Suji  (500 g),25,7,2024-02-19
+cens-0813850006-49,330,Joseph Ellis,Catch Peri Peri Masala Sprinkler  (90 g),69,7,2024-04-06
+cens-0813850006-49,140,Michelle Reynolds,Yu Butter Chicken Cup - Contains Real Chicken Ready To Eat No Preservatives Instant Noodles Non-vegetarian  (70 g),53,7,2024-03-09
+cens-0813850006-49,429,Dr. Jason Bennett,Vicks Cough Drops Ginger Toffee  (36 g),19,7,2024-03-12
+cens-0813850006-49,420,Jeremiah Weber,Classic Whole Cashews by Flipkart Grocery (Kaju)  (200 g),133,7,2024-02-14
+cens-0813850006-49,289,Kelsey Griffin,"BRITANNIA Good Day Cashew Cookies  (600 g, Pack of 5)",105,7,2024-03-02
+cens-0813850006-49,76,John Johnson,Classic Green Cardamom by Flipkart Grocery (Chhota gujurati)  (50 g),113,7,2024-02-12
+cens-0813850006-49,215,Emily Stone,Bingo Mad Angles Achaari Masti Chips  (66 g),17,7,2024-03-27
+cens-0813850006-49,327,Heather Adams,Nutralite DoodhShakti Probiotic Butter Spread  (500 g),247,7,2024-02-10
+cens-0813850006-49,63,Christian Turner,DNV Green Chilli Pickle (Acharo)  (400 g),120,7,2024-03-17
+cens-0813850006-49,83,Jennifer Sanders,Varalakshmi Tapioca Premium Sago  (1 kg),105,7,2024-04-24
+cens-0811200000-1343,458,Richard Melendez,zoff Red Chilli Stemless (Gota lanka)  (500 g),198,8,2024-03-02
+cens-0811200000-1343,399,Chelsea Rice,Natureland Organics Urad Dal (Biri Dali) (Whole)  (1 kg),210,8,2024-04-19
+cens-0811200000-1343,117,Lisa Willis,MTR Instant Rava Dosa Mix 500 g,133,8,2024-02-17
+cens-0811200000-1343,489,David Oneill,"Emami Healthy and Tasty Mantra Chilli Powder, 100% Natural, No Added Colour & Preservatives (Lal lanka gunda)  (50 g)",25,8,2024-02-25
+cens-0811200000-1343,411,Jessica Grant,Nutraj (Khojuri) (Chuara - Kharek) Dry Dates  (500 g),207,8,2024-04-06
+cens-0800600000-594,293,Ryan Coleman,Amul Kool  (Kesar),2,8,2024-03-03
+cens-0800600000-594,354,Lee Roberts,Classic Coriander/Dhaniya Powder by Flipkart Grocery (dhania gunda)  (500 g),120,8,2024-04-24
+cens-0800600000-594,207,David Morris,Top's Stuffed Red Chilli Pickle (Acharo)  (375 g),110,8,2024-03-23
+cens-0800600000-594,30,Manuel Armstrong,"Nutri Choice Oats NutriChoice Oats, Milk Almond Cookies  (75 g)",2,8,2024-02-06
+cens-0800600000-594,270,Anthony Berry,Gits Badam Pista Falooda mix 200 g,68,8,2024-04-30
+cens-0800600000-594,235,Holly Jordan,"Tata Salt Himalayan Rock Salt, Premium Sendha Namak Rock Salt (Pothoro Lunno)  (1 kg)",120,8,2024-04-09
+cens-0800600000-594,245,Mrs. Susan Torres PhD,Cadbury Bournville Fruit & Nut Dark Chocolate Bars  (80 g),110,8,2024-03-04
+cens-0800600000-594,162,Jonathan Hall,Classic Green Peas (Motoro) (Whole) by Flipkart Grocery  (500 g),120,8,2024-02-17
+cens-0800600000-594,264,Brittany Blackwell,Tata Salt Iron Health Iodized Salt (Lunno)  (1 kg),38,8,2024-04-04
+cens-0800600000-594,255,Jerry Gibson,Organic Tattva Brown Sugar  (500 g),58,8,2024-04-07
+cens-0800600000-594,490,Erik Bates,ProV Natural Seedless Black Raisins (Kishmish)  (250 g),102,8,2024-04-11
+cens-0800600000-594,259,Kristin Stephenson,Cadbury Oreo Biscuit Chocolate Flavour (5 single packs inside) Cream Sandwich  (481.25 g),122,8,2024-03-22
+cens-0800600000-594,105,April Little,Sunfeast Oats & Almonds Cookies Digestive  (150 g),52,8,2024-02-11
+cens-0800600000-594,148,Allen Curry,"Bagrry's Crunchy Muesli with Almonds, Raisins & Honey |40% Fibre Rich Oats Pouch  (750 g)",318,8,2024-02-23
+cens-0800600000-594,393,Amy Williams,MARS Nougat & Caramel Filled Chocolate Bars  (51 g),53,8,2024-05-02
+cens-0813850006-49,359,Joel Hensley,MOTHER DAIRY Processed cheese Cubes  (180 g),114,8,2024-04-25
+cens-0813850006-49,354,Lee Roberts,"Kwality Pizza Pasta Seasoning of Herbs, Spices & Dehydrated Vegetable  (45 g)",49,8,2024-04-15
+cens-0813850006-49,65,Robert Rodriguez,"Kwality Corn Flakes Real Almond & Honey, 99% Fat Free, Breakfast Cereals Pouch  (1 kg)",290,8,2024-04-03
+cens-0813850006-49,436,Whitney Huang,zoff Kashmiri Chilli Powder (Lal lanka gunda)  (100 g),150,8,2024-02-08
+cens-0813850006-49,487,Robert Ortega,Taj Mahal Tea Box (Regular Tea)  (500 g),278,8,2024-03-17
+cens-0813850006-49,83,Jennifer Sanders,MTR Instant Rava Dosa Mix 500 g,133,8,2024-03-12
+cens-0813850006-49,279,Charles Johnson,RiteBite Max Protein Daily Choco Berry Bars 300g Box  (6 x 50 g),360,8,2024-05-01
+cens-0813850006-49,68,Luke Baldwin,Doublemint Chewymint Tube Lemon Mint  (30.4 g),43,8,2024-03-02
+cens-0813850006-49,335,Lisa Webster,BRITANNIA NutriChoice 5 Grain Multigrain Biscuits Digestive  (200 g),55,8,2024-04-11
+cens-0813850006-49,404,Michelle Johns,Prabhuji Tok Jhal Misti (Khata Meetha)  (25 g Extra in Pack)  (175 g),33,8,2024-03-29
+cens-0813850006-49,356,Zachary Cunningham,Flipkart Supermart Andhra Mixture  (200 g),115,8,2024-03-08
+cens-0811200000-1343,493,James Cruz,Raw Pressery Mixed Fruit Juice  (1 L),155,9,2024-02-06
+cens-0811200000-1343,75,James Collins,Agrilite Sonachoor Gobindobhog Rice (Medium Grain)  (5 kg),472,9,2024-03-31
+cens-0811200000-1343,378,Rhonda Ware,Agrilite Sonachoor Gobindobhog Rice (Medium Grain)  (5 kg),472,9,2024-04-12
+cens-0811200000-1343,357,Jeanette Shelton,"Kellogg's Corn Flakes Original, Power of Energy, Protein, Iron, Calcium & Vitamins, Cereal Pouch  (251 g)",9,9,2024-03-25
+cens-0800600000-594,271,Christopher Allen,Rejuve by Flipkart Premium Tea Pouch (Regular Tea)  (1 kg),269,9,2024-04-05
+cens-0800600000-594,450,Yvonne Crawford,Real Activ Fiber+ Multi Fruit Juice  (1 L),117,9,2024-03-13
+cens-0800600000-594,183,Kelly Richardson,BRITANNIA Pure Magic Chocolush Biscuits Cream Filled  (75 g),27,9,2024-04-04
+cens-0800600000-594,330,Joseph Ellis,Saffola Tasty Refined Cooking Oil Rice bran & Corn Blended Oil Can (Mishrita Tela)  (5 L),702,9,2024-02-08
+cens-0800600000-594,23,Stephanie Allen,HERSHEY'S Chocolate flavored Milkshake | Enriched with Calcium  (180 ml),29,9,2024-04-12
+cens-0800600000-594,454,Mr. Nicholas Smith MD,Classic Green Moong Dal (Muga Dali) (Split/Chilka) by Flipkart Grocery  (1 kg),141,9,2024-02-09
+cens-0800600000-594,67,Leon Santos,Fortune Everyday Basmati Rice (Basmati chaula) (Long Grain)  (1 kg),123,9,2024-03-02
+cens-0800600000-594,454,Mr. Nicholas Smith MD,"Bagrry's Crunchy Muesli with Almonds, Raisins & Honey |40% Fibre Rich Oats Pouch  (750 g)",318,9,2024-02-12
+cens-0813850006-49,464,Mark Roberts,Knorr Mixed Vegetable Soup  (40 g),51,9,2024-03-01
+cens-0813850006-49,480,Michael Duran,Classic Fried Gram (Split) by Flipkart Grocery  (500 g),58,9,2024-03-07
+cens-0813850006-49,476,John Hampton,Skittles Original Fruit flavored Candies Fruit Candy  (90 g),100,9,2024-03-05
+cens-0813850006-49,334,Julie Willis,Sunfeast Mom's Magic Cookies  (197 g),29,9,2024-03-26
+cens-0813850006-49,252,Marc Wood,"Tata Tea Premium Teaveda Tulsi, Cardamom, Ginger Black Tea Box  (500 g)",198,9,2024-04-28
+cens-0813850006-49,310,Krystal Williams,WINGREENS Chatpata Pudina Naan Chips  (60 g),29,9,2024-03-29
+cens-0813850006-49,136,Kelsey Harris,Chupa Chups Bites Mixed Fruit Sour Candy  (61.6 g),3,9,2024-03-28
+cens-0813850006-49,459,Melissa Cardenas,Cadbury Chocobakes ChocFilled Cookies  (150 g),61,9,2024-04-06
+cens-0813850006-49,25,Megan Craig,ProV Natural Seedless Black Raisins (Kishmish)  (250 g),102,9,2024-02-06
+cens-0813850006-49,391,Daniel Campos,WeiKFiELD Vanilla Flavour Custard Powder,31,9,2024-04-20
+cens-0811200000-1343,279,Charles Johnson,WeiKFiELD Double Action Baking Powder,28,10,2024-03-11
+cens-0811200000-1343,263,Jason Mendoza,"Tata Sampann Premium Quality Kaju, 100% Pure Cashews  (200 g)",198,10,2024-05-02
+cens-0811200000-1343,209,Sarah Anderson,Gits Rice Dosa Instant Breakfast Mix 1 kg,221,10,2024-02-21
+cens-0811200000-1343,352,Crystal Frank,Molsi's Arabian Black Dates (Khajuri)  (500 g),183,10,2024-03-20
+cens-0811200000-1343,53,Nicole Simpson,Alpenliebe Mixed Fruit Lollipop  (64 g),46,10,2024-04-07
+cens-0811200000-1343,82,Antonio Powell,Delish by Flipkart Green Chilli Pickle (Acharo)  (400 g),180,10,2024-02-05
+cens-0811200000-1343,291,Luke Curtis,"Kellogg's Nuts Delight, 12-in-1 Power Breakfast, IndiaNo.1 Muesli Cereal Pouch  (1000 g)",477,10,2024-02-23
+cens-0811200000-1343,263,Jason Mendoza,Cadbury Bournvita Lil Champs Health Drink  (500 g),328,10,2024-03-05
+cens-0811200000-1343,144,Matthew Ramirez,FIGARO Olive Oil Tin  (200 ml),412,10,2024-04-26
+cens-0811200000-1343,181,Lauren Craig,Natureland Organics Moong Dal (Muga Dali) (Split)  (1 kg),192,10,2024-03-01
+cens-0800600000-594,372,Paige Ortega,"Fortune Mogra Basmati Rice (Basmati chaula) (Broken Grain, Raw)  (5 kg)",346,10,2024-03-12
+cens-0800600000-594,490,Erik Bates,Catch Kasuri Methi  (50 g),40,10,2024-04-01
+cens-0800600000-594,7,Timothy Gray,Classic White Lobia (Whole) by Flipkart Grocery  (500 g),60,10,2024-03-27
+cens-0800600000-594,367,Jennifer Wright,lalji Khatta Meetha (Khata Meetha)  (400 g),235,10,2024-04-09
+cens-0800600000-594,78,Ashley Bryant,Top's Green Chilli Pickle (Acharo)  (900 g),109,10,2024-04-25
+cens-0800600000-594,461,Mr. Marcus Butler MD,Cadbury Dairy Milk Silk Chocolate Bars  (150 g),167,10,2024-02-15
+cens-0800600000-594,335,Lisa Webster,Bikano All Time Mixture  (1 kg),179,10,2024-04-24
+cens-0800600000-594,185,Amber Vazquez,Tropicana Mixed Fruit Delight  (1 L),110,10,2024-02-13
+cens-0800600000-594,319,Brandon Johnson,Bagrry's Choco Fills+ with 5 Grain Goodness | Ragi Advantage Box  (250 g),112,10,2024-02-06
+cens-0800600000-594,9,Ronald Taylor,HERSHEY'S Strawberry Flavored Milkshake | Enriched with Calcium  (180 ml),26,10,2024-04-07
+cens-0800600000-594,465,Misty Carter,AASHIRVAAD Rava Idli Instant Mix 500 g,111,10,2024-03-19
+cens-0813850006-49,315,Jeremy Owens,"Kwality Tomato Soup (Cuppa soup), Ready-to-Cook, Premium Quality Ingredients  (Pack of 6, 60 g)",42,10,2024-02-07
+cens-0813850006-49,359,Joel Hensley,"Kellogg's Fruit Magic, 12-in-1 Power Breakfast, IndiaNo.1 Muesli Cereal Pouch  (500 g)",342,10,2024-03-31
+cens-0813850006-49,265,Scott Monroe,Maggi 2 Minute Special Masala Instant Noodles Vegetarian  (12 x 70 g),182,10,2024-04-26
+cens-0813850006-49,243,Julie Blackwell,Bagrry's White Oats with 100% Whole Grains Pouch  (1.5 kg),217,10,2024-02-21
+cens-0813850006-49,434,Ricky Wolf,GALAXY Cookie Crumble Bars  (50 g),70,10,2024-02-06
+cens-0813850006-49,342,Frances Spears,Premium Mustard (Kala sorisa) (Rai Small) by Flipkart Grocery  (200 g),21,10,2024-04-29
+cens-0813850006-49,238,Laura Gomez,KOHINOOR Charminar Rozana Basmati Rice (Basmati chaula) (Medium Grain)  (1 kg),118,10,2024-02-14
+cens-0813850006-49,339,Megan Sampson,Dabur Hommade Tomato Puree  (200 g),23,10,2024-03-12
+cens-0813850006-49,115,Bryan King,Tata Sampann Toor/Arhar Dal (Harada Dali) (Split)  (500 g),108,10,2024-03-21
+cens-0813850006-49,36,Matthew Bond,Flipkart Supermart Kara Sev (Mixture)  (200 g),115,10,2024-03-16
+cens-0813850006-49,477,Jimmy Yoder,Delish by Flipkart Butter Choco Biscotti  (150 g),190,10,2024-04-08
+cens-0813850006-49,86,Beth Reed,Flipkart Supermart Butter Murukku (Muruku)  (200 g),102,10,2024-02-13

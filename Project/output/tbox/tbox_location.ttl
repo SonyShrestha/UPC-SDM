@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.example.edu/spicy_bytes/Location> a rdfs:Class .
+
+<http://www.example.edu/spicy_bytes/country_code> a rdf:Property ;
+    rdfs:domain <http://www.example.edu/spicy_bytes/Location> ;
+    rdfs:range xsd:string .
+
+<http://www.example.edu/spicy_bytes/latitude> a rdf:Property ;
+    rdfs:domain <http://www.example.edu/spicy_bytes/Location> ;
+    rdfs:range xsd:string .
+
+<http://www.example.edu/spicy_bytes/location_id> a rdf:Property ;
+    rdfs:domain <http://www.example.edu/spicy_bytes/Location> ;
+    rdfs:range xsd:string .
+
+<http://www.example.edu/spicy_bytes/lontitude> a rdf:Property ;
+    rdfs:domain <http://www.example.edu/spicy_bytes/Location> ;
+    rdfs:range xsd:string .
+
+<http://www.example.edu/spicy_bytes/place_name> a rdf:Property ;
+    rdfs:domain <http://www.example.edu/spicy_bytes/Location> ;
+    rdfs:range xsd:string .
+
+<http://www.example.edu/spicy_bytes/postal_code> a rdf:Property ;
+    rdfs:domain <http://www.example.edu/spicy_bytes/Location> ;
+    rdfs:range xsd:string .
+

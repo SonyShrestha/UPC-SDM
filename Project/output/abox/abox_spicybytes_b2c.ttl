@@ -1,0 +1,2051 @@
+@prefix ns1: <http://www.example.edu/spicy_bytes/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=105/product=sunfeast%20oats%20%26%20almonds%20cookies%20digestive%20%20%28150%20g%29/date=2024-02-11> a ns1:BusinessPurchase ;
+    ns1:buyer_id "105"^^xsd:string ;
+    ns1:product_name "sunfeast%20oats%20%26%20almonds%20cookies%20digestive%20%20%28150%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-11"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "52"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=11/product=alpenliebe%20mixed%20fruit%20lollipop%20%20%2864%20g%29/date=2024-04-18> a ns1:BusinessPurchase ;
+    ns1:buyer_id "11"^^xsd:string ;
+    ns1:product_name "alpenliebe%20mixed%20fruit%20lollipop%20%20%2864%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-18"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "46"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=112/product=classic%20wheat%20flour%20atta%20by%20flipkart%20grocery%20%28whole-gehuro%20otta%29%20%20%2810%20kg%29/date=2024-04-11> a ns1:BusinessPurchase ;
+    ns1:buyer_id "112"^^xsd:string ;
+    ns1:product_name "classic%20wheat%20flour%20atta%20by%20flipkart%20grocery%20%28whole-gehuro%20otta%29%20%20%2810%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-11"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "383"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=118/product=tata%20sampann%20rava%20dosa%20mix%2C%20ready%20to%20cook%20mix%2C%20crispy%20%26%20tasty%20dosa%20500%20g/date=2024-04-29> a ns1:BusinessPurchase ;
+    ns1:buyer_id "118"^^xsd:string ;
+    ns1:product_name "tata%20sampann%20rava%20dosa%20mix%2C%20ready%20to%20cook%20mix%2C%20crispy%20%26%20tasty%20dosa%20500%20g"^^xsd:string ;
+    ns1:purchase_date "2024-04-29"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "140"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=125/product=classic%20indian%20raisins%20by%20flipkart%20grocery%20%28kishmish%29%20%20%28500%20g%29/date=2024-04-15> a ns1:BusinessPurchase ;
+    ns1:buyer_id "125"^^xsd:string ;
+    ns1:product_name "classic%20indian%20raisins%20by%20flipkart%20grocery%20%28kishmish%29%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-15"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "129"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=129/product=britannia%20little%20hearts%20classic%20sweet%20%26%20salty%20%28mitha%20%26%20luniya%29%20%20%2875%20g%29/date=2024-03-11> a ns1:BusinessPurchase ;
+    ns1:buyer_id "129"^^xsd:string ;
+    ns1:product_name "britannia%20little%20hearts%20classic%20sweet%20%26%20salty%20%28mitha%20%26%20luniya%29%20%20%2875%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-11"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "24"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=138/product=cadbury%20dairy%20milk%20silk%20chocolate%20bars%20%20%2860%20g%29/date=2024-04-07> a ns1:BusinessPurchase ;
+    ns1:buyer_id "138"^^xsd:string ;
+    ns1:product_name "cadbury%20dairy%20milk%20silk%20chocolate%20bars%20%20%2860%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-07"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "72"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=148/product=bagrry%27s%20crunchy%20muesli%20with%20almonds%2C%20raisins%20%26%20honey%20%7C40%25%20fibre%20rich%20oats%20pouch%20%20%28750%20g%29/date=2024-02-23> a ns1:BusinessPurchase ;
+    ns1:buyer_id "148"^^xsd:string ;
+    ns1:product_name "bagrry%27s%20crunchy%20muesli%20with%20almonds%2C%20raisins%20%26%20honey%20%7C40%25%20fibre%20rich%20oats%20pouch%20%20%28750%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-23"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "318"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=149/product=rejuve%20by%20flipkart%20apple%20fruit%20drink%2C%20100%25%20indian%20fruit%2C%20source%20of%20vitamin%20c%20%20%281%20l%29/date=2024-02-19> a ns1:BusinessPurchase ;
+    ns1:buyer_id "149"^^xsd:string ;
+    ns1:product_name "rejuve%20by%20flipkart%20apple%20fruit%20drink%2C%20100%25%20indian%20fruit%2C%20source%20of%20vitamin%20c%20%20%281%20l%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-19"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "114"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=150/product=ruchi%20gold%20refined%20palm%20oil%20pouch%20%28khajuri%20tela%29%20%20%28850%20g%29/date=2024-04-15> a ns1:BusinessPurchase ;
+    ns1:buyer_id "150"^^xsd:string ;
+    ns1:product_name "ruchi%20gold%20refined%20palm%20oil%20pouch%20%28khajuri%20tela%29%20%20%28850%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-15"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "103"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=151/product=sprite%20pet%20bottle%20%20%282.25%20l%29/date=2024-04-24> a ns1:BusinessPurchase ;
+    ns1:buyer_id "151"^^xsd:string ;
+    ns1:product_name "sprite%20pet%20bottle%20%20%282.25%20l%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-24"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "100"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=157/product=prov%20mini%20almonds%20roasted%20and%20salted%20%28badam%20%28lunia/poda%29%29%20%20%2818%20g%29/date=2024-04-20> a ns1:BusinessPurchase ;
+    ns1:buyer_id "157"^^xsd:string ;
+    ns1:product_name "prov%20mini%20almonds%20roasted%20and%20salted%20%28badam%20%28lunia/poda%29%29%20%20%2818%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-20"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "28"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=162/product=classic%20green%20peas%20%28motoro%29%20%28whole%29%20by%20flipkart%20grocery%20%20%28500%20g%29/date=2024-02-17> a ns1:BusinessPurchase ;
+    ns1:buyer_id "162"^^xsd:string ;
+    ns1:product_name "classic%20green%20peas%20%28motoro%29%20%28whole%29%20by%20flipkart%20grocery%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-17"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "120"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=163/product=flipkart%20supermart%20coconut%20cookies%20%20%28200%20g%29/date=2024-02-16> a ns1:BusinessPurchase ;
+    ns1:buyer_id "163"^^xsd:string ;
+    ns1:product_name "flipkart%20supermart%20coconut%20cookies%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-16"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "130"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=167/product=farmley%20premium%20whole%20cranberries%20%20%28200%20g%29/date=2024-03-16> a ns1:BusinessPurchase ;
+    ns1:buyer_id "167"^^xsd:string ;
+    ns1:product_name "farmley%20premium%20whole%20cranberries%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-16"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "173"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=175/product=soyfit%20chilli%20tofu%20%20%28200%20g%29/date=2024-03-06> a ns1:BusinessPurchase ;
+    ns1:buyer_id "175"^^xsd:string ;
+    ns1:product_name "soyfit%20chilli%20tofu%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-06"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "105"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=182/product=flipkart%20grocery%20classic%20desi%20ghee%20500%20ml%20tetrapack%20%28ghio%29/date=2024-04-08> a ns1:BusinessPurchase ;
+    ns1:buyer_id "182"^^xsd:string ;
+    ns1:product_name "flipkart%20grocery%20classic%20desi%20ghee%20500%20ml%20tetrapack%20%28ghio%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-08"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "284"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=183/product=britannia%20pure%20magic%20chocolush%20biscuits%20cream%20filled%20%20%2875%20g%29/date=2024-04-04> a ns1:BusinessPurchase ;
+    ns1:buyer_id "183"^^xsd:string ;
+    ns1:product_name "britannia%20pure%20magic%20chocolush%20biscuits%20cream%20filled%20%20%2875%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-04"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "27"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=185/product=tropicana%20mixed%20fruit%20delight%20%20%281%20l%29/date=2024-02-13> a ns1:BusinessPurchase ;
+    ns1:buyer_id "185"^^xsd:string ;
+    ns1:product_name "tropicana%20mixed%20fruit%20delight%20%20%281%20l%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-13"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "110"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=19/product=everest%20shahi%20biryani%20masala%20%20%2850%20g%29/date=2024-02-23> a ns1:BusinessPurchase ;
+    ns1:buyer_id "19"^^xsd:string ;
+    ns1:product_name "everest%20shahi%20biryani%20masala%20%20%2850%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-23"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "72"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=190/product=classic%20moong%20dal%20%28muga%20dali%29%20%28whole%29%20by%20flipkart%20grocery%20%20%282%20kg%29/date=2024-04-28> a ns1:BusinessPurchase ;
+    ns1:buyer_id "190"^^xsd:string ;
+    ns1:product_name "classic%20moong%20dal%20%28muga%20dali%29%20%28whole%29%20by%20flipkart%20grocery%20%20%282%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-28"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "266"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=199/product=delish%20by%20flipkart%20jeera%20cookies%20%20%28200%20g%29/date=2024-04-11> a ns1:BusinessPurchase ;
+    ns1:buyer_id "199"^^xsd:string ;
+    ns1:product_name "delish%20by%20flipkart%20jeera%20cookies%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-11"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "130"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=20/product=classic%20almonds%20by%20flipkart%20grocery%20%28badam%29%20%20%28200%20g%29/date=2024-03-22> a ns1:BusinessPurchase ;
+    ns1:buyer_id "20"^^xsd:string ;
+    ns1:product_name "classic%20almonds%20by%20flipkart%20grocery%20%28badam%29%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-22"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "144"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=207/product=top%27s%20stuffed%20red%20chilli%20pickle%20%28acharo%29%20%20%28375%20g%29/date=2024-03-23> a ns1:BusinessPurchase ;
+    ns1:buyer_id "207"^^xsd:string ;
+    ns1:product_name "top%27s%20stuffed%20red%20chilli%20pickle%20%28acharo%29%20%20%28375%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-23"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "110"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=209/product=alpenliebe%20juicy%20fills%20assorted%20jelly%20candy%20%20%28324%20g%29/date=2024-04-17> a ns1:BusinessPurchase ;
+    ns1:buyer_id "209"^^xsd:string ;
+    ns1:product_name "alpenliebe%20juicy%20fills%20assorted%20jelly%20candy%20%20%28324%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-17"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "105"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=23/product=hershey%27s%20chocolate%20flavored%20milkshake%20%7C%20enriched%20with%20calcium%20%20%28180%20ml%29/date=2024-04-12> a ns1:BusinessPurchase ;
+    ns1:buyer_id "23"^^xsd:string ;
+    ns1:product_name "hershey%27s%20chocolate%20flavored%20milkshake%20%7C%20enriched%20with%20calcium%20%20%28180%20ml%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-12"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "29"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=235/product=tata%20salt%20himalayan%20rock%20salt%2C%20premium%20sendha%20namak%20rock%20salt%20%28pothoro%20lunno%29%20%20%281%20kg%29/date=2024-02-29> a ns1:BusinessPurchase ;
+    ns1:buyer_id "235"^^xsd:string ;
+    ns1:product_name "tata%20salt%20himalayan%20rock%20salt%2C%20premium%20sendha%20namak%20rock%20salt%20%28pothoro%20lunno%29%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-29"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "120"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=235/product=tata%20salt%20himalayan%20rock%20salt%2C%20premium%20sendha%20namak%20rock%20salt%20%28pothoro%20lunno%29%20%20%281%20kg%29/date=2024-04-09> a ns1:BusinessPurchase ;
+    ns1:buyer_id "235"^^xsd:string ;
+    ns1:product_name "tata%20salt%20himalayan%20rock%20salt%2C%20premium%20sendha%20namak%20rock%20salt%20%28pothoro%20lunno%29%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-09"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "120"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=236/product=dnv%20mixed%20pickle%20%28acharo%29%20%20%281%20kg%29/date=2024-03-24> a ns1:BusinessPurchase ;
+    ns1:buyer_id "236"^^xsd:string ;
+    ns1:product_name "dnv%20mixed%20pickle%20%28acharo%29%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-24"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "107"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=245/product=cadbury%20bournville%20fruit%20%26%20nut%20dark%20chocolate%20bars%20%20%2880%20g%29/date=2024-03-04> a ns1:BusinessPurchase ;
+    ns1:buyer_id "245"^^xsd:string ;
+    ns1:product_name "cadbury%20bournville%20fruit%20%26%20nut%20dark%20chocolate%20bars%20%20%2880%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-04"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "110"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=247/product=lay%27s%20india%27s%20magic%20masala%20chips%20%20%2840%20g%29/date=2024-04-17> a ns1:BusinessPurchase ;
+    ns1:buyer_id "247"^^xsd:string ;
+    ns1:product_name "lay%27s%20india%27s%20magic%20masala%20chips%20%20%2840%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-17"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "19"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=255/product=organic%20tattva%20brown%20sugar%20%20%28500%20g%29/date=2024-04-07> a ns1:BusinessPurchase ;
+    ns1:buyer_id "255"^^xsd:string ;
+    ns1:product_name "organic%20tattva%20brown%20sugar%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-07"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "58"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=256/product=too%20yumm%21%20veggie%20stix%20sour%20cream%20and%20onion%20chips%20%20%2810%20g%20extra%20in%20pack%29%20%20%2865%20g%29/date=2024-03-14> a ns1:BusinessPurchase ;
+    ns1:buyer_id "256"^^xsd:string ;
+    ns1:product_name "too%20yumm%21%20veggie%20stix%20sour%20cream%20and%20onion%20chips%20%20%2810%20g%20extra%20in%20pack%29%20%20%2865%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-14"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "28"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=257/product=chupa%20chups%20bites%20mixed%20fruit%20sour%20candy%20%20%2861.6%20g%29/date=2024-03-08> a ns1:BusinessPurchase ;
+    ns1:buyer_id "257"^^xsd:string ;
+    ns1:product_name "chupa%20chups%20bites%20mixed%20fruit%20sour%20candy%20%20%2861.6%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-08"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "3"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=259/product=cadbury%20oreo%20biscuit%20chocolate%20flavour%20%285%20single%20packs%20inside%29%20cream%20sandwich%20%20%28481.25%20g%29/date=2024-03-22> a ns1:BusinessPurchase ;
+    ns1:buyer_id "259"^^xsd:string ;
+    ns1:product_name "cadbury%20oreo%20biscuit%20chocolate%20flavour%20%285%20single%20packs%20inside%29%20cream%20sandwich%20%20%28481.25%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-22"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "122"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=259/product=kalbavi%20premium%20w320%20cashews%20%28kaju%29%20%20%28500%20g%29/date=2024-03-02> a ns1:BusinessPurchase ;
+    ns1:buyer_id "259"^^xsd:string ;
+    ns1:product_name "kalbavi%20premium%20w320%20cashews%20%28kaju%29%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-02"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "371"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=264/product=tata%20salt%20iron%20health%20iodized%20salt%20%28lunno%29%20%20%281%20kg%29/date=2024-04-04> a ns1:BusinessPurchase ;
+    ns1:buyer_id "264"^^xsd:string ;
+    ns1:product_name "tata%20salt%20iron%20health%20iodized%20salt%20%28lunno%29%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-04"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "38"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=270/product=gits%20badam%20pista%20falooda%20mix%20200%20g/date=2024-04-30> a ns1:BusinessPurchase ;
+    ns1:buyer_id "270"^^xsd:string ;
+    ns1:product_name "gits%20badam%20pista%20falooda%20mix%20200%20g"^^xsd:string ;
+    ns1:purchase_date "2024-04-30"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "68"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=271/product=rejuve%20by%20flipkart%20premium%20tea%20pouch%20%28regular%20tea%29%20%20%281%20kg%29/date=2024-04-05> a ns1:BusinessPurchase ;
+    ns1:buyer_id "271"^^xsd:string ;
+    ns1:product_name "rejuve%20by%20flipkart%20premium%20tea%20pouch%20%28regular%20tea%29%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-05"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "269"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=281/product=soyfit%20chilli%20tofu%20%20%28200%20g%29/date=2024-02-14> a ns1:BusinessPurchase ;
+    ns1:buyer_id "281"^^xsd:string ;
+    ns1:product_name "soyfit%20chilli%20tofu%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-14"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "105"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=287/product=nutralite%20premium%7Cenriched%20with%20vitamins%20and%20omega%203%7Cnaturally%20cholesterol-free%20fat%20spread%20%20%28500%20g%29/date=2024-03-10> a ns1:BusinessPurchase ;
+    ns1:buyer_id "287"^^xsd:string ;
+    ns1:product_name "nutralite%20premium%7Cenriched%20with%20vitamins%20and%20omega%203%7Cnaturally%20cholesterol-free%20fat%20spread%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-10"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "205"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=293/product=amul%20kool%20%20%28kesar%29/date=2024-03-03> a ns1:BusinessPurchase ;
+    ns1:buyer_id "293"^^xsd:string ;
+    ns1:product_name "amul%20kool%20%20%28kesar%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-03"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "2"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=30/product=nutri%20choice%20oats%20nutrichoice%20oats%2C%20milk%20almond%20cookies%20%20%2875%20g%29/date=2024-02-06> a ns1:BusinessPurchase ;
+    ns1:buyer_id "30"^^xsd:string ;
+    ns1:product_name "nutri%20choice%20oats%20nutrichoice%20oats%2C%20milk%20almond%20cookies%20%20%2875%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-06"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "2"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=311/product=kwality%20crunchy%20muesli%20almonds%20%26%20raisins%2C%2076%25%20multigrains%2C%20high%20in%20fiber%20%26%20protein%20plastic%20bottle%20%20%281%20kg%29/date=2024-03-12> a ns1:BusinessPurchase ;
+    ns1:buyer_id "311"^^xsd:string ;
+    ns1:product_name "kwality%20crunchy%20muesli%20almonds%20%26%20raisins%2C%2076%25%20multigrains%2C%20high%20in%20fiber%20%26%20protein%20plastic%20bottle%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-12"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "257"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=318/product=dukes%20bourbon%20premium%20chocolate%20flavoured%20cream%20sandwich%20%20%28540%20g%2C%20pack%20of%204%29/date=2024-04-14> a ns1:BusinessPurchase ;
+    ns1:buyer_id "318"^^xsd:string ;
+    ns1:product_name "dukes%20bourbon%20premium%20chocolate%20flavoured%20cream%20sandwich%20%20%28540%20g%2C%20pack%20of%204%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-14"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "144"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=319/product=bagrry%27s%20choco%20fills%2B%20with%205%20grain%20goodness%20%7C%20ragi%20advantage%20box%20%20%28250%20g%29/date=2024-02-06> a ns1:BusinessPurchase ;
+    ns1:buyer_id "319"^^xsd:string ;
+    ns1:product_name "bagrry%27s%20choco%20fills%2B%20with%205%20grain%20goodness%20%7C%20ragi%20advantage%20box%20%20%28250%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-06"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "112"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=320/product=dhampure%20sulphurless%20sugar%20%28white%20sugar%29%20%20%28500%20g%29/date=2024-02-10> a ns1:BusinessPurchase ;
+    ns1:buyer_id "320"^^xsd:string ;
+    ns1:product_name "dhampure%20sulphurless%20sugar%20%28white%20sugar%29%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-10"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "26"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=325/product=raw%20pressery%20mixed%20fruit%20juice%20%20%281%20l%29/date=2024-02-19> a ns1:BusinessPurchase ;
+    ns1:buyer_id "325"^^xsd:string ;
+    ns1:product_name "raw%20pressery%20mixed%20fruit%20juice%20%20%281%20l%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-19"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "155"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=330/product=saffola%20tasty%20refined%20cooking%20oil%20rice%20bran%20%26%20corn%20blended%20oil%20can%20%28mishrita%20tela%29%20%20%285%20l%29/date=2024-02-08> a ns1:BusinessPurchase ;
+    ns1:buyer_id "330"^^xsd:string ;
+    ns1:product_name "saffola%20tasty%20refined%20cooking%20oil%20rice%20bran%20%26%20corn%20blended%20oil%20can%20%28mishrita%20tela%29%20%20%285%20l%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-08"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "702"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=335/product=bikano%20all%20time%20mixture%20%20%281%20kg%29/date=2024-04-24> a ns1:BusinessPurchase ;
+    ns1:buyer_id "335"^^xsd:string ;
+    ns1:product_name "bikano%20all%20time%20mixture%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-24"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "179"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=339/product=unibic%20cashew%20cookies%20%20%2875%20g%29/date=2024-04-06> a ns1:BusinessPurchase ;
+    ns1:buyer_id "339"^^xsd:string ;
+    ns1:product_name "unibic%20cashew%20cookies%20%20%2875%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-06"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "23"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=353/product=cadbury%20choclairs%20gold%20%28100%20candies%29%20coffee%20toffee%20%20%28520%20g%29/date=2024-04-13> a ns1:BusinessPurchase ;
+    ns1:buyer_id "353"^^xsd:string ;
+    ns1:product_name "cadbury%20choclairs%20gold%20%28100%20candies%29%20coffee%20toffee%20%20%28520%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-13"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "160"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=354/product=classic%20coriander/dhaniya%20powder%20by%20flipkart%20grocery%20%28dhania%20gunda%29%20%20%28500%20g%29/date=2024-04-24> a ns1:BusinessPurchase ;
+    ns1:buyer_id "354"^^xsd:string ;
+    ns1:product_name "classic%20coriander/dhaniya%20powder%20by%20flipkart%20grocery%20%28dhania%20gunda%29%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-24"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "120"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=367/product=lalji%20khatta%20meetha%20%28khata%20meetha%29%20%20%28400%20g%29/date=2024-04-09> a ns1:BusinessPurchase ;
+    ns1:buyer_id "367"^^xsd:string ;
+    ns1:product_name "lalji%20khatta%20meetha%20%28khata%20meetha%29%20%20%28400%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-09"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "235"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=372/product=fortune%20mogra%20basmati%20rice%20%28basmati%20chaula%29%20%28broken%20grain%2C%20raw%29%20%20%285%20kg%29/date=2024-03-12> a ns1:BusinessPurchase ;
+    ns1:buyer_id "372"^^xsd:string ;
+    ns1:product_name "fortune%20mogra%20basmati%20rice%20%28basmati%20chaula%29%20%28broken%20grain%2C%20raw%29%20%20%285%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-12"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "346"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=372/product=happilo%20deluxe%20kashmiri%20walnuts%2C%20kernels%20%28akhrot%29%20%20%28190%20g%29/date=2024-02-19> a ns1:BusinessPurchase ;
+    ns1:buyer_id "372"^^xsd:string ;
+    ns1:product_name "happilo%20deluxe%20kashmiri%20walnuts%2C%20kernels%20%28akhrot%29%20%20%28190%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-19"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "284"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=387/product=catch%20super%20garam%20masala%20%28garam%20masala%20powder%29%20%20%28200%20g%29/date=2024-02-15> a ns1:BusinessPurchase ;
+    ns1:buyer_id "387"^^xsd:string ;
+    ns1:product_name "catch%20super%20garam%20masala%20%28garam%20masala%20powder%29%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-15"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "105"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=393/product=mars%20nougat%20%26%20caramel%20filled%20chocolate%20bars%20%20%2851%20g%29/date=2024-05-02> a ns1:BusinessPurchase ;
+    ns1:buyer_id "393"^^xsd:string ;
+    ns1:product_name "mars%20nougat%20%26%20caramel%20filled%20chocolate%20bars%20%20%2851%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-05-02"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "53"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=398/product=apis%20himalayan%20honey%20%20%28750%20g%29/date=2024-03-22> a ns1:BusinessPurchase ;
+    ns1:buyer_id "398"^^xsd:string ;
+    ns1:product_name "apis%20himalayan%20honey%20%20%28750%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-22"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "156"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=399/product=real%20masala%20guava%20%20%281%20l%29/date=2024-03-10> a ns1:BusinessPurchase ;
+    ns1:buyer_id "399"^^xsd:string ;
+    ns1:product_name "real%20masala%20guava%20%20%281%20l%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-10"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "140"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=403/product=tata%20sampann%20coriander%20powder%20with%20natural%20oils%20%28dhania%20gunda%29%20%20%28100%20g%29/date=2024-04-10> a ns1:BusinessPurchase ;
+    ns1:buyer_id "403"^^xsd:string ;
+    ns1:product_name "tata%20sampann%20coriander%20powder%20with%20natural%20oils%20%28dhania%20gunda%29%20%20%28100%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-10"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "36"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=406/product=zelssy%20special%20sada%20mixture%20%28namkeen%29%20%20%28425%20g%29/date=2024-02-06> a ns1:BusinessPurchase ;
+    ns1:buyer_id "406"^^xsd:string ;
+    ns1:product_name "zelssy%20special%20sada%20mixture%20%28namkeen%29%20%20%28425%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-06"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "102"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=437/product=lalji%20all%20in%20one%20%28mixture%29%20%20%28400%20g%29/date=2024-03-27> a ns1:BusinessPurchase ;
+    ns1:buyer_id "437"^^xsd:string ;
+    ns1:product_name "lalji%20all%20in%20one%20%28mixture%29%20%20%28400%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-27"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "235"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=437/product=red%20label%20natural%20care%20cardamom%2C%20ginger%2C%20liquorice%2C%20tulsi%20tea%20box%20%28flavored%20tea%29%20%20%28500%20g%29/date=2024-04-15> a ns1:BusinessPurchase ;
+    ns1:buyer_id "437"^^xsd:string ;
+    ns1:product_name "red%20label%20natural%20care%20cardamom%2C%20ginger%2C%20liquorice%2C%20tulsi%20tea%20box%20%28flavored%20tea%29%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-15"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "255"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=444/product=nescafe%20classic%20coffee%20powder%2C%20100%25%20pure%20instant%20coffee%20%20%2890%20g%29/date=2024-02-08> a ns1:BusinessPurchase ;
+    ns1:buyer_id "444"^^xsd:string ;
+    ns1:product_name "nescafe%20classic%20coffee%20powder%2C%20100%25%20pure%20instant%20coffee%20%20%2890%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-08"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "311"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=445/product=mdh%20deggi%20mirch%20chilli%20powder%20%28lal%20lanka%20gunda%29%20%20%28100%20g%29/date=2024-02-28> a ns1:BusinessPurchase ;
+    ns1:buyer_id "445"^^xsd:string ;
+    ns1:product_name "mdh%20deggi%20mirch%20chilli%20powder%20%28lal%20lanka%20gunda%29%20%20%28100%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-28"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "103"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=446/product=britannia%20treat%20creme%20roll%20vanilla%20croissants%20%20%2845%20g%29/date=2024-03-21> a ns1:BusinessPurchase ;
+    ns1:buyer_id "446"^^xsd:string ;
+    ns1:product_name "britannia%20treat%20creme%20roll%20vanilla%20croissants%20%20%2845%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-21"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "17"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=446/product=unibic%20sugar%20free%20oatmeal%2C%20marie%20biscuit%20%20%2875%20g%29/date=2024-04-01> a ns1:BusinessPurchase ;
+    ns1:buyer_id "446"^^xsd:string ;
+    ns1:product_name "unibic%20sugar%20free%20oatmeal%2C%20marie%20biscuit%20%20%2875%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-01"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "46"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=450/product=real%20activ%20fiber%2B%20multi%20fruit%20juice%20%20%281%20l%29/date=2024-03-13> a ns1:BusinessPurchase ;
+    ns1:buyer_id "450"^^xsd:string ;
+    ns1:product_name "real%20activ%20fiber%2B%20multi%20fruit%20juice%20%20%281%20l%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-13"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "117"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=454/product=bagrry%27s%20crunchy%20muesli%20with%20almonds%2C%20raisins%20%26%20honey%20%7C40%25%20fibre%20rich%20oats%20pouch%20%20%28750%20g%29/date=2024-02-12> a ns1:BusinessPurchase ;
+    ns1:buyer_id "454"^^xsd:string ;
+    ns1:product_name "bagrry%27s%20crunchy%20muesli%20with%20almonds%2C%20raisins%20%26%20honey%20%7C40%25%20fibre%20rich%20oats%20pouch%20%20%28750%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-12"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "318"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=454/product=classic%20green%20moong%20dal%20%28muga%20dali%29%20%28split/chilka%29%20by%20flipkart%20grocery%20%20%281%20kg%29/date=2024-02-09> a ns1:BusinessPurchase ;
+    ns1:buyer_id "454"^^xsd:string ;
+    ns1:product_name "classic%20green%20moong%20dal%20%28muga%20dali%29%20%28split/chilka%29%20by%20flipkart%20grocery%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-09"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "141"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=455/product=farmley%20tangy%20tomato%20makhana%20roasted%20in%20olive%20oil%20%28makhna%29%20%20%282%20x%2083%20g%29/date=2024-03-21> a ns1:BusinessPurchase ;
+    ns1:buyer_id "455"^^xsd:string ;
+    ns1:product_name "farmley%20tangy%20tomato%20makhana%20roasted%20in%20olive%20oil%20%28makhna%29%20%20%282%20x%2083%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-21"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "274"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=461/product=cadbury%20dairy%20milk%20silk%20chocolate%20bars%20%20%28150%20g%29/date=2024-02-15> a ns1:BusinessPurchase ;
+    ns1:buyer_id "461"^^xsd:string ;
+    ns1:product_name "cadbury%20dairy%20milk%20silk%20chocolate%20bars%20%20%28150%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-15"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "167"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=461/product=maggi%202%20minute%20special%20masala%20instant%20noodles%20vegetarian%20%20%2812%20x%2070%20g%29/date=2024-03-01> a ns1:BusinessPurchase ;
+    ns1:buyer_id "461"^^xsd:string ;
+    ns1:product_name "maggi%202%20minute%20special%20masala%20instant%20noodles%20vegetarian%20%20%2812%20x%2070%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-01"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "182"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=465/product=aashirvaad%20rava%20idli%20instant%20mix%20500%20g/date=2024-03-19> a ns1:BusinessPurchase ;
+    ns1:buyer_id "465"^^xsd:string ;
+    ns1:product_name "aashirvaad%20rava%20idli%20instant%20mix%20500%20g"^^xsd:string ;
+    ns1:purchase_date "2024-03-19"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "111"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=474/product=fortune%20kachi%20ghani%20mustard%20oil%20plastic%20bottle%20%28sorisa%20tela%29%20%20%28500%20ml%29/date=2024-03-30> a ns1:BusinessPurchase ;
+    ns1:buyer_id "474"^^xsd:string ;
+    ns1:product_name "fortune%20kachi%20ghani%20mustard%20oil%20plastic%20bottle%20%28sorisa%20tela%29%20%20%28500%20ml%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-30"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "65"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=476/product=nescafe%20classic%20instant%20coffee%20%20%28200%20g%29/date=2024-03-31> a ns1:BusinessPurchase ;
+    ns1:buyer_id "476"^^xsd:string ;
+    ns1:product_name "nescafe%20classic%20instant%20coffee%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-31"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "613"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=482/product=tata%20sampann%20instant%20fibre%20rich%20idli%20ready%20to%20cook%20mix/batter%2C%20make%20soft%20idlis%20in%2015%20mins%20500%20g/date=2024-02-15> a ns1:BusinessPurchase ;
+    ns1:buyer_id "482"^^xsd:string ;
+    ns1:product_name "tata%20sampann%20instant%20fibre%20rich%20idli%20ready%20to%20cook%20mix/batter%2C%20make%20soft%20idlis%20in%2015%20mins%20500%20g"^^xsd:string ;
+    ns1:purchase_date "2024-02-15"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "140"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=488/product=natural%20tattva%20natural%20rock%20salt%20%28pothoro%20lunno%29%20%20%28500%20g%29/date=2024-03-10> a ns1:BusinessPurchase ;
+    ns1:buyer_id "488"^^xsd:string ;
+    ns1:product_name "natural%20tattva%20natural%20rock%20salt%20%28pothoro%20lunno%29%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-10"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "45"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=490/product=catch%20kasuri%20methi%20%20%2850%20g%29/date=2024-04-01> a ns1:BusinessPurchase ;
+    ns1:buyer_id "490"^^xsd:string ;
+    ns1:product_name "catch%20kasuri%20methi%20%20%2850%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-01"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "40"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=490/product=prov%20natural%20seedless%20black%20raisins%20%28kishmish%29%20%20%28250%20g%29/date=2024-04-11> a ns1:BusinessPurchase ;
+    ns1:buyer_id "490"^^xsd:string ;
+    ns1:product_name "prov%20natural%20seedless%20black%20raisins%20%28kishmish%29%20%20%28250%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-11"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "102"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=497/product=catch%20turmeric%20powder%20%20%28200%20g%29/date=2024-04-09> a ns1:BusinessPurchase ;
+    ns1:buyer_id "497"^^xsd:string ;
+    ns1:product_name "catch%20turmeric%20powder%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-09"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "48"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=56/product=kellogg%27s%20chocos%20with%20wholegrain%2C%20high%20in%20calcium%2C%20protein%20%26%20vitamins%2C%20kid%27s%20cereal%20pouch%20%20%28250%20g%29/date=2024-02-25> a ns1:BusinessPurchase ;
+    ns1:buyer_id "56"^^xsd:string ;
+    ns1:product_name "kellogg%27s%20chocos%20with%20wholegrain%2C%20high%20in%20calcium%2C%20protein%20%26%20vitamins%2C%20kid%27s%20cereal%20pouch%20%20%28250%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-25"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "136"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=67/product=fortune%20everyday%20basmati%20rice%20%28basmati%20chaula%29%20%28long%20grain%29%20%20%281%20kg%29/date=2024-03-02> a ns1:BusinessPurchase ;
+    ns1:buyer_id "67"^^xsd:string ;
+    ns1:product_name "fortune%20everyday%20basmati%20rice%20%28basmati%20chaula%29%20%28long%20grain%29%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-02"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "123"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=7/product=classic%20white%20lobia%20%28whole%29%20by%20flipkart%20grocery%20%20%28500%20g%29/date=2024-03-27> a ns1:BusinessPurchase ;
+    ns1:buyer_id "7"^^xsd:string ;
+    ns1:product_name "classic%20white%20lobia%20%28whole%29%20by%20flipkart%20grocery%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-27"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "60"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=78/product=top%27s%20green%20chilli%20pickle%20%28acharo%29%20%20%28900%20g%29/date=2024-04-25> a ns1:BusinessPurchase ;
+    ns1:buyer_id "78"^^xsd:string ;
+    ns1:product_name "top%27s%20green%20chilli%20pickle%20%28acharo%29%20%20%28900%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-25"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "109"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=82/product=real%20fruit%20juice%20-%20apple%20%20%281%20l%29/date=2024-04-16> a ns1:BusinessPurchase ;
+    ns1:buyer_id "82"^^xsd:string ;
+    ns1:product_name "real%20fruit%20juice%20-%20apple%20%20%281%20l%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-16"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "126"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=89/product=sunfeast%20oats%20%26%20raisins%20cookies%20digestive%20%20%28150%20g%29/date=2024-05-05> a ns1:BusinessPurchase ;
+    ns1:buyer_id "89"^^xsd:string ;
+    ns1:product_name "sunfeast%20oats%20%26%20raisins%20cookies%20digestive%20%20%28150%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-05-05"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "45"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=9/product=hershey%27s%20strawberry%20flavored%20milkshake%20%7C%20enriched%20with%20calcium%20%20%28180%20ml%29/date=2024-04-07> a ns1:BusinessPurchase ;
+    ns1:buyer_id "9"^^xsd:string ;
+    ns1:product_name "hershey%27s%20strawberry%20flavored%20milkshake%20%7C%20enriched%20with%20calcium%20%20%28180%20ml%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-07"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "26"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=91/product=bagrry%27s%20corn%20flakes%20plus%20original%20%26%20healthier%20%28with%20fibre%20power%29%20pouch%20%20%2880%20g%20extra%20in%20pack%29%20%20%28800%20g%29/date=2024-03-01> a ns1:BusinessPurchase ;
+    ns1:buyer_id "91"^^xsd:string ;
+    ns1:product_name "bagrry%27s%20corn%20flakes%20plus%20original%20%26%20healthier%20%28with%20fibre%20power%29%20pouch%20%20%2880%20g%20extra%20in%20pack%29%20%20%28800%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-01"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "199"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0800600000-594/buyer=99/product=epigamia%20turbo%20cookies%20%26%20cream%20protein%20milkshake/date=2024-03-05> a ns1:BusinessPurchase ;
+    ns1:buyer_id "99"^^xsd:string ;
+    ns1:product_name "epigamia%20turbo%20cookies%20%26%20cream%20protein%20milkshake"^^xsd:string ;
+    ns1:purchase_date "2024-03-05"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0800600000-594"^^xsd:string ;
+    ns1:unit_price "150"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=10/product=delish%20by%20flipkart%20mango%20pickle%20%28acharo%29%20%20%28400%20g%29/date=2024-02-10> a ns1:BusinessPurchase ;
+    ns1:buyer_id "10"^^xsd:string ;
+    ns1:product_name "delish%20by%20flipkart%20mango%20pickle%20%28acharo%29%20%20%28400%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-10"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "180"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=113/product=kwality%20pizza%20pasta%20seasoning%20of%20herbs%2C%20spices%20%26%20dehydrated%20vegetable%20%20%2845%20g%29/date=2024-02-09> a ns1:BusinessPurchase ;
+    ns1:buyer_id "113"^^xsd:string ;
+    ns1:product_name "kwality%20pizza%20pasta%20seasoning%20of%20herbs%2C%20spices%20%26%20dehydrated%20vegetable%20%20%2845%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-09"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "49"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=117/product=mtr%20instant%20rava%20dosa%20mix%20500%20g/date=2024-02-17> a ns1:BusinessPurchase ;
+    ns1:buyer_id "117"^^xsd:string ;
+    ns1:product_name "mtr%20instant%20rava%20dosa%20mix%20500%20g"^^xsd:string ;
+    ns1:purchase_date "2024-02-17"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "133"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=126/product=flipkart%20supermart%20gold%20tea%20pouch%20%28regular%20tea%29%20%20%28250%20g%29/date=2024-03-03> a ns1:BusinessPurchase ;
+    ns1:buyer_id "126"^^xsd:string ;
+    ns1:product_name "flipkart%20supermart%20gold%20tea%20pouch%20%28regular%20tea%29%20%20%28250%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-03"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "199"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=142/product=complan%20nutrition%20and%20health%20drink%20royale%20chocolate%20jar%20%28flavored%29%20%20%28500%20g%29/date=2024-03-09> a ns1:BusinessPurchase ;
+    ns1:buyer_id "142"^^xsd:string ;
+    ns1:product_name "complan%20nutrition%20and%20health%20drink%20royale%20chocolate%20jar%20%28flavored%29%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-09"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "277"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=144/product=figaro%20olive%20oil%20tin%20%20%28200%20ml%29/date=2024-04-26> a ns1:BusinessPurchase ;
+    ns1:buyer_id "144"^^xsd:string ;
+    ns1:product_name "figaro%20olive%20oil%20tin%20%20%28200%20ml%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-26"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "412"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=158/product=delish%20by%20flipkart%20mango%20pickle%20%28acharo%29%20%20%28400%20g%29/date=2024-04-26> a ns1:BusinessPurchase ;
+    ns1:buyer_id "158"^^xsd:string ;
+    ns1:product_name "delish%20by%20flipkart%20mango%20pickle%20%28acharo%29%20%20%28400%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-26"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "180"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=166/product=apis%20himalayan%20honey%20%20%28750%20g%29/date=2024-03-06> a ns1:BusinessPurchase ;
+    ns1:buyer_id "166"^^xsd:string ;
+    ns1:product_name "apis%20himalayan%20honey%20%20%28750%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-06"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "156"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=18/product=figaro%20extra%20virgin%20olive%20oil%20plastic%20bottle%20%20%28250%20ml%29/date=2024-03-17> a ns1:BusinessPurchase ;
+    ns1:buyer_id "18"^^xsd:string ;
+    ns1:product_name "figaro%20extra%20virgin%20olive%20oil%20plastic%20bottle%20%20%28250%20ml%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-17"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "393"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=181/product=natureland%20organics%20moong%20dal%20%28muga%20dali%29%20%28split%29%20%20%281%20kg%29/date=2024-03-01> a ns1:BusinessPurchase ;
+    ns1:buyer_id "181"^^xsd:string ;
+    ns1:product_name "natureland%20organics%20moong%20dal%20%28muga%20dali%29%20%28split%29%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-01"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "192"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=20/product=sublabh%20gold%20super%20premium%20baskati%20rice%20%20%2810%20kg%29/date=2024-04-17> a ns1:BusinessPurchase ;
+    ns1:buyer_id "20"^^xsd:string ;
+    ns1:product_name "sublabh%20gold%20super%20premium%20baskati%20rice%20%20%2810%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-17"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "651"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=209/product=gits%20rice%20dosa%20instant%20breakfast%20mix%201%20kg/date=2024-02-21> a ns1:BusinessPurchase ;
+    ns1:buyer_id "209"^^xsd:string ;
+    ns1:product_name "gits%20rice%20dosa%20instant%20breakfast%20mix%201%20kg"^^xsd:string ;
+    ns1:purchase_date "2024-02-21"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "221"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=225/product=too%20yumm%21%20multigrain%20chips%20%20%2810%20g%20extra%20in%20pack%29%20%20%2865%20g%29/date=2024-04-13> a ns1:BusinessPurchase ;
+    ns1:buyer_id "225"^^xsd:string ;
+    ns1:product_name "too%20yumm%21%20multigrain%20chips%20%20%2810%20g%20extra%20in%20pack%29%20%20%2865%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-13"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "26"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=227/product=unity%20from%20the%20house%20of%20india%20gate%20-%20dubar%20basmati%20rice%20%28basmati%20chaula%29%20%28medium%20grain%29%20%20%285%20kg%29/date=2024-03-06> a ns1:BusinessPurchase ;
+    ns1:buyer_id "227"^^xsd:string ;
+    ns1:product_name "unity%20from%20the%20house%20of%20india%20gate%20-%20dubar%20basmati%20rice%20%28basmati%20chaula%29%20%28medium%20grain%29%20%20%285%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-06"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "429"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=229/product=classic%20urad%20dal%20%28biri%20dali%29%20%28whole%29%20by%20flipkart%20grocery%20%20%285%20kg%29/date=2024-03-27> a ns1:BusinessPurchase ;
+    ns1:buyer_id "229"^^xsd:string ;
+    ns1:product_name "classic%20urad%20dal%20%28biri%20dali%29%20%28whole%29%20by%20flipkart%20grocery%20%20%285%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-27"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "754"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=233/product=britannia%20gobbles%20fruit%20cake%20%20%2860%20g%29/date=2024-05-02> a ns1:BusinessPurchase ;
+    ns1:buyer_id "233"^^xsd:string ;
+    ns1:product_name "britannia%20gobbles%20fruit%20cake%20%20%2860%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-05-02"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "22"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=246/product=act%20ii%20instant%20popcorn%20%28cooker%29%20-%20cheese%20flavor%20buy%202%20get%201%20free%20cheese%20popcorn%20%20%28combo%20pack%202%20%2B%201%20free%2C%2070%20g%20each%29%20%20%28210%20g%2C%20pack%20of%202%29/date=2024-03-26> a ns1:BusinessPurchase ;
+    ns1:buyer_id "246"^^xsd:string ;
+    ns1:product_name "act%20ii%20instant%20popcorn%20%28cooker%29%20-%20cheese%20flavor%20buy%202%20get%201%20free%20cheese%20popcorn%20%20%28combo%20pack%202%20%2B%201%20free%2C%2070%20g%20each%29%20%20%28210%20g%2C%20pack%20of%202%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-26"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "104"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=251/product=classic%20chana%20dal%20%28buta%20dali%29%20%28split%29%20by%20flipkart%20grocery%20%20%281%20kg%29/date=2024-04-02> a ns1:BusinessPurchase ;
+    ns1:buyer_id "251"^^xsd:string ;
+    ns1:product_name "classic%20chana%20dal%20%28buta%20dali%29%20%28split%29%20by%20flipkart%20grocery%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-02"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "160"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=253/product=bolas%20roasted%20%26%20salted%20pistachios%20%20%28200%20g%29/date=2024-03-10> a ns1:BusinessPurchase ;
+    ns1:buyer_id "253"^^xsd:string ;
+    ns1:product_name "bolas%20roasted%20%26%20salted%20pistachios%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-10"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "356"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=257/product=flipkart%20supermart%20kadak%20tea%20pouch%20%28regular%20tea%29%20%20%281%20kg%29/date=2024-03-07> a ns1:BusinessPurchase ;
+    ns1:buyer_id "257"^^xsd:string ;
+    ns1:product_name "flipkart%20supermart%20kadak%20tea%20pouch%20%28regular%20tea%29%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-07"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "162"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=263/product=cadbury%20bournvita%20lil%20champs%20health%20drink%20%20%28500%20g%29/date=2024-03-05> a ns1:BusinessPurchase ;
+    ns1:buyer_id "263"^^xsd:string ;
+    ns1:product_name "cadbury%20bournvita%20lil%20champs%20health%20drink%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-05"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "328"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=263/product=tata%20sampann%20premium%20quality%20kaju%2C%20100%25%20pure%20cashews%20%20%28200%20g%29/date=2024-05-02> a ns1:BusinessPurchase ;
+    ns1:buyer_id "263"^^xsd:string ;
+    ns1:product_name "tata%20sampann%20premium%20quality%20kaju%2C%20100%25%20pure%20cashews%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-05-02"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "198"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=27/product=cadbury%20dairy%20milk%20chocolate%20family%20pack%20bars%20%20%28134%20g%29/date=2024-02-16> a ns1:BusinessPurchase ;
+    ns1:buyer_id "27"^^xsd:string ;
+    ns1:product_name "cadbury%20dairy%20milk%20chocolate%20family%20pack%20bars%20%20%28134%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-16"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "130"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=274/product=classic%20urad%20gota%20%28gota%20biri%20dali%29%20%28whole%29%20by%20flipkart%20grocery%20%20%281%20kg%29/date=2024-04-10> a ns1:BusinessPurchase ;
+    ns1:buyer_id "274"^^xsd:string ;
+    ns1:product_name "classic%20urad%20gota%20%28gota%20biri%20dali%29%20%28whole%29%20by%20flipkart%20grocery%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-10"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "154"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=277/product=kwality%20crunchy%20muesli%20fruit%20%26%20nut%2C%2076%25%20multigrains%2C%20high%20in%20fibre%20%26%20protein%2C%20breakfast%20jar%20%20%281%20kg%29/date=2024-04-23> a ns1:BusinessPurchase ;
+    ns1:buyer_id "277"^^xsd:string ;
+    ns1:product_name "kwality%20crunchy%20muesli%20fruit%20%26%20nut%2C%2076%25%20multigrains%2C%20high%20in%20fibre%20%26%20protein%2C%20breakfast%20jar%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-23"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "269"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=279/product=weikfield%20double%20action%20baking%20powder/date=2024-03-11> a ns1:BusinessPurchase ;
+    ns1:buyer_id "279"^^xsd:string ;
+    ns1:product_name "weikfield%20double%20action%20baking%20powder"^^xsd:string ;
+    ns1:purchase_date "2024-03-11"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "28"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=28/product=india%20gate%20regular%20choice%20basmati%20rice%20%28basmati%20chaula%29%20%28medium%20grain%29%20%20%285%20kg%29/date=2024-03-09> a ns1:BusinessPurchase ;
+    ns1:buyer_id "28"^^xsd:string ;
+    ns1:product_name "india%20gate%20regular%20choice%20basmati%20rice%20%28basmati%20chaula%29%20%28medium%20grain%29%20%20%285%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-09"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "434"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=29/product=patanjali%20chakki%20atta%2C%20whole%20wheat%20with%20bran%2C%20genhu%20ka%20atta%2C%20organic%20flour%20%28whole-gehuro%20otta%29%20%20%2810%20kg%29/date=2024-02-21> a ns1:BusinessPurchase ;
+    ns1:buyer_id "29"^^xsd:string ;
+    ns1:product_name "patanjali%20chakki%20atta%2C%20whole%20wheat%20with%20bran%2C%20genhu%20ka%20atta%2C%20organic%20flour%20%28whole-gehuro%20otta%29%20%20%2810%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-21"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "422"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=291/product=kellogg%27s%20nuts%20delight%2C%2012-in-1%20power%20breakfast%2C%20indiano.1%20muesli%20cereal%20pouch%20%20%281000%20g%29/date=2024-02-23> a ns1:BusinessPurchase ;
+    ns1:buyer_id "291"^^xsd:string ;
+    ns1:product_name "kellogg%27s%20nuts%20delight%2C%2012-in-1%20power%20breakfast%2C%20indiano.1%20muesli%20cereal%20pouch%20%20%281000%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-23"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "477"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=305/product=ruchi%20chicken%20masala%20powder%20%20%28100%20g%29/date=2024-04-22> a ns1:BusinessPurchase ;
+    ns1:buyer_id "305"^^xsd:string ;
+    ns1:product_name "ruchi%20chicken%20masala%20powder%20%20%28100%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-22"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "65"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=318/product=premium%20cumin%20seeds%20%28gota%20jeera%29%20%28jeera%29%20by%20flipkart%20grocery%20%20%28100%20g%29/date=2024-02-29> a ns1:BusinessPurchase ;
+    ns1:buyer_id "318"^^xsd:string ;
+    ns1:product_name "premium%20cumin%20seeds%20%28gota%20jeera%29%20%28jeera%29%20by%20flipkart%20grocery%20%20%28100%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-29"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "110"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=327/product=delish%20by%20flipkart%20mango%20pickle%20%28acharo%29%20%20%28400%20g%29/date=2024-05-02> a ns1:BusinessPurchase ;
+    ns1:buyer_id "327"^^xsd:string ;
+    ns1:product_name "delish%20by%20flipkart%20mango%20pickle%20%28acharo%29%20%20%28400%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-05-02"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "180"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=331/product=too%20yumm%21%20classic%20salted%20chips%20%20%2890%20g%29/date=2024-04-20> a ns1:BusinessPurchase ;
+    ns1:buyer_id "331"^^xsd:string ;
+    ns1:product_name "too%20yumm%21%20classic%20salted%20chips%20%20%2890%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-20"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "38"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=332/product=mayurank%20foods%20mix%20dal%20%28masur%20dali%29%20%20%28500%20g%29/date=2024-04-10> a ns1:BusinessPurchase ;
+    ns1:buyer_id "332"^^xsd:string ;
+    ns1:product_name "mayurank%20foods%20mix%20dal%20%28masur%20dali%29%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-10"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "67"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=334/product=organic%20tattva%20ragi%20flour%20%28mandia%20ro%20otta%29%20%20%28500%20g%29/date=2024-04-15> a ns1:BusinessPurchase ;
+    ns1:buyer_id "334"^^xsd:string ;
+    ns1:product_name "organic%20tattva%20ragi%20flour%20%28mandia%20ro%20otta%29%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-15"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "59"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=338/product=milky%20mist%20plain%20processed%20cheese%20cubes%20%20%28200%20g%29/date=2024-04-18> a ns1:BusinessPurchase ;
+    ns1:buyer_id "338"^^xsd:string ;
+    ns1:product_name "milky%20mist%20plain%20processed%20cheese%20cubes%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-18"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "113"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=351/product=veeba%20chef%27s%20special%20veg%20mayonnaise%20eggless%20875%20g/date=2024-03-29> a ns1:BusinessPurchase ;
+    ns1:buyer_id "351"^^xsd:string ;
+    ns1:product_name "veeba%20chef%27s%20special%20veg%20mayonnaise%20eggless%20875%20g"^^xsd:string ;
+    ns1:purchase_date "2024-03-29"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "156"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=352/product=molsi%27s%20arabian%20black%20dates%20%28khajuri%29%20%20%28500%20g%29/date=2024-03-20> a ns1:BusinessPurchase ;
+    ns1:buyer_id "352"^^xsd:string ;
+    ns1:product_name "molsi%27s%20arabian%20black%20dates%20%28khajuri%29%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-20"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "183"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=357/product=kellogg%27s%20corn%20flakes%20original%2C%20power%20of%20energy%2C%20protein%2C%20iron%2C%20calcium%20%26%20vitamins%2C%20cereal%20pouch%20%20%28251%20g%29/date=2024-03-25> a ns1:BusinessPurchase ;
+    ns1:buyer_id "357"^^xsd:string ;
+    ns1:product_name "kellogg%27s%20corn%20flakes%20original%2C%20power%20of%20energy%2C%20protein%2C%20iron%2C%20calcium%20%26%20vitamins%2C%20cereal%20pouch%20%20%28251%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-25"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "9"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=364/product=nutralite%20doodhshakti%20probiotic%7Cmade%20from%20creamy%20milk%7Cdelicious%20taste%20butter%20spread%20%20%28500%20g%29/date=2024-02-28> a ns1:BusinessPurchase ;
+    ns1:buyer_id "364"^^xsd:string ;
+    ns1:product_name "nutralite%20doodhshakti%20probiotic%7Cmade%20from%20creamy%20milk%7Cdelicious%20taste%20butter%20spread%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-28"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "234"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=378/product=agrilite%20sonachoor%20gobindobhog%20rice%20%28medium%20grain%29%20%20%285%20kg%29/date=2024-04-12> a ns1:BusinessPurchase ;
+    ns1:buyer_id "378"^^xsd:string ;
+    ns1:product_name "agrilite%20sonachoor%20gobindobhog%20rice%20%28medium%20grain%29%20%20%285%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-12"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "472"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=380/product=saffola%20mayonnaise%20eggless%7Cextra%20creamy%26tasty%7Cfor%20sandwich%2Cwraps%2Cpastas%2Cburgers%20%26%20a%20dip%20700%20g/date=2024-05-01> a ns1:BusinessPurchase ;
+    ns1:buyer_id "380"^^xsd:string ;
+    ns1:product_name "saffola%20mayonnaise%20eggless%7Cextra%20creamy%26tasty%7Cfor%20sandwich%2Cwraps%2Cpastas%2Cburgers%20%26%20a%20dip%20700%20g"^^xsd:string ;
+    ns1:purchase_date "2024-05-01"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "202"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=382/product=saffola%20gold%20refined%20cooking%20rice%20bran%20%26%20corn%20blended%20oil%20can%20%28mishrita%20tela%29%20%20%283%20l%29/date=2024-04-19> a ns1:BusinessPurchase ;
+    ns1:buyer_id "382"^^xsd:string ;
+    ns1:product_name "saffola%20gold%20refined%20cooking%20rice%20bran%20%26%20corn%20blended%20oil%20can%20%28mishrita%20tela%29%20%20%283%20l%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-19"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "558"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=388/product=real%20fruit%20juice%20-%20cranberry%20%20%281%20l%29/date=2024-03-17> a ns1:BusinessPurchase ;
+    ns1:buyer_id "388"^^xsd:string ;
+    ns1:product_name "real%20fruit%20juice%20-%20cranberry%20%20%281%20l%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-17"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "130"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=394/product=flipkart%20supermart%20food%20essentials%20premium%20tea%20pouch%20%28regular%20tea%29%20%20%28250%20g%29/date=2024-02-10> a ns1:BusinessPurchase ;
+    ns1:buyer_id "394"^^xsd:string ;
+    ns1:product_name "flipkart%20supermart%20food%20essentials%20premium%20tea%20pouch%20%28regular%20tea%29%20%20%28250%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-10"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "120"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=398/product=cadbury%20bournvita%20lil%20champs%20health%20drink%20%20%28500%20g%29/date=2024-02-17> a ns1:BusinessPurchase ;
+    ns1:buyer_id "398"^^xsd:string ;
+    ns1:product_name "cadbury%20bournvita%20lil%20champs%20health%20drink%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-17"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "328"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=399/product=natureland%20organics%20urad%20dal%20%28biri%20dali%29%20%28whole%29%20%20%281%20kg%29/date=2024-04-19> a ns1:BusinessPurchase ;
+    ns1:buyer_id "399"^^xsd:string ;
+    ns1:product_name "natureland%20organics%20urad%20dal%20%28biri%20dali%29%20%28whole%29%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-19"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "210"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=404/product=real%20fruit%20juice%20-%20litchi%20%20%281%20l%29/date=2024-02-16> a ns1:BusinessPurchase ;
+    ns1:buyer_id "404"^^xsd:string ;
+    ns1:product_name "real%20fruit%20juice%20-%20litchi%20%20%281%20l%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-16"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "113"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=411/product=nutraj%20%28khojuri%29%20%28chuara%20-%20kharek%29%20dry%20dates%20%20%28500%20g%29/date=2024-04-06> a ns1:BusinessPurchase ;
+    ns1:buyer_id "411"^^xsd:string ;
+    ns1:product_name "nutraj%20%28khojuri%29%20%28chuara%20-%20kharek%29%20dry%20dates%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-06"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "207"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=413/product=sublabh%20ultra%20baskati%20rice%20%28long%20grain%2C%20parboiled%29%20%20%285%20kg%29/date=2024-04-23> a ns1:BusinessPurchase ;
+    ns1:buyer_id "413"^^xsd:string ;
+    ns1:product_name "sublabh%20ultra%20baskati%20rice%20%28long%20grain%2C%20parboiled%29%20%20%285%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-23"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "261"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=421/product=delish%20by%20flipkart%20eggless%20vanilla%20flavored%20cake%20rusk%20%20%28200%20g%29/date=2024-04-09> a ns1:BusinessPurchase ;
+    ns1:buyer_id "421"^^xsd:string ;
+    ns1:product_name "delish%20by%20flipkart%20eggless%20vanilla%20flavored%20cake%20rusk%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-09"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "150"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=422/product=gits%20badam%20pista%20falooda%20mix%20200%20g/date=2024-04-05> a ns1:BusinessPurchase ;
+    ns1:buyer_id "422"^^xsd:string ;
+    ns1:product_name "gits%20badam%20pista%20falooda%20mix%20200%20g"^^xsd:string ;
+    ns1:purchase_date "2024-04-05"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "68"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=44/product=red%20bull%20original%20energy%20drink%20%20%28250%20ml%2C%20plain%20flavored%29/date=2024-04-04> a ns1:BusinessPurchase ;
+    ns1:buyer_id "44"^^xsd:string ;
+    ns1:product_name "red%20bull%20original%20energy%20drink%20%20%28250%20ml%2C%20plain%20flavored%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-04"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "111"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=444/product=wonderland%20roasted%20%26%20salted%20pistachios%20%20%28200%20g%29/date=2024-04-09> a ns1:BusinessPurchase ;
+    ns1:buyer_id "444"^^xsd:string ;
+    ns1:product_name "wonderland%20roasted%20%26%20salted%20pistachios%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-09"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "205"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=445/product=nutralite%20veg%20mayo%7Ceggless%20mayonnaise%7Cenriched%20with%20vitamins%20a%2C%20d2%2C%20and%20e%20275%20g%20%20%2825%20g%20extra%20in%20pack%29/date=2024-04-19> a ns1:BusinessPurchase ;
+    ns1:buyer_id "445"^^xsd:string ;
+    ns1:product_name "nutralite%20veg%20mayo%7Ceggless%20mayonnaise%7Cenriched%20with%20vitamins%20a%2C%20d2%2C%20and%20e%20275%20g%20%20%2825%20g%20extra%20in%20pack%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-19"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "105"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=449/product=anik%20cow%20ghee%20500%20ml%20plastic%20bottle%20%28ghio%29/date=2024-03-25> a ns1:BusinessPurchase ;
+    ns1:buyer_id "449"^^xsd:string ;
+    ns1:product_name "anik%20cow%20ghee%20500%20ml%20plastic%20bottle%20%28ghio%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-25"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "334"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=458/product=zoff%20red%20chilli%20stemless%20%28gota%20lanka%29%20%20%28500%20g%29/date=2024-03-02> a ns1:BusinessPurchase ;
+    ns1:buyer_id "458"^^xsd:string ;
+    ns1:product_name "zoff%20red%20chilli%20stemless%20%28gota%20lanka%29%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-02"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "198"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=465/product=zoff%20poppy%20seeds%20%28posta%29%20%20%28100%20g%29/date=2024-03-21> a ns1:BusinessPurchase ;
+    ns1:buyer_id "465"^^xsd:string ;
+    ns1:product_name "zoff%20poppy%20seeds%20%28posta%29%20%20%28100%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-21"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "337"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=472/product=unibic%20choco%20nut%20cookies%20%20%28300%20g%29/date=2024-05-01> a ns1:BusinessPurchase ;
+    ns1:buyer_id "472"^^xsd:string ;
+    ns1:product_name "unibic%20choco%20nut%20cookies%20%20%28300%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-05-01"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "150"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=472/product=unibic%20double%20choco%20chip%20cookies%20%20%2875%20g%29/date=2024-02-29> a ns1:BusinessPurchase ;
+    ns1:buyer_id "472"^^xsd:string ;
+    ns1:product_name "unibic%20double%20choco%20chip%20cookies%20%20%2875%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-29"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "100"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=476/product=delish%20by%20flipkart%20crunchy%20muesli%20with%2081%25%20multigrain%20flakes%2C%20source%20of%20protein%20pouch%20pouch%20%20%28400%20g%29/date=2024-03-23> a ns1:BusinessPurchase ;
+    ns1:buyer_id "476"^^xsd:string ;
+    ns1:product_name "delish%20by%20flipkart%20crunchy%20muesli%20with%2081%25%20multigrain%20flakes%2C%20source%20of%20protein%20pouch%20pouch%20%20%28400%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-23"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "278"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=483/product=unity%20from%20the%20house%20of%20india%20gate%20-%20rozzana%20basmati%20rice%20%28basmati%20chaula%29%20%28medium%20grain%29%20%20%285%20kg%29/date=2024-02-09> a ns1:BusinessPurchase ;
+    ns1:buyer_id "483"^^xsd:string ;
+    ns1:product_name "unity%20from%20the%20house%20of%20india%20gate%20-%20rozzana%20basmati%20rice%20%28basmati%20chaula%29%20%28medium%20grain%29%20%20%285%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-09"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "399"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=487/product=nescafe%20classic%20coffee%20powder%2C%20100%25%20pure%20instant%20coffee%20%20%2890%20g%29/date=2024-04-18> a ns1:BusinessPurchase ;
+    ns1:buyer_id "487"^^xsd:string ;
+    ns1:product_name "nescafe%20classic%20coffee%20powder%2C%20100%25%20pure%20instant%20coffee%20%20%2890%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-18"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "311"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=489/product=emami%20healthy%20and%20tasty%20mantra%20chilli%20powder%2C%20100%25%20natural%2C%20no%20added%20colour%20%26%20preservatives%20%28lal%20lanka%20gunda%29%20%20%2850%20g%29/date=2024-02-25> a ns1:BusinessPurchase ;
+    ns1:buyer_id "489"^^xsd:string ;
+    ns1:product_name "emami%20healthy%20and%20tasty%20mantra%20chilli%20powder%2C%20100%25%20natural%2C%20no%20added%20colour%20%26%20preservatives%20%28lal%20lanka%20gunda%29%20%20%2850%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-25"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "25"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=493/product=raw%20pressery%20mixed%20fruit%20juice%20%20%281%20l%29/date=2024-02-06> a ns1:BusinessPurchase ;
+    ns1:buyer_id "493"^^xsd:string ;
+    ns1:product_name "raw%20pressery%20mixed%20fruit%20juice%20%20%281%20l%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-06"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "155"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=53/product=alpenliebe%20mixed%20fruit%20lollipop%20%20%2864%20g%29/date=2024-04-07> a ns1:BusinessPurchase ;
+    ns1:buyer_id "53"^^xsd:string ;
+    ns1:product_name "alpenliebe%20mixed%20fruit%20lollipop%20%20%2864%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-07"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "46"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=6/product=tata%20sampann%20premium%20quality%20badam%20giri%2C%20100%25%20pure%20california%20almonds%20%20%28500%20g%29/date=2024-03-16> a ns1:BusinessPurchase ;
+    ns1:buyer_id "6"^^xsd:string ;
+    ns1:product_name "tata%20sampann%20premium%20quality%20badam%20giri%2C%20100%25%20pure%20california%20almonds%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-16"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "477"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=66/product=skittles%20original%20fruit%20flavored%20candies%20fruit%20candy%20%20%2890%20g%29/date=2024-04-22> a ns1:BusinessPurchase ;
+    ns1:buyer_id "66"^^xsd:string ;
+    ns1:product_name "skittles%20original%20fruit%20flavored%20candies%20fruit%20candy%20%20%2890%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-22"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "100"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=69/product=epigamia%20cookies%20%26%20cream%20milkshake/date=2024-04-27> a ns1:BusinessPurchase ;
+    ns1:buyer_id "69"^^xsd:string ;
+    ns1:product_name "epigamia%20cookies%20%26%20cream%20milkshake"^^xsd:string ;
+    ns1:purchase_date "2024-04-27"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "52"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=75/product=agrilite%20sonachoor%20gobindobhog%20rice%20%28medium%20grain%29%20%20%285%20kg%29/date=2024-03-31> a ns1:BusinessPurchase ;
+    ns1:buyer_id "75"^^xsd:string ;
+    ns1:product_name "agrilite%20sonachoor%20gobindobhog%20rice%20%28medium%20grain%29%20%20%285%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-31"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "472"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=82/product=delish%20by%20flipkart%20green%20chilli%20pickle%20%28acharo%29%20%20%28400%20g%29/date=2024-02-05> a ns1:BusinessPurchase ;
+    ns1:buyer_id "82"^^xsd:string ;
+    ns1:product_name "delish%20by%20flipkart%20green%20chilli%20pickle%20%28acharo%29%20%20%28400%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-05"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "180"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=86/product=organic%20tattva%20brown%20sugar%20%20%28500%20g%29/date=2024-03-13> a ns1:BusinessPurchase ;
+    ns1:buyer_id "86"^^xsd:string ;
+    ns1:product_name "organic%20tattva%20brown%20sugar%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-13"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "58"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0811200000-1343/buyer=98/product=maggi%20nutri%20licious%20veg%20atta%20masala%20instant%20noodles%20vegetarian%20%20%28290%20g%29/date=2024-02-21> a ns1:BusinessPurchase ;
+    ns1:buyer_id "98"^^xsd:string ;
+    ns1:product_name "maggi%20nutri%20licious%20veg%20atta%20masala%20instant%20noodles%20vegetarian%20%20%28290%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-21"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0811200000-1343"^^xsd:string ;
+    ns1:unit_price "112"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=102/product=zoff%20dried%20red%20chilli%20whole%20%28gota%20lanka%29%20%20%28500%20g%29/date=2024-04-09> a ns1:BusinessPurchase ;
+    ns1:buyer_id "102"^^xsd:string ;
+    ns1:product_name "zoff%20dried%20red%20chilli%20whole%20%28gota%20lanka%29%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-09"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "170"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=114/product=maaza%20mango%20drink%20original%20flavor%20%20%28600%20ml%29/date=2024-03-30> a ns1:BusinessPurchase ;
+    ns1:buyer_id "114"^^xsd:string ;
+    ns1:product_name "maaza%20mango%20drink%20original%20flavor%20%20%28600%20ml%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-30"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "35"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=115/product=tata%20sampann%20toor/arhar%20dal%20%28harada%20dali%29%20%28split%29%20%20%28500%20g%29/date=2024-03-21> a ns1:BusinessPurchase ;
+    ns1:buyer_id "115"^^xsd:string ;
+    ns1:product_name "tata%20sampann%20toor/arhar%20dal%20%28harada%20dali%29%20%28split%29%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-21"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "108"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=136/product=chupa%20chups%20bites%20mixed%20fruit%20sour%20candy%20%20%2861.6%20g%29/date=2024-03-28> a ns1:BusinessPurchase ;
+    ns1:buyer_id "136"^^xsd:string ;
+    ns1:product_name "chupa%20chups%20bites%20mixed%20fruit%20sour%20candy%20%20%2861.6%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-28"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "3"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=14/product=amul%20school%20pack%20salted%20butter%20%20%28100%20g%29/date=2024-02-09> a ns1:BusinessPurchase ;
+    ns1:buyer_id "14"^^xsd:string ;
+    ns1:product_name "amul%20school%20pack%20salted%20butter%20%20%28100%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-09"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "6"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=140/product=yu%20butter%20chicken%20cup%20-%20contains%20real%20chicken%20ready%20to%20eat%20no%20preservatives%20instant%20noodles%20non-vegetarian%20%20%2870%20g%29/date=2024-03-09> a ns1:BusinessPurchase ;
+    ns1:buyer_id "140"^^xsd:string ;
+    ns1:product_name "yu%20butter%20chicken%20cup%20-%20contains%20real%20chicken%20ready%20to%20eat%20no%20preservatives%20instant%20noodles%20non-vegetarian%20%20%2870%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-09"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "53"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=182/product=milky%20mist%20vanilla%20milk%20shake/date=2024-05-03> a ns1:BusinessPurchase ;
+    ns1:buyer_id "182"^^xsd:string ;
+    ns1:product_name "milky%20mist%20vanilla%20milk%20shake"^^xsd:string ;
+    ns1:purchase_date "2024-05-03"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "22"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=187/product=gits%20rasgulla%20open%20%26%20eat%20tin%20%28rosogola%29%20%20%281%20kg%29/date=2024-04-05> a ns1:BusinessPurchase ;
+    ns1:buyer_id "187"^^xsd:string ;
+    ns1:product_name "gits%20rasgulla%20open%20%26%20eat%20tin%20%28rosogola%29%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-05"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "170"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=2/product=kellogg%27s%20chocos%20fills%20double%20chocolaty%2C%200%25%20maida%2C%20oats%2C%20wheat%20%26%20rice%2C%20multigrain%20snack%20pouch%20%20%28160%20g%29/date=2024-05-03> a ns1:BusinessPurchase ;
+    ns1:buyer_id "2"^^xsd:string ;
+    ns1:product_name "kellogg%27s%20chocos%20fills%20double%20chocolaty%2C%200%25%20maida%2C%20oats%2C%20wheat%20%26%20rice%2C%20multigrain%20snack%20pouch%20%20%28160%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-05-03"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "9"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=201/product=sugar%20free%20gold%20sweetener%20%20%28100%20g%29/date=2024-03-09> a ns1:BusinessPurchase ;
+    ns1:buyer_id "201"^^xsd:string ;
+    ns1:product_name "sugar%20free%20gold%20sweetener%20%20%28100%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-09"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "133"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=203/product=amulya%20dairy%20whitener%20milk%20powder%20%20%281%20kg%29/date=2024-03-09> a ns1:BusinessPurchase ;
+    ns1:buyer_id "203"^^xsd:string ;
+    ns1:product_name "amulya%20dairy%20whitener%20milk%20powder%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-09"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "441"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=206/product=horlicks%20classic%20malt%20%20%28500%20g%29/date=2024-02-10> a ns1:BusinessPurchase ;
+    ns1:buyer_id "206"^^xsd:string ;
+    ns1:product_name "horlicks%20classic%20malt%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-10"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "251"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=215/product=bingo%20mad%20angles%20achaari%20masti%20chips%20%20%2866%20g%29/date=2024-03-27> a ns1:BusinessPurchase ;
+    ns1:buyer_id "215"^^xsd:string ;
+    ns1:product_name "bingo%20mad%20angles%20achaari%20masti%20chips%20%20%2866%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-27"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "17"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=230/product=mdh%20chana%20masala%20%28chhole%20masala%29%20%20%28100%20g%29/date=2024-03-06> a ns1:BusinessPurchase ;
+    ns1:buyer_id "230"^^xsd:string ;
+    ns1:product_name "mdh%20chana%20masala%20%28chhole%20masala%29%20%20%28100%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-06"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "69"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=235/product=delish%20by%20flipkart%20pure%20honey%20with%20no%20sugar%20adulteration%20%20%281%20kg%29/date=2024-02-22> a ns1:BusinessPurchase ;
+    ns1:buyer_id "235"^^xsd:string ;
+    ns1:product_name "delish%20by%20flipkart%20pure%20honey%20with%20no%20sugar%20adulteration%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-22"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "214"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=238/product=kohinoor%20charminar%20rozana%20basmati%20rice%20%28basmati%20chaula%29%20%28medium%20grain%29%20%20%281%20kg%29/date=2024-02-14> a ns1:BusinessPurchase ;
+    ns1:buyer_id "238"^^xsd:string ;
+    ns1:product_name "kohinoor%20charminar%20rozana%20basmati%20rice%20%28basmati%20chaula%29%20%28medium%20grain%29%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-14"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "118"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=243/product=bagrry%27s%20white%20oats%20with%20100%25%20whole%20grains%20pouch%20%20%281.5%20kg%29/date=2024-02-21> a ns1:BusinessPurchase ;
+    ns1:buyer_id "243"^^xsd:string ;
+    ns1:product_name "bagrry%27s%20white%20oats%20with%20100%25%20whole%20grains%20pouch%20%20%281.5%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-21"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "217"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=25/product=prov%20natural%20seedless%20black%20raisins%20%28kishmish%29%20%20%28250%20g%29/date=2024-02-06> a ns1:BusinessPurchase ;
+    ns1:buyer_id "25"^^xsd:string ;
+    ns1:product_name "prov%20natural%20seedless%20black%20raisins%20%28kishmish%29%20%20%28250%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-06"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "102"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=25/product=unibic%20fruit%20%26%20nut%20cookies%20%20%28300%20g%29/date=2024-03-07> a ns1:BusinessPurchase ;
+    ns1:buyer_id "25"^^xsd:string ;
+    ns1:product_name "unibic%20fruit%20%26%20nut%20cookies%20%20%28300%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-07"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "150"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=250/product=cadbury%20dairy%20milk%20chocolate%20bars%20%20%2823%20g%29/date=2024-03-16> a ns1:BusinessPurchase ;
+    ns1:buyer_id "250"^^xsd:string ;
+    ns1:product_name "cadbury%20dairy%20milk%20chocolate%20bars%20%20%2823%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-16"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "19"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=252/product=tata%20tea%20premium%20teaveda%20tulsi%2C%20cardamom%2C%20ginger%20black%20tea%20box%20%20%28500%20g%29/date=2024-04-28> a ns1:BusinessPurchase ;
+    ns1:buyer_id "252"^^xsd:string ;
+    ns1:product_name "tata%20tea%20premium%20teaveda%20tulsi%2C%20cardamom%2C%20ginger%20black%20tea%20box%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-28"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "198"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=265/product=maggi%202%20minute%20special%20masala%20instant%20noodles%20vegetarian%20%20%2812%20x%2070%20g%29/date=2024-04-26> a ns1:BusinessPurchase ;
+    ns1:buyer_id "265"^^xsd:string ;
+    ns1:product_name "maggi%202%20minute%20special%20masala%20instant%20noodles%20vegetarian%20%20%2812%20x%2070%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-26"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "182"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=273/product=mdh%20kitchen%20king%20mixed%20spices%20powder%20%28pariba%20masala%29%20%20%28100%20g%29/date=2024-04-16> a ns1:BusinessPurchase ;
+    ns1:buyer_id "273"^^xsd:string ;
+    ns1:product_name "mdh%20kitchen%20king%20mixed%20spices%20powder%20%28pariba%20masala%29%20%20%28100%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-16"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "72"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=279/product=ritebite%20max%20protein%20daily%20choco%20berry%20bars%20300g%20box%20%20%286%20x%2050%20g%29/date=2024-05-01> a ns1:BusinessPurchase ;
+    ns1:buyer_id "279"^^xsd:string ;
+    ns1:product_name "ritebite%20max%20protein%20daily%20choco%20berry%20bars%20300g%20box%20%20%286%20x%2050%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-05-01"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "360"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=281/product=agrilite%20maida%20%20%28500%20g%29/date=2024-02-13> a ns1:BusinessPurchase ;
+    ns1:buyer_id "281"^^xsd:string ;
+    ns1:product_name "agrilite%20maida%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-13"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "21"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=289/product=britannia%20good%20day%20cashew%20cookies%20%20%28600%20g%2C%20pack%20of%205%29/date=2024-03-02> a ns1:BusinessPurchase ;
+    ns1:buyer_id "289"^^xsd:string ;
+    ns1:product_name "britannia%20good%20day%20cashew%20cookies%20%20%28600%20g%2C%20pack%20of%205%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-02"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "105"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=297/product=classic%20cloves%20by%20flipkart%20grocery%20%28labanga%29%20%20%28100%20g%29/date=2024-02-10> a ns1:BusinessPurchase ;
+    ns1:buyer_id "297"^^xsd:string ;
+    ns1:product_name "classic%20cloves%20by%20flipkart%20grocery%20%28labanga%29%20%20%28100%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-10"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "126"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=299/product=mtr%20khatta%20meetha%20poha%2060%20g/date=2024-03-02> a ns1:BusinessPurchase ;
+    ns1:buyer_id "299"^^xsd:string ;
+    ns1:product_name "mtr%20khatta%20meetha%20poha%2060%20g"^^xsd:string ;
+    ns1:purchase_date "2024-03-02"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "23"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=305/product=milky%20mist%20sweet%20lassi%20%20%28200%20ml%29/date=2024-04-02> a ns1:BusinessPurchase ;
+    ns1:buyer_id "305"^^xsd:string ;
+    ns1:product_name "milky%20mist%20sweet%20lassi%20%20%28200%20ml%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-02"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "20"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=310/product=wingreens%20chatpata%20pudina%20naan%20chips%20%20%2860%20g%29/date=2024-03-29> a ns1:BusinessPurchase ;
+    ns1:buyer_id "310"^^xsd:string ;
+    ns1:product_name "wingreens%20chatpata%20pudina%20naan%20chips%20%20%2860%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-29"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "29"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=312/product=amul%20source%20of%20calcium%20%26%20protein%20sweet%20lassi%20%20%28250%20ml%29/date=2024-02-17> a ns1:BusinessPurchase ;
+    ns1:buyer_id "312"^^xsd:string ;
+    ns1:product_name "amul%20source%20of%20calcium%20%26%20protein%20sweet%20lassi%20%20%28250%20ml%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-17"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "2"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=313/product=glucon-d%20regular%20glucose%20powder%2C%20refill%20extra%2050%20g%20free%20energy%20drink%20%20%2850%20g%20extra%20in%20pack%29%20%20%28450%20g%2C%20plain%20flavored%29/date=2024-04-04> a ns1:BusinessPurchase ;
+    ns1:buyer_id "313"^^xsd:string ;
+    ns1:product_name "glucon-d%20regular%20glucose%20powder%2C%20refill%20extra%2050%20g%20free%20energy%20drink%20%20%2850%20g%20extra%20in%20pack%29%20%20%28450%20g%2C%20plain%20flavored%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-04"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "14"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=315/product=kwality%20tomato%20soup%20%28cuppa%20soup%29%2C%20ready-to-cook%2C%20premium%20quality%20ingredients%20%20%28pack%20of%206%2C%2060%20g%29/date=2024-02-07> a ns1:BusinessPurchase ;
+    ns1:buyer_id "315"^^xsd:string ;
+    ns1:product_name "kwality%20tomato%20soup%20%28cuppa%20soup%29%2C%20ready-to-cook%2C%20premium%20quality%20ingredients%20%20%28pack%20of%206%2C%2060%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-07"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "42"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=32/product=hershey%27s%20strawberry%20syrup%20strawberry%20%20%28623%2C%20pack%20of%201%29/date=2024-04-28> a ns1:BusinessPurchase ;
+    ns1:buyer_id "32"^^xsd:string ;
+    ns1:product_name "hershey%27s%20strawberry%20syrup%20strawberry%20%20%28623%2C%20pack%20of%201%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-28"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "163"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=327/product=nutralite%20doodhshakti%20probiotic%20butter%20spread%20%20%28500%20g%29/date=2024-02-10> a ns1:BusinessPurchase ;
+    ns1:buyer_id "327"^^xsd:string ;
+    ns1:product_name "nutralite%20doodhshakti%20probiotic%20butter%20spread%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-10"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "247"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=330/product=catch%20peri%20peri%20masala%20sprinkler%20%20%2890%20g%29/date=2024-04-06> a ns1:BusinessPurchase ;
+    ns1:buyer_id "330"^^xsd:string ;
+    ns1:product_name "catch%20peri%20peri%20masala%20sprinkler%20%20%2890%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-06"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "69"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=330/product=milky%20mist%20skimmed%20skimmed%20milk%20powder%20%20%281%20kg%29/date=2024-04-17> a ns1:BusinessPurchase ;
+    ns1:buyer_id "330"^^xsd:string ;
+    ns1:product_name "milky%20mist%20skimmed%20skimmed%20milk%20powder%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-17"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "364"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=333/product=natureland%20organics%20black%20urad%20dal%20%28biri%20dali%29%20%28split%29%20%20%28500%20g%29/date=2024-02-22> a ns1:BusinessPurchase ;
+    ns1:buyer_id "333"^^xsd:string ;
+    ns1:product_name "natureland%20organics%20black%20urad%20dal%20%28biri%20dali%29%20%28split%29%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-22"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "100"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=334/product=cadbury%20dairy%20milk%20hazelnut%2C%20roasted%20%26%20chocolate%20coated%20bites%20%20%2840%20g%29/date=2024-03-17> a ns1:BusinessPurchase ;
+    ns1:buyer_id "334"^^xsd:string ;
+    ns1:product_name "cadbury%20dairy%20milk%20hazelnut%2C%20roasted%20%26%20chocolate%20coated%20bites%20%20%2840%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-17"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "69"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=334/product=sunfeast%20mom%27s%20magic%20cookies%20%20%28197%20g%29/date=2024-03-26> a ns1:BusinessPurchase ;
+    ns1:buyer_id "334"^^xsd:string ;
+    ns1:product_name "sunfeast%20mom%27s%20magic%20cookies%20%20%28197%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-26"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "29"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=335/product=britannia%20nutrichoice%205%20grain%20multigrain%20biscuits%20digestive%20%20%28200%20g%29/date=2024-04-11> a ns1:BusinessPurchase ;
+    ns1:buyer_id "335"^^xsd:string ;
+    ns1:product_name "britannia%20nutrichoice%205%20grain%20multigrain%20biscuits%20digestive%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-11"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "55"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=335/product=mdh%20biryani%20masala%20%20%2850%20g%29/date=2024-03-14> a ns1:BusinessPurchase ;
+    ns1:buyer_id "335"^^xsd:string ;
+    ns1:product_name "mdh%20biryani%20masala%20%20%2850%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-14"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "74"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=339/product=dabur%20hommade%20tomato%20puree%20%20%28200%20g%29/date=2024-03-12> a ns1:BusinessPurchase ;
+    ns1:buyer_id "339"^^xsd:string ;
+    ns1:product_name "dabur%20hommade%20tomato%20puree%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-12"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "23"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=339/product=farmley%20premium%20broken%20%28akhrot%29%20%28akrot%29%20walnuts%20%20%28200%20g%29/date=2024-03-03> a ns1:BusinessPurchase ;
+    ns1:buyer_id "339"^^xsd:string ;
+    ns1:product_name "farmley%20premium%20broken%20%28akhrot%29%20%28akrot%29%20walnuts%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-03"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "214"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=342/product=premium%20mustard%20%28kala%20sorisa%29%20%28rai%20small%29%20by%20flipkart%20grocery%20%20%28200%20g%29/date=2024-04-29> a ns1:BusinessPurchase ;
+    ns1:buyer_id "342"^^xsd:string ;
+    ns1:product_name "premium%20mustard%20%28kala%20sorisa%29%20%28rai%20small%29%20by%20flipkart%20grocery%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-29"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "21"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=354/product=amul%20taaza%20homogenised%20toned%20milk/date=2024-02-09> a ns1:BusinessPurchase ;
+    ns1:buyer_id "354"^^xsd:string ;
+    ns1:product_name "amul%20taaza%20homogenised%20toned%20milk"^^xsd:string ;
+    ns1:purchase_date "2024-02-09"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "1"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=354/product=kwality%20pizza%20pasta%20seasoning%20of%20herbs%2C%20spices%20%26%20dehydrated%20vegetable%20%20%2845%20g%29/date=2024-04-15> a ns1:BusinessPurchase ;
+    ns1:buyer_id "354"^^xsd:string ;
+    ns1:product_name "kwality%20pizza%20pasta%20seasoning%20of%20herbs%2C%20spices%20%26%20dehydrated%20vegetable%20%20%2845%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-15"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "49"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=356/product=flipkart%20supermart%20andhra%20mixture%20%20%28200%20g%29/date=2024-03-08> a ns1:BusinessPurchase ;
+    ns1:buyer_id "356"^^xsd:string ;
+    ns1:product_name "flipkart%20supermart%20andhra%20mixture%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-08"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "115"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=359/product=kellogg%27s%20fruit%20magic%2C%2012-in-1%20power%20breakfast%2C%20indiano.1%20muesli%20cereal%20pouch%20%20%28500%20g%29/date=2024-03-31> a ns1:BusinessPurchase ;
+    ns1:buyer_id "359"^^xsd:string ;
+    ns1:product_name "kellogg%27s%20fruit%20magic%2C%2012-in-1%20power%20breakfast%2C%20indiano.1%20muesli%20cereal%20pouch%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-31"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "342"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=359/product=mother%20dairy%20processed%20cheese%20cubes%20%20%28180%20g%29/date=2024-04-25> a ns1:BusinessPurchase ;
+    ns1:buyer_id "359"^^xsd:string ;
+    ns1:product_name "mother%20dairy%20processed%20cheese%20cubes%20%20%28180%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-25"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "114"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=36/product=flipkart%20supermart%20kara%20sev%20%28mixture%29%20%20%28200%20g%29/date=2024-03-16> a ns1:BusinessPurchase ;
+    ns1:buyer_id "36"^^xsd:string ;
+    ns1:product_name "flipkart%20supermart%20kara%20sev%20%28mixture%29%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-16"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "115"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=369/product=gits%20paneer%20tikka%20masala%20ready%20to%20eat%20285%20g/date=2024-02-27> a ns1:BusinessPurchase ;
+    ns1:buyer_id "369"^^xsd:string ;
+    ns1:product_name "gits%20paneer%20tikka%20masala%20ready%20to%20eat%20285%20g"^^xsd:string ;
+    ns1:purchase_date "2024-02-27"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "110"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=370/product=delish%20by%20flipkart%20cocoa%20and%20chocolate%20spread%20300%20g/date=2024-03-11> a ns1:BusinessPurchase ;
+    ns1:buyer_id "370"^^xsd:string ;
+    ns1:product_name "delish%20by%20flipkart%20cocoa%20and%20chocolate%20spread%20300%20g"^^xsd:string ;
+    ns1:purchase_date "2024-03-11"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "126"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=371/product=apis%20honey%20%20%28combo%20pack%201%20%2B%201%20free%2C%20500%20g%20each%29%20%20%28500%20g%29/date=2024-03-06> a ns1:BusinessPurchase ;
+    ns1:buyer_id "371"^^xsd:string ;
+    ns1:product_name "apis%20honey%20%20%28combo%20pack%201%20%2B%201%20free%2C%20500%20g%20each%29%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-06"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "227"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=374/product=alpenliebe%20mixed%20fruit%20lollipop%20%20%2864%20g%29/date=2024-03-14> a ns1:BusinessPurchase ;
+    ns1:buyer_id "374"^^xsd:string ;
+    ns1:product_name "alpenliebe%20mixed%20fruit%20lollipop%20%20%2864%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-14"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "46"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=379/product=farmley%20premium%20jumbo%20walnut%20inshell%20walnuts%20%28akhrot%29%20%20%281%20kg%29/date=2024-03-18> a ns1:BusinessPurchase ;
+    ns1:buyer_id "379"^^xsd:string ;
+    ns1:product_name "farmley%20premium%20jumbo%20walnut%20inshell%20walnuts%20%28akhrot%29%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-18"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "641"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=391/product=weikfield%20vanilla%20flavour%20custard%20powder/date=2024-04-20> a ns1:BusinessPurchase ;
+    ns1:buyer_id "391"^^xsd:string ;
+    ns1:product_name "weikfield%20vanilla%20flavour%20custard%20powder"^^xsd:string ;
+    ns1:purchase_date "2024-04-20"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "31"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=396/product=delish%20by%20flipkart%20tamarind%20and%20dates%20chutney%20paste%20%20%28200%20g%29/date=2024-03-15> a ns1:BusinessPurchase ;
+    ns1:buyer_id "396"^^xsd:string ;
+    ns1:product_name "delish%20by%20flipkart%20tamarind%20and%20dates%20chutney%20paste%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-15"^^xsd:date ;
+    ns1:quantity "6"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "100"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=402/product=bikano%20combo%20pack%20%28namkeen%29%20%20%285%20x%200.2%20kg%29/date=2024-04-15> a ns1:BusinessPurchase ;
+    ns1:buyer_id "402"^^xsd:string ;
+    ns1:product_name "bikano%20combo%20pack%20%28namkeen%29%20%20%285%20x%200.2%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-15"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "190"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=404/product=prabhuji%20tok%20jhal%20misti%20%28khata%20meetha%29%20%20%2825%20g%20extra%20in%20pack%29%20%20%28175%20g%29/date=2024-03-29> a ns1:BusinessPurchase ;
+    ns1:buyer_id "404"^^xsd:string ;
+    ns1:product_name "prabhuji%20tok%20jhal%20misti%20%28khata%20meetha%29%20%20%2825%20g%20extra%20in%20pack%29%20%20%28175%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-29"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "33"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=420/product=classic%20whole%20cashews%20by%20flipkart%20grocery%20%28kaju%29%20%20%28200%20g%29/date=2024-02-14> a ns1:BusinessPurchase ;
+    ns1:buyer_id "420"^^xsd:string ;
+    ns1:product_name "classic%20whole%20cashews%20by%20flipkart%20grocery%20%28kaju%29%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-14"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "133"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=420/product=pajaka%20snackie%20garlic%20mixture%20%20%28500%20g%29/date=2024-02-23> a ns1:BusinessPurchase ;
+    ns1:buyer_id "420"^^xsd:string ;
+    ns1:product_name "pajaka%20snackie%20garlic%20mixture%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-23"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "220"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=429/product=vicks%20cough%20drops%20ginger%20toffee%20%20%2836%20g%29/date=2024-03-12> a ns1:BusinessPurchase ;
+    ns1:buyer_id "429"^^xsd:string ;
+    ns1:product_name "vicks%20cough%20drops%20ginger%20toffee%20%20%2836%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-12"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "19"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=434/product=galaxy%20cookie%20crumble%20bars%20%20%2850%20g%29/date=2024-02-06> a ns1:BusinessPurchase ;
+    ns1:buyer_id "434"^^xsd:string ;
+    ns1:product_name "galaxy%20cookie%20crumble%20bars%20%20%2850%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-06"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "70"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=436/product=zoff%20kashmiri%20chilli%20powder%20%28lal%20lanka%20gunda%29%20%20%28100%20g%29/date=2024-02-08> a ns1:BusinessPurchase ;
+    ns1:buyer_id "436"^^xsd:string ;
+    ns1:product_name "zoff%20kashmiri%20chilli%20powder%20%28lal%20lanka%20gunda%29%20%20%28100%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-08"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "150"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=45/product=fortune%20suji%20%20%28500%20g%29/date=2024-02-19> a ns1:BusinessPurchase ;
+    ns1:buyer_id "45"^^xsd:string ;
+    ns1:product_name "fortune%20suji%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-19"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "25"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=459/product=aashirvaad%20select%20sharbati%20atta%20mp%20wheat%20atta%20for%20softer%20rotis%20%28whole-gehuro%20otta%29%20%20%285%20kg%29/date=2024-04-12> a ns1:BusinessPurchase ;
+    ns1:buyer_id "459"^^xsd:string ;
+    ns1:product_name "aashirvaad%20select%20sharbati%20atta%20mp%20wheat%20atta%20for%20softer%20rotis%20%28whole-gehuro%20otta%29%20%20%285%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-12"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "297"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=459/product=cadbury%20chocobakes%20chocfilled%20cookies%20%20%28150%20g%29/date=2024-04-06> a ns1:BusinessPurchase ;
+    ns1:buyer_id "459"^^xsd:string ;
+    ns1:product_name "cadbury%20chocobakes%20chocfilled%20cookies%20%20%28150%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-06"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "61"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=464/product=eco%20valley%20quick%20cooking%20hearty%20oats%20pouch%20%20%281%20kg%29/date=2024-03-11> a ns1:BusinessPurchase ;
+    ns1:buyer_id "464"^^xsd:string ;
+    ns1:product_name "eco%20valley%20quick%20cooking%20hearty%20oats%20pouch%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-11"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "133"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=464/product=knorr%20mixed%20vegetable%20soup%20%20%2840%20g%29/date=2024-03-01> a ns1:BusinessPurchase ;
+    ns1:buyer_id "464"^^xsd:string ;
+    ns1:product_name "knorr%20mixed%20vegetable%20soup%20%20%2840%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-01"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "51"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=47/product=apis%20mixed%20fruit%20jam%201%20kg/date=2024-04-10> a ns1:BusinessPurchase ;
+    ns1:buyer_id "47"^^xsd:string ;
+    ns1:product_name "apis%20mixed%20fruit%20jam%201%20kg"^^xsd:string ;
+    ns1:purchase_date "2024-04-10"^^xsd:date ;
+    ns1:quantity "3"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "128"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=476/product=skittles%20original%20fruit%20flavored%20candies%20fruit%20candy%20%20%2890%20g%29/date=2024-03-05> a ns1:BusinessPurchase ;
+    ns1:buyer_id "476"^^xsd:string ;
+    ns1:product_name "skittles%20original%20fruit%20flavored%20candies%20fruit%20candy%20%20%2890%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-05"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "100"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=477/product=delish%20by%20flipkart%20butter%20choco%20biscotti%20%20%28150%20g%29/date=2024-04-08> a ns1:BusinessPurchase ;
+    ns1:buyer_id "477"^^xsd:string ;
+    ns1:product_name "delish%20by%20flipkart%20butter%20choco%20biscotti%20%20%28150%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-08"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "190"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=480/product=classic%20fried%20gram%20%28split%29%20by%20flipkart%20grocery%20%20%28500%20g%29/date=2024-03-07> a ns1:BusinessPurchase ;
+    ns1:buyer_id "480"^^xsd:string ;
+    ns1:product_name "classic%20fried%20gram%20%28split%29%20by%20flipkart%20grocery%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-07"^^xsd:date ;
+    ns1:quantity "9"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "58"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=487/product=taj%20mahal%20tea%20box%20%28regular%20tea%29%20%20%28500%20g%29/date=2024-03-17> a ns1:BusinessPurchase ;
+    ns1:buyer_id "487"^^xsd:string ;
+    ns1:product_name "taj%20mahal%20tea%20box%20%28regular%20tea%29%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-17"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "278"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=489/product=kellogg%27s%20chocos%20crunchy%20bites%2C%20source%20of%20calcium%20%26%20fibre%2C%20breakfast%20cereal%20for%20kids%20pouch%20%20%2856%20g%20extra%20in%20pack%29%20%20%28375%20g%29/date=2024-04-23> a ns1:BusinessPurchase ;
+    ns1:buyer_id "489"^^xsd:string ;
+    ns1:product_name "kellogg%27s%20chocos%20crunchy%20bites%2C%20source%20of%20calcium%20%26%20fibre%2C%20breakfast%20cereal%20for%20kids%20pouch%20%20%2856%20g%20extra%20in%20pack%29%20%20%28375%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-23"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "176"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=492/product=tata%20sampann%20quality%20kaju%2C%20100%25%20pure%20premium%20cashews%20%20%28500%20g%29/date=2024-04-03> a ns1:BusinessPurchase ;
+    ns1:buyer_id "492"^^xsd:string ;
+    ns1:product_name "tata%20sampann%20quality%20kaju%2C%20100%25%20pure%20premium%20cashews%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-03"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "478"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=496/product=sunfeast%20yippee%21%20tricolor%20instant%20%2C%20creamy%20corn%20pasta%20%20%2865%20g%29/date=2024-04-17> a ns1:BusinessPurchase ;
+    ns1:buyer_id "496"^^xsd:string ;
+    ns1:product_name "sunfeast%20yippee%21%20tricolor%20instant%20%2C%20creamy%20corn%20pasta%20%20%2865%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-17"^^xsd:date ;
+    ns1:quantity "4"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "21"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=498/product=karachi%20bakery%20orange%20soan%20papdi%20mithai%20box%20%20%28200%20g%29/date=2024-05-04> a ns1:BusinessPurchase ;
+    ns1:buyer_id "498"^^xsd:string ;
+    ns1:product_name "karachi%20bakery%20orange%20soan%20papdi%20mithai%20box%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-05-04"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "38"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=50/product=pass%20pass%20minty%20mix%20mouth%20freshener%20dinning%20table%20pack%20mint%20mouth%20freshener%20%20%28100%20g%29/date=2024-04-18> a ns1:BusinessPurchase ;
+    ns1:buyer_id "50"^^xsd:string ;
+    ns1:product_name "pass%20pass%20minty%20mix%20mouth%20freshener%20dinning%20table%20pack%20mint%20mouth%20freshener%20%20%28100%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-18"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "74"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=51/product=india%20gate%20mini%20mogra%20basmati%20rice%20%28basmati%20chaula%29%20%20%2810%20kg%29/date=2024-02-28> a ns1:BusinessPurchase ;
+    ns1:buyer_id "51"^^xsd:string ;
+    ns1:product_name "india%20gate%20mini%20mogra%20basmati%20rice%20%28basmati%20chaula%29%20%20%2810%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-28"^^xsd:date ;
+    ns1:quantity "2"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "593"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=63/product=dnv%20green%20chilli%20pickle%20%28acharo%29%20%20%28400%20g%29/date=2024-03-17> a ns1:BusinessPurchase ;
+    ns1:buyer_id "63"^^xsd:string ;
+    ns1:product_name "dnv%20green%20chilli%20pickle%20%28acharo%29%20%20%28400%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-17"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "120"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=65/product=flipkart%20supermart%20mini%20bhakarwadi%20%20%28200%20g%29/date=2024-02-24> a ns1:BusinessPurchase ;
+    ns1:buyer_id "65"^^xsd:string ;
+    ns1:product_name "flipkart%20supermart%20mini%20bhakarwadi%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-24"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "118"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=65/product=kwality%20corn%20flakes%20real%20almond%20%26%20honey%2C%2099%25%20fat%20free%2C%20breakfast%20cereals%20pouch%20%20%281%20kg%29/date=2024-04-03> a ns1:BusinessPurchase ;
+    ns1:buyer_id "65"^^xsd:string ;
+    ns1:product_name "kwality%20corn%20flakes%20real%20almond%20%26%20honey%2C%2099%25%20fat%20free%2C%20breakfast%20cereals%20pouch%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-03"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "290"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=68/product=doublemint%20chewymint%20tube%20lemon%20mint%20%20%2830.4%20g%29/date=2024-03-02> a ns1:BusinessPurchase ;
+    ns1:buyer_id "68"^^xsd:string ;
+    ns1:product_name "doublemint%20chewymint%20tube%20lemon%20mint%20%20%2830.4%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-02"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "43"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=75/product=tata%20sampann%20instant%20fibre%20rich%20dosa%20ready%20to%20cook%20mix/batter%2C%20make%20crispy%20dosas%20in%2015%20mins%20500%20g/date=2024-04-25> a ns1:BusinessPurchase ;
+    ns1:buyer_id "75"^^xsd:string ;
+    ns1:product_name "tata%20sampann%20instant%20fibre%20rich%20dosa%20ready%20to%20cook%20mix/batter%2C%20make%20crispy%20dosas%20in%2015%20mins%20500%20g"^^xsd:string ;
+    ns1:purchase_date "2024-04-25"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "140"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=76/product=classic%20green%20cardamom%20by%20flipkart%20grocery%20%28chhota%20gujurati%29%20%20%2850%20g%29/date=2024-02-12> a ns1:BusinessPurchase ;
+    ns1:buyer_id "76"^^xsd:string ;
+    ns1:product_name "classic%20green%20cardamom%20by%20flipkart%20grocery%20%28chhota%20gujurati%29%20%20%2850%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-12"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "113"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=80/product=farmley%20premium%20raisins%20%28kishmish%29%20%20%28500%20g%29/date=2024-03-13> a ns1:BusinessPurchase ;
+    ns1:buyer_id "80"^^xsd:string ;
+    ns1:product_name "farmley%20premium%20raisins%20%28kishmish%29%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-03-13"^^xsd:date ;
+    ns1:quantity "5"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "174"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=83/product=mtr%20instant%20rava%20dosa%20mix%20500%20g/date=2024-03-12> a ns1:BusinessPurchase ;
+    ns1:buyer_id "83"^^xsd:string ;
+    ns1:product_name "mtr%20instant%20rava%20dosa%20mix%20500%20g"^^xsd:string ;
+    ns1:purchase_date "2024-03-12"^^xsd:date ;
+    ns1:quantity "8"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "133"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=83/product=varalakshmi%20tapioca%20premium%20sago%20%20%281%20kg%29/date=2024-04-24> a ns1:BusinessPurchase ;
+    ns1:buyer_id "83"^^xsd:string ;
+    ns1:product_name "varalakshmi%20tapioca%20premium%20sago%20%20%281%20kg%29"^^xsd:string ;
+    ns1:purchase_date "2024-04-24"^^xsd:date ;
+    ns1:quantity "7"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "105"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=86/product=flipkart%20supermart%20butter%20murukku%20%28muruku%29%20%20%28200%20g%29/date=2024-02-13> a ns1:BusinessPurchase ;
+    ns1:buyer_id "86"^^xsd:string ;
+    ns1:product_name "flipkart%20supermart%20butter%20murukku%20%28muruku%29%20%20%28200%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-02-13"^^xsd:date ;
+    ns1:quantity "10"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "102"^^xsd:float .
+
+<http://www.example.edu/spicy_bytes/spicybytes_b2c/seller=cens-0813850006-49/buyer=97/product=natureland%20organics%20refined%20wheat%20flour%20%28maida%29%20%20%28500%20g%29/date=2024-05-03> a ns1:BusinessPurchase ;
+    ns1:buyer_id "97"^^xsd:string ;
+    ns1:product_name "natureland%20organics%20refined%20wheat%20flour%20%28maida%29%20%20%28500%20g%29"^^xsd:string ;
+    ns1:purchase_date "2024-05-03"^^xsd:date ;
+    ns1:quantity "1"^^xsd:float ;
+    ns1:seller_id "cens-0813850006-49"^^xsd:string ;
+    ns1:unit_price "40"^^xsd:float .
+

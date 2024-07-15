@@ -1,0 +1,110 @@
+Query 1: Find the most expensive product in SupermarketInventory
+
+
+PREFIX global: <http://www.example.edu/spicy_bytes/schema#>
+SELECT ?s ?unitPrice ?quantityRemaining ?dateExpiry ?date
+WHERE {
+  ?s a global:SupermarketInventory ;
+     global:unitPrice ?unitPrice ;
+     global:quantityRemaining ?quantityRemaining ;
+     global:dateExpiry ?dateExpiry ;
+     global:date ?date .
+}
+LIMIT 100
+
+Query 2: List customers who have purchased a specific product
+PREFIX global: <http://www.example.edu/spicy_bytes/schema#>
+SELECT ?customer ?productPurchased
+WHERE {
+  ?purchase a global:CustomerPurchase ;
+            global:buyer ?customer ;
+            global:productPurchased ?productPurchased .
+  FILTER(CONTAINS(LCASE(STR(?productPurchased)), "almonds"))
+}
+
+Query 3: Find the total quantity of a specific product sold in BusinessPurchase
+
+PREFIX global: <http://www.example.edu/spicy_bytes/schema#>
+SELECT ?productPurchased (SUM(?quantityPurchased) AS ?totalQuantity)
+WHERE {
+  ?b2c a global:BusinessPurchase ;
+       global:productPurchased ?productPurchased ;
+       global:quantityPurchased ?quantityPurchased .
+  FILTER(CONTAINS(LCASE(STR(?productPurchased)), "almonds"))
+}
+GROUP BY ?productPurchased
+
+Query 4:  Find the number of products expiring soon in SupermarketInventory
+
+PREFIX global: <http://www.example.edu/spicy_bytes/schema#>
+SELECT (COUNT(?s) AS ?expiringSoonCount)
+WHERE {
+  ?s a global:SupermarketInventory ;
+     global:dateExpiry ?dateExpiry .
+  FILTER(?dateExpiry < "2024-06-01"^^xsd:date)
+}
+
+Query 5: Find customers located in a specific region
+
+PREFIX global: <http://www.example.edu/spicy_bytes/schema#>
+SELECT ?customer ?location ?namePlace
+WHERE {
+  ?customerLoc a global:Location ;
+               global:idcustomer ?customer ;
+               global:idLocation ?location ;
+               global:namePlace ?namePlace .
+  FILTER(CONTAINS((STR(?namePlace)), "Barcelona"))
+}
+
+
+Query 6: Find average unit price of products in CustomerInventory
+
+PREFIX global: <http://www.example.edu/spicy_bytes/schema#>
+SELECT (AVG(?unitPrice) AS ?averageUnitPrice)
+WHERE {
+  ?s a global:CustomerInventory ;
+     global:unitPrice ?unitPrice .
+}
+
+Query 7: List all unique product names in both BusinessPurchase and CustomerPurchase
+
+PREFIX global: <http://www.example.edu/spicy_bytes/schema#>
+SELECT DISTINCT ?productPurchased
+WHERE {
+  {
+    ?b2c a global:BusinessPurchase ;
+         global:productPurchased ?productPurchased .
+  }
+  UNION
+  {
+    ?c2c a global:CustomerPurchase ;
+         global:productPurchased ?productPurchased .
+  }
+}
+
+Query 8:  Find the most popular product based on quantity purchased in CustomerPurchase
+
+PREFIX global: <http://www.example.edu/spicy_bytes/schema#>
+SELECT ?productPurchased (SUM(?quantityPurchased) AS ?totalQuantity)
+WHERE {
+  ?c2c a global:CustomerPurchase ;
+       global:productPurchased ?productPurchased ;
+       global:quantityPurchased ?quantityPurchased .
+}
+GROUP BY ?productPurchased
+ORDER BY DESC(?totalQuantity)
+LIMIT 1
+
+Query 9: List all customers along with their purchase history
+
+PREFIX global: <http://www.example.edu/spicy_bytes/schema#>
+SELECT ?customer ?productPurchased ?datePurchased
+WHERE {
+  ?c2c a global:CustomerPurchase ;
+       global:buyer ?customer ;
+       global:productPurchased ?productPurchased ;
+       global:datePurchased ?datePurchased .
+}
+ORDER BY ?customer ?datePurchased
+
+

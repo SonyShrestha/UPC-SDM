@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.example.edu/spicy_bytes/BusinessPurchase> a rdfs:Class .
+
+<http://www.example.edu/spicy_bytes/buyer_id> a rdf:Property ;
+    rdfs:domain <http://www.example.edu/spicy_bytes/BusinessPurchase> ;
+    rdfs:range xsd:string .
+
+<http://www.example.edu/spicy_bytes/date_purchase> a rdf:Property ;
+    rdfs:domain <http://www.example.edu/spicy_bytes/BusinessPurchase> ;
+    rdfs:range xsd:date .
+
+<http://www.example.edu/spicy_bytes/product_name> a rdf:Property ;
+    rdfs:domain <http://www.example.edu/spicy_bytes/BusinessPurchase> ;
+    rdfs:range xsd:string .
+
+<http://www.example.edu/spicy_bytes/quantity> a rdf:Property ;
+    rdfs:domain <http://www.example.edu/spicy_bytes/BusinessPurchase> ;
+    rdfs:range xsd:float .
+
+<http://www.example.edu/spicy_bytes/seller_id> a rdf:Property ;
+    rdfs:domain <http://www.example.edu/spicy_bytes/BusinessPurchase> ;
+    rdfs:range xsd:string .
+
+<http://www.example.edu/spicy_bytes/unitPrice> rdfs:range xsd:float .
+
+<http://www.example.edu/spicy_bytes/unit_price> a rdf:Property ;
+    rdfs:domain <http://www.example.edu/spicy_bytes/BusinessPurchase> .
+

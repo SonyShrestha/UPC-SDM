@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.example.edu/spicy_bytes/Customer> a rdfs:Class .
+
+<http://www.example.edu/spicy_bytes/customer_id> a rdf:Property ;
+    rdfs:domain <http://www.example.edu/spicy_bytes/Customer> ;
+    rdfs:range xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer_name> a rdf:Property ;
+    rdfs:domain <http://www.example.edu/spicy_bytes/Customer> ;
+    rdfs:range xsd:string .
+

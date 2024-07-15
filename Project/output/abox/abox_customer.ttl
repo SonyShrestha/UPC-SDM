@@ -1,0 +1,2003 @@
+@prefix ns1: <http://www.example.edu/spicy_bytes/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.example.edu/spicy_bytes/customer/1> a ns1:Customer ;
+    ns1:customer_id "1"^^xsd:string ;
+    ns1:customer_name "Debra Kelly"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/10> a ns1:Customer ;
+    ns1:customer_id "10"^^xsd:string ;
+    ns1:customer_name "Kayla Cruz"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/100> a ns1:Customer ;
+    ns1:customer_id "100"^^xsd:string ;
+    ns1:customer_name "Diana Barber"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/101> a ns1:Customer ;
+    ns1:customer_id "101"^^xsd:string ;
+    ns1:customer_name "Robert Byrd"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/102> a ns1:Customer ;
+    ns1:customer_id "102"^^xsd:string ;
+    ns1:customer_name "Gabriel Guerra"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/103> a ns1:Customer ;
+    ns1:customer_id "103"^^xsd:string ;
+    ns1:customer_name "James Schmidt"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/104> a ns1:Customer ;
+    ns1:customer_id "104"^^xsd:string ;
+    ns1:customer_name "Vanessa Gonzalez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/105> a ns1:Customer ;
+    ns1:customer_id "105"^^xsd:string ;
+    ns1:customer_name "April Little"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/106> a ns1:Customer ;
+    ns1:customer_id "106"^^xsd:string ;
+    ns1:customer_name "Olivia Tapia"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/107> a ns1:Customer ;
+    ns1:customer_id "107"^^xsd:string ;
+    ns1:customer_name "Katherine Perez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/108> a ns1:Customer ;
+    ns1:customer_id "108"^^xsd:string ;
+    ns1:customer_name "Jeffrey Ford"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/109> a ns1:Customer ;
+    ns1:customer_id "109"^^xsd:string ;
+    ns1:customer_name "Billy Barron"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/11> a ns1:Customer ;
+    ns1:customer_id "11"^^xsd:string ;
+    ns1:customer_name "John Morris"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/110> a ns1:Customer ;
+    ns1:customer_id "110"^^xsd:string ;
+    ns1:customer_name "Jonathan Bradshaw"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/111> a ns1:Customer ;
+    ns1:customer_id "111"^^xsd:string ;
+    ns1:customer_name "Pamela Garcia"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/112> a ns1:Customer ;
+    ns1:customer_id "112"^^xsd:string ;
+    ns1:customer_name "Isaiah Nunez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/113> a ns1:Customer ;
+    ns1:customer_id "113"^^xsd:string ;
+    ns1:customer_name "Leslie Jackson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/114> a ns1:Customer ;
+    ns1:customer_id "114"^^xsd:string ;
+    ns1:customer_name "Michelle Brown"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/115> a ns1:Customer ;
+    ns1:customer_id "115"^^xsd:string ;
+    ns1:customer_name "Bryan King"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/116> a ns1:Customer ;
+    ns1:customer_id "116"^^xsd:string ;
+    ns1:customer_name "David Hamilton"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/117> a ns1:Customer ;
+    ns1:customer_id "117"^^xsd:string ;
+    ns1:customer_name "Lisa Willis"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/118> a ns1:Customer ;
+    ns1:customer_id "118"^^xsd:string ;
+    ns1:customer_name "Ricardo Rice"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/119> a ns1:Customer ;
+    ns1:customer_id "119"^^xsd:string ;
+    ns1:customer_name "Brian Coleman"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/12> a ns1:Customer ;
+    ns1:customer_id "12"^^xsd:string ;
+    ns1:customer_name "Eric Liu"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/120> a ns1:Customer ;
+    ns1:customer_id "120"^^xsd:string ;
+    ns1:customer_name "Heather Snyder"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/121> a ns1:Customer ;
+    ns1:customer_id "121"^^xsd:string ;
+    ns1:customer_name "Michael Roth"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/122> a ns1:Customer ;
+    ns1:customer_id "122"^^xsd:string ;
+    ns1:customer_name "Devin Bradshaw"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/123> a ns1:Customer ;
+    ns1:customer_id "123"^^xsd:string ;
+    ns1:customer_name "Kathleen Hanna"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/124> a ns1:Customer ;
+    ns1:customer_id "124"^^xsd:string ;
+    ns1:customer_name "Glen Schwartz"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/125> a ns1:Customer ;
+    ns1:customer_id "125"^^xsd:string ;
+    ns1:customer_name "Jessica Taylor"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/126> a ns1:Customer ;
+    ns1:customer_id "126"^^xsd:string ;
+    ns1:customer_name "Jade Mayo"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/127> a ns1:Customer ;
+    ns1:customer_id "127"^^xsd:string ;
+    ns1:customer_name "Deborah Alexander"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/128> a ns1:Customer ;
+    ns1:customer_id "128"^^xsd:string ;
+    ns1:customer_name "Lauren Vazquez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/129> a ns1:Customer ;
+    ns1:customer_id "129"^^xsd:string ;
+    ns1:customer_name "John Martin"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/13> a ns1:Customer ;
+    ns1:customer_id "13"^^xsd:string ;
+    ns1:customer_name "William Santiago"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/130> a ns1:Customer ;
+    ns1:customer_id "130"^^xsd:string ;
+    ns1:customer_name "Angela Booker"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/131> a ns1:Customer ;
+    ns1:customer_id "131"^^xsd:string ;
+    ns1:customer_name "Natalie Brown"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/132> a ns1:Customer ;
+    ns1:customer_id "132"^^xsd:string ;
+    ns1:customer_name "Lawrence Baker Jr."^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/133> a ns1:Customer ;
+    ns1:customer_id "133"^^xsd:string ;
+    ns1:customer_name "Phillip Warner"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/134> a ns1:Customer ;
+    ns1:customer_id "134"^^xsd:string ;
+    ns1:customer_name "Ms. Tara Hughes"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/135> a ns1:Customer ;
+    ns1:customer_id "135"^^xsd:string ;
+    ns1:customer_name "Edward Crawford"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/136> a ns1:Customer ;
+    ns1:customer_id "136"^^xsd:string ;
+    ns1:customer_name "Kelsey Harris"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/137> a ns1:Customer ;
+    ns1:customer_id "137"^^xsd:string ;
+    ns1:customer_name "Veronica Young"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/138> a ns1:Customer ;
+    ns1:customer_id "138"^^xsd:string ;
+    ns1:customer_name "Jeff Bowen"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/139> a ns1:Customer ;
+    ns1:customer_id "139"^^xsd:string ;
+    ns1:customer_name "Emily Melendez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/14> a ns1:Customer ;
+    ns1:customer_id "14"^^xsd:string ;
+    ns1:customer_name "Eric Jones"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/140> a ns1:Customer ;
+    ns1:customer_id "140"^^xsd:string ;
+    ns1:customer_name "Michelle Reynolds"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/141> a ns1:Customer ;
+    ns1:customer_id "141"^^xsd:string ;
+    ns1:customer_name "Amanda Simmons"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/142> a ns1:Customer ;
+    ns1:customer_id "142"^^xsd:string ;
+    ns1:customer_name "Andrew Solomon"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/143> a ns1:Customer ;
+    ns1:customer_id "143"^^xsd:string ;
+    ns1:customer_name "Ryan Erickson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/144> a ns1:Customer ;
+    ns1:customer_id "144"^^xsd:string ;
+    ns1:customer_name "Matthew Ramirez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/145> a ns1:Customer ;
+    ns1:customer_id "145"^^xsd:string ;
+    ns1:customer_name "Sandra Chase"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/146> a ns1:Customer ;
+    ns1:customer_id "146"^^xsd:string ;
+    ns1:customer_name "Alexis Gomez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/147> a ns1:Customer ;
+    ns1:customer_id "147"^^xsd:string ;
+    ns1:customer_name "Katie Henderson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/148> a ns1:Customer ;
+    ns1:customer_id "148"^^xsd:string ;
+    ns1:customer_name "Allen Curry"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/149> a ns1:Customer ;
+    ns1:customer_id "149"^^xsd:string ;
+    ns1:customer_name "Jeffrey Callahan"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/15> a ns1:Customer ;
+    ns1:customer_id "15"^^xsd:string ;
+    ns1:customer_name "Kevin Monroe"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/150> a ns1:Customer ;
+    ns1:customer_id "150"^^xsd:string ;
+    ns1:customer_name "Peter Sexton"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/151> a ns1:Customer ;
+    ns1:customer_id "151"^^xsd:string ;
+    ns1:customer_name "Jessica Watson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/152> a ns1:Customer ;
+    ns1:customer_id "152"^^xsd:string ;
+    ns1:customer_name "Brittany Ryan"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/153> a ns1:Customer ;
+    ns1:customer_id "153"^^xsd:string ;
+    ns1:customer_name "Heather Conway"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/154> a ns1:Customer ;
+    ns1:customer_id "154"^^xsd:string ;
+    ns1:customer_name "Shawn Cook"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/155> a ns1:Customer ;
+    ns1:customer_id "155"^^xsd:string ;
+    ns1:customer_name "Walter Guerrero"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/156> a ns1:Customer ;
+    ns1:customer_id "156"^^xsd:string ;
+    ns1:customer_name "Rebecca Campbell"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/157> a ns1:Customer ;
+    ns1:customer_id "157"^^xsd:string ;
+    ns1:customer_name "Steven Cobb"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/158> a ns1:Customer ;
+    ns1:customer_id "158"^^xsd:string ;
+    ns1:customer_name "Mary Salinas"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/159> a ns1:Customer ;
+    ns1:customer_id "159"^^xsd:string ;
+    ns1:customer_name "David Hayden"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/16> a ns1:Customer ;
+    ns1:customer_id "16"^^xsd:string ;
+    ns1:customer_name "Douglas Cabrera"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/160> a ns1:Customer ;
+    ns1:customer_id "160"^^xsd:string ;
+    ns1:customer_name "Alexander Lewis"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/161> a ns1:Customer ;
+    ns1:customer_id "161"^^xsd:string ;
+    ns1:customer_name "Terry Russell"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/162> a ns1:Customer ;
+    ns1:customer_id "162"^^xsd:string ;
+    ns1:customer_name "Jonathan Hall"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/163> a ns1:Customer ;
+    ns1:customer_id "163"^^xsd:string ;
+    ns1:customer_name "Ethan Bradley"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/164> a ns1:Customer ;
+    ns1:customer_id "164"^^xsd:string ;
+    ns1:customer_name "Samuel Walton"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/165> a ns1:Customer ;
+    ns1:customer_id "165"^^xsd:string ;
+    ns1:customer_name "Mary Fields"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/166> a ns1:Customer ;
+    ns1:customer_id "166"^^xsd:string ;
+    ns1:customer_name "Cameron Gill"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/167> a ns1:Customer ;
+    ns1:customer_id "167"^^xsd:string ;
+    ns1:customer_name "Joanna Collins"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/168> a ns1:Customer ;
+    ns1:customer_id "168"^^xsd:string ;
+    ns1:customer_name "Mary Greer"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/169> a ns1:Customer ;
+    ns1:customer_id "169"^^xsd:string ;
+    ns1:customer_name "Anna Case"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/17> a ns1:Customer ;
+    ns1:customer_id "17"^^xsd:string ;
+    ns1:customer_name "Sarah Lewis"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/170> a ns1:Customer ;
+    ns1:customer_id "170"^^xsd:string ;
+    ns1:customer_name "William Obrien"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/171> a ns1:Customer ;
+    ns1:customer_id "171"^^xsd:string ;
+    ns1:customer_name "Joseph Hooper"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/172> a ns1:Customer ;
+    ns1:customer_id "172"^^xsd:string ;
+    ns1:customer_name "Mrs. Selena Wheeler"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/173> a ns1:Customer ;
+    ns1:customer_id "173"^^xsd:string ;
+    ns1:customer_name "Erica Zamora"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/174> a ns1:Customer ;
+    ns1:customer_id "174"^^xsd:string ;
+    ns1:customer_name "Rachel Harris"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/175> a ns1:Customer ;
+    ns1:customer_id "175"^^xsd:string ;
+    ns1:customer_name "Miranda Chambers"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/176> a ns1:Customer ;
+    ns1:customer_id "176"^^xsd:string ;
+    ns1:customer_name "Douglas Reeves"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/177> a ns1:Customer ;
+    ns1:customer_id "177"^^xsd:string ;
+    ns1:customer_name "Erin Buchanan"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/178> a ns1:Customer ;
+    ns1:customer_id "178"^^xsd:string ;
+    ns1:customer_name "Rebecca Reed"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/179> a ns1:Customer ;
+    ns1:customer_id "179"^^xsd:string ;
+    ns1:customer_name "Gwendolyn Fields DVM"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/18> a ns1:Customer ;
+    ns1:customer_id "18"^^xsd:string ;
+    ns1:customer_name "Erika Collins"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/180> a ns1:Customer ;
+    ns1:customer_id "180"^^xsd:string ;
+    ns1:customer_name "Madison Diaz"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/181> a ns1:Customer ;
+    ns1:customer_id "181"^^xsd:string ;
+    ns1:customer_name "Lauren Craig"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/182> a ns1:Customer ;
+    ns1:customer_id "182"^^xsd:string ;
+    ns1:customer_name "Dr. Toni Kirk MD"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/183> a ns1:Customer ;
+    ns1:customer_id "183"^^xsd:string ;
+    ns1:customer_name "Kelly Richardson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/184> a ns1:Customer ;
+    ns1:customer_id "184"^^xsd:string ;
+    ns1:customer_name "Jennifer Nicholson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/185> a ns1:Customer ;
+    ns1:customer_id "185"^^xsd:string ;
+    ns1:customer_name "Amber Vazquez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/186> a ns1:Customer ;
+    ns1:customer_id "186"^^xsd:string ;
+    ns1:customer_name "Jennifer Booker"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/187> a ns1:Customer ;
+    ns1:customer_id "187"^^xsd:string ;
+    ns1:customer_name "Joyce Webb"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/188> a ns1:Customer ;
+    ns1:customer_id "188"^^xsd:string ;
+    ns1:customer_name "Kimberly Howell"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/189> a ns1:Customer ;
+    ns1:customer_id "189"^^xsd:string ;
+    ns1:customer_name "Mr. Antonio Brady DDS"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/19> a ns1:Customer ;
+    ns1:customer_id "19"^^xsd:string ;
+    ns1:customer_name "William Cardenas"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/190> a ns1:Customer ;
+    ns1:customer_id "190"^^xsd:string ;
+    ns1:customer_name "Stacy Hawkins"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/191> a ns1:Customer ;
+    ns1:customer_id "191"^^xsd:string ;
+    ns1:customer_name "Melissa Singh"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/192> a ns1:Customer ;
+    ns1:customer_id "192"^^xsd:string ;
+    ns1:customer_name "Mary Wilkins"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/193> a ns1:Customer ;
+    ns1:customer_id "193"^^xsd:string ;
+    ns1:customer_name "Brandon Thompson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/194> a ns1:Customer ;
+    ns1:customer_id "194"^^xsd:string ;
+    ns1:customer_name "Barbara Martin"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/195> a ns1:Customer ;
+    ns1:customer_id "195"^^xsd:string ;
+    ns1:customer_name "Dennis Escobar"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/196> a ns1:Customer ;
+    ns1:customer_id "196"^^xsd:string ;
+    ns1:customer_name "Leslie Clarke"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/197> a ns1:Customer ;
+    ns1:customer_id "197"^^xsd:string ;
+    ns1:customer_name "William Greene"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/198> a ns1:Customer ;
+    ns1:customer_id "198"^^xsd:string ;
+    ns1:customer_name "Jerome Joseph"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/199> a ns1:Customer ;
+    ns1:customer_id "199"^^xsd:string ;
+    ns1:customer_name "Andre White"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/2> a ns1:Customer ;
+    ns1:customer_id "2"^^xsd:string ;
+    ns1:customer_name "Nicholas Cardenas"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/20> a ns1:Customer ;
+    ns1:customer_id "20"^^xsd:string ;
+    ns1:customer_name "Tina Brewer"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/200> a ns1:Customer ;
+    ns1:customer_id "200"^^xsd:string ;
+    ns1:customer_name "Danny Bowers"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/201> a ns1:Customer ;
+    ns1:customer_id "201"^^xsd:string ;
+    ns1:customer_name "Rachel Mathews"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/202> a ns1:Customer ;
+    ns1:customer_id "202"^^xsd:string ;
+    ns1:customer_name "Casey Jordan"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/203> a ns1:Customer ;
+    ns1:customer_id "203"^^xsd:string ;
+    ns1:customer_name "Lori French"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/204> a ns1:Customer ;
+    ns1:customer_id "204"^^xsd:string ;
+    ns1:customer_name "Laura Andrade"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/205> a ns1:Customer ;
+    ns1:customer_id "205"^^xsd:string ;
+    ns1:customer_name "Brandon Guerrero"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/206> a ns1:Customer ;
+    ns1:customer_id "206"^^xsd:string ;
+    ns1:customer_name "Tiffany Graham"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/207> a ns1:Customer ;
+    ns1:customer_id "207"^^xsd:string ;
+    ns1:customer_name "David Morris"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/208> a ns1:Customer ;
+    ns1:customer_id "208"^^xsd:string ;
+    ns1:customer_name "Jessica Richardson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/209> a ns1:Customer ;
+    ns1:customer_id "209"^^xsd:string ;
+    ns1:customer_name "Sarah Anderson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/21> a ns1:Customer ;
+    ns1:customer_id "21"^^xsd:string ;
+    ns1:customer_name "Jeremy White"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/210> a ns1:Customer ;
+    ns1:customer_id "210"^^xsd:string ;
+    ns1:customer_name "Kathy Taylor"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/211> a ns1:Customer ;
+    ns1:customer_id "211"^^xsd:string ;
+    ns1:customer_name "Steven Freeman"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/212> a ns1:Customer ;
+    ns1:customer_id "212"^^xsd:string ;
+    ns1:customer_name "Monica Lozano"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/213> a ns1:Customer ;
+    ns1:customer_id "213"^^xsd:string ;
+    ns1:customer_name "Garrett Montgomery"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/214> a ns1:Customer ;
+    ns1:customer_id "214"^^xsd:string ;
+    ns1:customer_name "Joshua Myers"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/215> a ns1:Customer ;
+    ns1:customer_id "215"^^xsd:string ;
+    ns1:customer_name "Emily Stone"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/216> a ns1:Customer ;
+    ns1:customer_id "216"^^xsd:string ;
+    ns1:customer_name "William Stephens"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/217> a ns1:Customer ;
+    ns1:customer_id "217"^^xsd:string ;
+    ns1:customer_name "Brian Meyer"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/218> a ns1:Customer ;
+    ns1:customer_id "218"^^xsd:string ;
+    ns1:customer_name "Derrick Hendricks"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/219> a ns1:Customer ;
+    ns1:customer_id "219"^^xsd:string ;
+    ns1:customer_name "Diana Herrera"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/22> a ns1:Customer ;
+    ns1:customer_id "22"^^xsd:string ;
+    ns1:customer_name "Heather Flynn"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/220> a ns1:Customer ;
+    ns1:customer_id "220"^^xsd:string ;
+    ns1:customer_name "Steven Barber"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/221> a ns1:Customer ;
+    ns1:customer_id "221"^^xsd:string ;
+    ns1:customer_name "Jennifer Day"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/222> a ns1:Customer ;
+    ns1:customer_id "222"^^xsd:string ;
+    ns1:customer_name "Jennifer Padilla"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/223> a ns1:Customer ;
+    ns1:customer_id "223"^^xsd:string ;
+    ns1:customer_name "Erin Dalton"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/224> a ns1:Customer ;
+    ns1:customer_id "224"^^xsd:string ;
+    ns1:customer_name "Jennifer Farmer"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/225> a ns1:Customer ;
+    ns1:customer_id "225"^^xsd:string ;
+    ns1:customer_name "Carol Mccoy"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/226> a ns1:Customer ;
+    ns1:customer_id "226"^^xsd:string ;
+    ns1:customer_name "Brenda Mcclain"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/227> a ns1:Customer ;
+    ns1:customer_id "227"^^xsd:string ;
+    ns1:customer_name "Mary Rivas"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/228> a ns1:Customer ;
+    ns1:customer_id "228"^^xsd:string ;
+    ns1:customer_name "Eric Rose"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/229> a ns1:Customer ;
+    ns1:customer_id "229"^^xsd:string ;
+    ns1:customer_name "Randy Rodriguez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/23> a ns1:Customer ;
+    ns1:customer_id "23"^^xsd:string ;
+    ns1:customer_name "Stephanie Allen"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/230> a ns1:Customer ;
+    ns1:customer_id "230"^^xsd:string ;
+    ns1:customer_name "George Rogers"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/231> a ns1:Customer ;
+    ns1:customer_id "231"^^xsd:string ;
+    ns1:customer_name "Kendra Smith"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/232> a ns1:Customer ;
+    ns1:customer_id "232"^^xsd:string ;
+    ns1:customer_name "Kyle Jones"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/233> a ns1:Customer ;
+    ns1:customer_id "233"^^xsd:string ;
+    ns1:customer_name "Vincent Downs"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/234> a ns1:Customer ;
+    ns1:customer_id "234"^^xsd:string ;
+    ns1:customer_name "Jennifer Jenkins"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/235> a ns1:Customer ;
+    ns1:customer_id "235"^^xsd:string ;
+    ns1:customer_name "Holly Jordan"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/236> a ns1:Customer ;
+    ns1:customer_id "236"^^xsd:string ;
+    ns1:customer_name "Sue Beck"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/237> a ns1:Customer ;
+    ns1:customer_id "237"^^xsd:string ;
+    ns1:customer_name "Nicholas Price"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/238> a ns1:Customer ;
+    ns1:customer_id "238"^^xsd:string ;
+    ns1:customer_name "Laura Gomez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/239> a ns1:Customer ;
+    ns1:customer_id "239"^^xsd:string ;
+    ns1:customer_name "Michael Hartman"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/24> a ns1:Customer ;
+    ns1:customer_id "24"^^xsd:string ;
+    ns1:customer_name "Katie Smith"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/240> a ns1:Customer ;
+    ns1:customer_id "240"^^xsd:string ;
+    ns1:customer_name "Melissa Medina"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/241> a ns1:Customer ;
+    ns1:customer_id "241"^^xsd:string ;
+    ns1:customer_name "Joshua Ellis"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/242> a ns1:Customer ;
+    ns1:customer_id "242"^^xsd:string ;
+    ns1:customer_name "Patrick Edwards"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/243> a ns1:Customer ;
+    ns1:customer_id "243"^^xsd:string ;
+    ns1:customer_name "Julie Blackwell"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/244> a ns1:Customer ;
+    ns1:customer_id "244"^^xsd:string ;
+    ns1:customer_name "Anita Davis"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/245> a ns1:Customer ;
+    ns1:customer_id "245"^^xsd:string ;
+    ns1:customer_name "Mrs. Susan Torres PhD"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/246> a ns1:Customer ;
+    ns1:customer_id "246"^^xsd:string ;
+    ns1:customer_name "Christian Johnson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/247> a ns1:Customer ;
+    ns1:customer_id "247"^^xsd:string ;
+    ns1:customer_name "Sarah Huynh"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/248> a ns1:Customer ;
+    ns1:customer_id "248"^^xsd:string ;
+    ns1:customer_name "Juan Ferguson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/249> a ns1:Customer ;
+    ns1:customer_id "249"^^xsd:string ;
+    ns1:customer_name "Wanda Garza"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/25> a ns1:Customer ;
+    ns1:customer_id "25"^^xsd:string ;
+    ns1:customer_name "Megan Craig"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/250> a ns1:Customer ;
+    ns1:customer_id "250"^^xsd:string ;
+    ns1:customer_name "Alyssa Johnson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/251> a ns1:Customer ;
+    ns1:customer_id "251"^^xsd:string ;
+    ns1:customer_name "Stephanie Holland"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/252> a ns1:Customer ;
+    ns1:customer_id "252"^^xsd:string ;
+    ns1:customer_name "Marc Wood"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/253> a ns1:Customer ;
+    ns1:customer_id "253"^^xsd:string ;
+    ns1:customer_name "Rachel Miranda"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/254> a ns1:Customer ;
+    ns1:customer_id "254"^^xsd:string ;
+    ns1:customer_name "Andrea Ortiz"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/255> a ns1:Customer ;
+    ns1:customer_id "255"^^xsd:string ;
+    ns1:customer_name "Jerry Gibson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/256> a ns1:Customer ;
+    ns1:customer_id "256"^^xsd:string ;
+    ns1:customer_name "Raymond Burton"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/257> a ns1:Customer ;
+    ns1:customer_id "257"^^xsd:string ;
+    ns1:customer_name "Aimee Kelly"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/258> a ns1:Customer ;
+    ns1:customer_id "258"^^xsd:string ;
+    ns1:customer_name "Matthew Reyes DDS"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/259> a ns1:Customer ;
+    ns1:customer_id "259"^^xsd:string ;
+    ns1:customer_name "Kristin Stephenson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/26> a ns1:Customer ;
+    ns1:customer_id "26"^^xsd:string ;
+    ns1:customer_name "Christopher Shields"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/260> a ns1:Customer ;
+    ns1:customer_id "260"^^xsd:string ;
+    ns1:customer_name "Kyle Kelly"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/261> a ns1:Customer ;
+    ns1:customer_id "261"^^xsd:string ;
+    ns1:customer_name "Lindsay Anderson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/262> a ns1:Customer ;
+    ns1:customer_id "262"^^xsd:string ;
+    ns1:customer_name "Jim Nolan"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/263> a ns1:Customer ;
+    ns1:customer_id "263"^^xsd:string ;
+    ns1:customer_name "Jason Mendoza"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/264> a ns1:Customer ;
+    ns1:customer_id "264"^^xsd:string ;
+    ns1:customer_name "Brittany Blackwell"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/265> a ns1:Customer ;
+    ns1:customer_id "265"^^xsd:string ;
+    ns1:customer_name "Scott Monroe"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/266> a ns1:Customer ;
+    ns1:customer_id "266"^^xsd:string ;
+    ns1:customer_name "Richard Walsh"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/267> a ns1:Customer ;
+    ns1:customer_id "267"^^xsd:string ;
+    ns1:customer_name "Sherry Escobar"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/268> a ns1:Customer ;
+    ns1:customer_id "268"^^xsd:string ;
+    ns1:customer_name "George Rodriguez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/269> a ns1:Customer ;
+    ns1:customer_id "269"^^xsd:string ;
+    ns1:customer_name "Isaac Clark"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/27> a ns1:Customer ;
+    ns1:customer_id "27"^^xsd:string ;
+    ns1:customer_name "Mary Hubbard"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/270> a ns1:Customer ;
+    ns1:customer_id "270"^^xsd:string ;
+    ns1:customer_name "Anthony Berry"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/271> a ns1:Customer ;
+    ns1:customer_id "271"^^xsd:string ;
+    ns1:customer_name "Christopher Allen"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/272> a ns1:Customer ;
+    ns1:customer_id "272"^^xsd:string ;
+    ns1:customer_name "Kristin Fritz"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/273> a ns1:Customer ;
+    ns1:customer_id "273"^^xsd:string ;
+    ns1:customer_name "Anthony Haley"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/274> a ns1:Customer ;
+    ns1:customer_id "274"^^xsd:string ;
+    ns1:customer_name "George Phillips"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/275> a ns1:Customer ;
+    ns1:customer_id "275"^^xsd:string ;
+    ns1:customer_name "Joshua Turner II"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/276> a ns1:Customer ;
+    ns1:customer_id "276"^^xsd:string ;
+    ns1:customer_name "Christina Garcia"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/277> a ns1:Customer ;
+    ns1:customer_id "277"^^xsd:string ;
+    ns1:customer_name "Marissa Davis"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/278> a ns1:Customer ;
+    ns1:customer_id "278"^^xsd:string ;
+    ns1:customer_name "Stephanie Steele"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/279> a ns1:Customer ;
+    ns1:customer_id "279"^^xsd:string ;
+    ns1:customer_name "Charles Johnson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/28> a ns1:Customer ;
+    ns1:customer_id "28"^^xsd:string ;
+    ns1:customer_name "Hailey Petersen"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/280> a ns1:Customer ;
+    ns1:customer_id "280"^^xsd:string ;
+    ns1:customer_name "Steven Taylor"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/281> a ns1:Customer ;
+    ns1:customer_id "281"^^xsd:string ;
+    ns1:customer_name "Jeffrey Warren"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/282> a ns1:Customer ;
+    ns1:customer_id "282"^^xsd:string ;
+    ns1:customer_name "Tracy Young DDS"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/283> a ns1:Customer ;
+    ns1:customer_id "283"^^xsd:string ;
+    ns1:customer_name "Nancy Wood"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/284> a ns1:Customer ;
+    ns1:customer_id "284"^^xsd:string ;
+    ns1:customer_name "Jessica Gonzalez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/285> a ns1:Customer ;
+    ns1:customer_id "285"^^xsd:string ;
+    ns1:customer_name "Kelsey Tucker"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/286> a ns1:Customer ;
+    ns1:customer_id "286"^^xsd:string ;
+    ns1:customer_name "Melissa Wilson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/287> a ns1:Customer ;
+    ns1:customer_id "287"^^xsd:string ;
+    ns1:customer_name "Dr. Alan Everett"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/288> a ns1:Customer ;
+    ns1:customer_id "288"^^xsd:string ;
+    ns1:customer_name "Mary Harrell"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/289> a ns1:Customer ;
+    ns1:customer_id "289"^^xsd:string ;
+    ns1:customer_name "Kelsey Griffin"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/29> a ns1:Customer ;
+    ns1:customer_id "29"^^xsd:string ;
+    ns1:customer_name "Richard Donovan"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/290> a ns1:Customer ;
+    ns1:customer_id "290"^^xsd:string ;
+    ns1:customer_name "Laura Wilson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/291> a ns1:Customer ;
+    ns1:customer_id "291"^^xsd:string ;
+    ns1:customer_name "Luke Curtis"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/292> a ns1:Customer ;
+    ns1:customer_id "292"^^xsd:string ;
+    ns1:customer_name "Sarah Howell"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/293> a ns1:Customer ;
+    ns1:customer_id "293"^^xsd:string ;
+    ns1:customer_name "Ryan Coleman"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/294> a ns1:Customer ;
+    ns1:customer_id "294"^^xsd:string ;
+    ns1:customer_name "Benjamin Chung"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/295> a ns1:Customer ;
+    ns1:customer_id "295"^^xsd:string ;
+    ns1:customer_name "Mrs. Felicia Dunn MD"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/296> a ns1:Customer ;
+    ns1:customer_id "296"^^xsd:string ;
+    ns1:customer_name "Laura Hall"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/297> a ns1:Customer ;
+    ns1:customer_id "297"^^xsd:string ;
+    ns1:customer_name "David Gomez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/298> a ns1:Customer ;
+    ns1:customer_id "298"^^xsd:string ;
+    ns1:customer_name "Kelly Carter"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/299> a ns1:Customer ;
+    ns1:customer_id "299"^^xsd:string ;
+    ns1:customer_name "Jennifer Thomas"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/3> a ns1:Customer ;
+    ns1:customer_id "3"^^xsd:string ;
+    ns1:customer_name "Barbara Holder"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/30> a ns1:Customer ;
+    ns1:customer_id "30"^^xsd:string ;
+    ns1:customer_name "Manuel Armstrong"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/300> a ns1:Customer ;
+    ns1:customer_id "300"^^xsd:string ;
+    ns1:customer_name "Logan Parker"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/301> a ns1:Customer ;
+    ns1:customer_id "301"^^xsd:string ;
+    ns1:customer_name "Adam Schmidt"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/302> a ns1:Customer ;
+    ns1:customer_id "302"^^xsd:string ;
+    ns1:customer_name "Kelsey Webb"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/303> a ns1:Customer ;
+    ns1:customer_id "303"^^xsd:string ;
+    ns1:customer_name "Aaron Nolan"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/304> a ns1:Customer ;
+    ns1:customer_id "304"^^xsd:string ;
+    ns1:customer_name "Susan Maldonado"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/305> a ns1:Customer ;
+    ns1:customer_id "305"^^xsd:string ;
+    ns1:customer_name "Kim Tran"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/306> a ns1:Customer ;
+    ns1:customer_id "306"^^xsd:string ;
+    ns1:customer_name "Jane Patterson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/307> a ns1:Customer ;
+    ns1:customer_id "307"^^xsd:string ;
+    ns1:customer_name "Joshua Ewing"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/308> a ns1:Customer ;
+    ns1:customer_id "308"^^xsd:string ;
+    ns1:customer_name "Dennis Khan"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/309> a ns1:Customer ;
+    ns1:customer_id "309"^^xsd:string ;
+    ns1:customer_name "Paul Cordova"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/31> a ns1:Customer ;
+    ns1:customer_id "31"^^xsd:string ;
+    ns1:customer_name "Ryan Howell"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/310> a ns1:Customer ;
+    ns1:customer_id "310"^^xsd:string ;
+    ns1:customer_name "Krystal Williams"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/311> a ns1:Customer ;
+    ns1:customer_id "311"^^xsd:string ;
+    ns1:customer_name "Douglas Torres"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/312> a ns1:Customer ;
+    ns1:customer_id "312"^^xsd:string ;
+    ns1:customer_name "Tracy Garcia"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/313> a ns1:Customer ;
+    ns1:customer_id "313"^^xsd:string ;
+    ns1:customer_name "Yvette Greene"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/314> a ns1:Customer ;
+    ns1:customer_id "314"^^xsd:string ;
+    ns1:customer_name "Brian Morales"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/315> a ns1:Customer ;
+    ns1:customer_id "315"^^xsd:string ;
+    ns1:customer_name "Jeremy Owens"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/316> a ns1:Customer ;
+    ns1:customer_id "316"^^xsd:string ;
+    ns1:customer_name "Jacob Bowman"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/317> a ns1:Customer ;
+    ns1:customer_id "317"^^xsd:string ;
+    ns1:customer_name "Ashley Mills"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/318> a ns1:Customer ;
+    ns1:customer_id "318"^^xsd:string ;
+    ns1:customer_name "Christopher Mcdonald"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/319> a ns1:Customer ;
+    ns1:customer_id "319"^^xsd:string ;
+    ns1:customer_name "Brandon Johnson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/32> a ns1:Customer ;
+    ns1:customer_id "32"^^xsd:string ;
+    ns1:customer_name "Audrey Evans"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/320> a ns1:Customer ;
+    ns1:customer_id "320"^^xsd:string ;
+    ns1:customer_name "Corey Lee"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/321> a ns1:Customer ;
+    ns1:customer_id "321"^^xsd:string ;
+    ns1:customer_name "Cindy Griffin"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/322> a ns1:Customer ;
+    ns1:customer_id "322"^^xsd:string ;
+    ns1:customer_name "Willie Ramos"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/323> a ns1:Customer ;
+    ns1:customer_id "323"^^xsd:string ;
+    ns1:customer_name "Brandon Stevenson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/324> a ns1:Customer ;
+    ns1:customer_id "324"^^xsd:string ;
+    ns1:customer_name "Alison Cook"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/325> a ns1:Customer ;
+    ns1:customer_id "325"^^xsd:string ;
+    ns1:customer_name "Michael Simmons"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/326> a ns1:Customer ;
+    ns1:customer_id "326"^^xsd:string ;
+    ns1:customer_name "Dorothy Ortega"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/327> a ns1:Customer ;
+    ns1:customer_id "327"^^xsd:string ;
+    ns1:customer_name "Heather Adams"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/328> a ns1:Customer ;
+    ns1:customer_id "328"^^xsd:string ;
+    ns1:customer_name "Brian Patterson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/329> a ns1:Customer ;
+    ns1:customer_id "329"^^xsd:string ;
+    ns1:customer_name "Mark Hale"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/33> a ns1:Customer ;
+    ns1:customer_id "33"^^xsd:string ;
+    ns1:customer_name "Brian Cervantes"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/330> a ns1:Customer ;
+    ns1:customer_id "330"^^xsd:string ;
+    ns1:customer_name "Joseph Ellis"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/331> a ns1:Customer ;
+    ns1:customer_id "331"^^xsd:string ;
+    ns1:customer_name "Richard Bender"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/332> a ns1:Customer ;
+    ns1:customer_id "332"^^xsd:string ;
+    ns1:customer_name "Carolyn Hays"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/333> a ns1:Customer ;
+    ns1:customer_id "333"^^xsd:string ;
+    ns1:customer_name "Steven Rodriguez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/334> a ns1:Customer ;
+    ns1:customer_id "334"^^xsd:string ;
+    ns1:customer_name "Julie Willis"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/335> a ns1:Customer ;
+    ns1:customer_id "335"^^xsd:string ;
+    ns1:customer_name "Lisa Webster"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/336> a ns1:Customer ;
+    ns1:customer_id "336"^^xsd:string ;
+    ns1:customer_name "Sierra Hernandez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/337> a ns1:Customer ;
+    ns1:customer_id "337"^^xsd:string ;
+    ns1:customer_name "Julie Hughes"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/338> a ns1:Customer ;
+    ns1:customer_id "338"^^xsd:string ;
+    ns1:customer_name "James Townsend"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/339> a ns1:Customer ;
+    ns1:customer_id "339"^^xsd:string ;
+    ns1:customer_name "Megan Sampson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/34> a ns1:Customer ;
+    ns1:customer_id "34"^^xsd:string ;
+    ns1:customer_name "Jamie Smith"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/340> a ns1:Customer ;
+    ns1:customer_id "340"^^xsd:string ;
+    ns1:customer_name "Melanie Ayala"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/341> a ns1:Customer ;
+    ns1:customer_id "341"^^xsd:string ;
+    ns1:customer_name "Benjamin Daniels"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/342> a ns1:Customer ;
+    ns1:customer_id "342"^^xsd:string ;
+    ns1:customer_name "Frances Spears"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/343> a ns1:Customer ;
+    ns1:customer_id "343"^^xsd:string ;
+    ns1:customer_name "Kimberly Wood"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/344> a ns1:Customer ;
+    ns1:customer_id "344"^^xsd:string ;
+    ns1:customer_name "Patrick Anderson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/345> a ns1:Customer ;
+    ns1:customer_id "345"^^xsd:string ;
+    ns1:customer_name "Joseph Johnson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/346> a ns1:Customer ;
+    ns1:customer_id "346"^^xsd:string ;
+    ns1:customer_name "Kelly Coleman"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/347> a ns1:Customer ;
+    ns1:customer_id "347"^^xsd:string ;
+    ns1:customer_name "Joshua Allen"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/348> a ns1:Customer ;
+    ns1:customer_id "348"^^xsd:string ;
+    ns1:customer_name "Joseph Graves"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/349> a ns1:Customer ;
+    ns1:customer_id "349"^^xsd:string ;
+    ns1:customer_name "Nicole Smith"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/35> a ns1:Customer ;
+    ns1:customer_id "35"^^xsd:string ;
+    ns1:customer_name "Curtis Mendez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/350> a ns1:Customer ;
+    ns1:customer_id "350"^^xsd:string ;
+    ns1:customer_name "Charles Craig"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/351> a ns1:Customer ;
+    ns1:customer_id "351"^^xsd:string ;
+    ns1:customer_name "Corey Smith"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/352> a ns1:Customer ;
+    ns1:customer_id "352"^^xsd:string ;
+    ns1:customer_name "Crystal Frank"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/353> a ns1:Customer ;
+    ns1:customer_id "353"^^xsd:string ;
+    ns1:customer_name "Riley Smith"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/354> a ns1:Customer ;
+    ns1:customer_id "354"^^xsd:string ;
+    ns1:customer_name "Lee Roberts"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/355> a ns1:Customer ;
+    ns1:customer_id "355"^^xsd:string ;
+    ns1:customer_name "Elizabeth Kirby"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/356> a ns1:Customer ;
+    ns1:customer_id "356"^^xsd:string ;
+    ns1:customer_name "Zachary Cunningham"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/357> a ns1:Customer ;
+    ns1:customer_id "357"^^xsd:string ;
+    ns1:customer_name "Jeanette Shelton"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/358> a ns1:Customer ;
+    ns1:customer_id "358"^^xsd:string ;
+    ns1:customer_name "Kristen Pratt"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/359> a ns1:Customer ;
+    ns1:customer_id "359"^^xsd:string ;
+    ns1:customer_name "Joel Hensley"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/36> a ns1:Customer ;
+    ns1:customer_id "36"^^xsd:string ;
+    ns1:customer_name "Matthew Bond"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/360> a ns1:Customer ;
+    ns1:customer_id "360"^^xsd:string ;
+    ns1:customer_name "Laura Briggs DVM"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/361> a ns1:Customer ;
+    ns1:customer_id "361"^^xsd:string ;
+    ns1:customer_name "Timothy Marsh"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/362> a ns1:Customer ;
+    ns1:customer_id "362"^^xsd:string ;
+    ns1:customer_name "Jessica Fox MD"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/363> a ns1:Customer ;
+    ns1:customer_id "363"^^xsd:string ;
+    ns1:customer_name "Franklin Mccoy"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/364> a ns1:Customer ;
+    ns1:customer_id "364"^^xsd:string ;
+    ns1:customer_name "Stacey Guzman"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/365> a ns1:Customer ;
+    ns1:customer_id "365"^^xsd:string ;
+    ns1:customer_name "David Ellison"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/366> a ns1:Customer ;
+    ns1:customer_id "366"^^xsd:string ;
+    ns1:customer_name "Mr. Derek Martin"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/367> a ns1:Customer ;
+    ns1:customer_id "367"^^xsd:string ;
+    ns1:customer_name "Jennifer Wright"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/368> a ns1:Customer ;
+    ns1:customer_id "368"^^xsd:string ;
+    ns1:customer_name "Kevin Romero"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/369> a ns1:Customer ;
+    ns1:customer_id "369"^^xsd:string ;
+    ns1:customer_name "Alison Johnson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/37> a ns1:Customer ;
+    ns1:customer_id "37"^^xsd:string ;
+    ns1:customer_name "Patricia Gould"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/370> a ns1:Customer ;
+    ns1:customer_id "370"^^xsd:string ;
+    ns1:customer_name "Todd Hunt"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/371> a ns1:Customer ;
+    ns1:customer_id "371"^^xsd:string ;
+    ns1:customer_name "April Fuentes"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/372> a ns1:Customer ;
+    ns1:customer_id "372"^^xsd:string ;
+    ns1:customer_name "Paige Ortega"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/373> a ns1:Customer ;
+    ns1:customer_id "373"^^xsd:string ;
+    ns1:customer_name "Carolyn Smith"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/374> a ns1:Customer ;
+    ns1:customer_id "374"^^xsd:string ;
+    ns1:customer_name "Timothy Lopez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/375> a ns1:Customer ;
+    ns1:customer_id "375"^^xsd:string ;
+    ns1:customer_name "Dr. Tiffany Wilson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/376> a ns1:Customer ;
+    ns1:customer_id "376"^^xsd:string ;
+    ns1:customer_name "Victoria Harding"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/377> a ns1:Customer ;
+    ns1:customer_id "377"^^xsd:string ;
+    ns1:customer_name "Katherine Dean"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/378> a ns1:Customer ;
+    ns1:customer_id "378"^^xsd:string ;
+    ns1:customer_name "Rhonda Ware"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/379> a ns1:Customer ;
+    ns1:customer_id "379"^^xsd:string ;
+    ns1:customer_name "John Roberson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/38> a ns1:Customer ;
+    ns1:customer_id "38"^^xsd:string ;
+    ns1:customer_name "Christopher Hill"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/380> a ns1:Customer ;
+    ns1:customer_id "380"^^xsd:string ;
+    ns1:customer_name "Samantha Short"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/381> a ns1:Customer ;
+    ns1:customer_id "381"^^xsd:string ;
+    ns1:customer_name "Andrew Smith"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/382> a ns1:Customer ;
+    ns1:customer_id "382"^^xsd:string ;
+    ns1:customer_name "Sherry Charles"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/383> a ns1:Customer ;
+    ns1:customer_id "383"^^xsd:string ;
+    ns1:customer_name "Aaron Hodge"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/384> a ns1:Customer ;
+    ns1:customer_id "384"^^xsd:string ;
+    ns1:customer_name "Carrie Cobb"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/385> a ns1:Customer ;
+    ns1:customer_id "385"^^xsd:string ;
+    ns1:customer_name "Ryan Barnes"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/386> a ns1:Customer ;
+    ns1:customer_id "386"^^xsd:string ;
+    ns1:customer_name "Caitlin Hernandez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/387> a ns1:Customer ;
+    ns1:customer_id "387"^^xsd:string ;
+    ns1:customer_name "Brian Hudson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/388> a ns1:Customer ;
+    ns1:customer_id "388"^^xsd:string ;
+    ns1:customer_name "David Long"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/389> a ns1:Customer ;
+    ns1:customer_id "389"^^xsd:string ;
+    ns1:customer_name "Edwin Nelson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/39> a ns1:Customer ;
+    ns1:customer_id "39"^^xsd:string ;
+    ns1:customer_name "Jeremy Mejia"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/390> a ns1:Customer ;
+    ns1:customer_id "390"^^xsd:string ;
+    ns1:customer_name "Matthew Walsh"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/391> a ns1:Customer ;
+    ns1:customer_id "391"^^xsd:string ;
+    ns1:customer_name "Daniel Campos"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/392> a ns1:Customer ;
+    ns1:customer_id "392"^^xsd:string ;
+    ns1:customer_name "Michelle Rodgers"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/393> a ns1:Customer ;
+    ns1:customer_id "393"^^xsd:string ;
+    ns1:customer_name "Amy Williams"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/394> a ns1:Customer ;
+    ns1:customer_id "394"^^xsd:string ;
+    ns1:customer_name "Cathy Riley"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/395> a ns1:Customer ;
+    ns1:customer_id "395"^^xsd:string ;
+    ns1:customer_name "David Chaney"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/396> a ns1:Customer ;
+    ns1:customer_id "396"^^xsd:string ;
+    ns1:customer_name "Melissa Parker"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/397> a ns1:Customer ;
+    ns1:customer_id "397"^^xsd:string ;
+    ns1:customer_name "Christopher Trevino"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/398> a ns1:Customer ;
+    ns1:customer_id "398"^^xsd:string ;
+    ns1:customer_name "Michael Wilkinson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/399> a ns1:Customer ;
+    ns1:customer_id "399"^^xsd:string ;
+    ns1:customer_name "Chelsea Rice"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/4> a ns1:Customer ;
+    ns1:customer_id "4"^^xsd:string ;
+    ns1:customer_name "Jermaine Johnson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/40> a ns1:Customer ;
+    ns1:customer_id "40"^^xsd:string ;
+    ns1:customer_name "Christopher Wagner"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/400> a ns1:Customer ;
+    ns1:customer_id "400"^^xsd:string ;
+    ns1:customer_name "Deanna House"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/401> a ns1:Customer ;
+    ns1:customer_id "401"^^xsd:string ;
+    ns1:customer_name "Taylor Holt"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/402> a ns1:Customer ;
+    ns1:customer_id "402"^^xsd:string ;
+    ns1:customer_name "Matthew Simmons"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/403> a ns1:Customer ;
+    ns1:customer_id "403"^^xsd:string ;
+    ns1:customer_name "Jesus Smith"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/404> a ns1:Customer ;
+    ns1:customer_id "404"^^xsd:string ;
+    ns1:customer_name "Michelle Johns"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/405> a ns1:Customer ;
+    ns1:customer_id "405"^^xsd:string ;
+    ns1:customer_name "Jill Garcia"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/406> a ns1:Customer ;
+    ns1:customer_id "406"^^xsd:string ;
+    ns1:customer_name "Catherine Thompson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/407> a ns1:Customer ;
+    ns1:customer_id "407"^^xsd:string ;
+    ns1:customer_name "Kenneth Long"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/408> a ns1:Customer ;
+    ns1:customer_id "408"^^xsd:string ;
+    ns1:customer_name "Isaac Cowan"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/409> a ns1:Customer ;
+    ns1:customer_id "409"^^xsd:string ;
+    ns1:customer_name "Maxwell Moss"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/41> a ns1:Customer ;
+    ns1:customer_id "41"^^xsd:string ;
+    ns1:customer_name "Ebony Rubio"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/410> a ns1:Customer ;
+    ns1:customer_id "410"^^xsd:string ;
+    ns1:customer_name "Julian Patterson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/411> a ns1:Customer ;
+    ns1:customer_id "411"^^xsd:string ;
+    ns1:customer_name "Jessica Grant"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/412> a ns1:Customer ;
+    ns1:customer_id "412"^^xsd:string ;
+    ns1:customer_name "Troy Alvarado"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/413> a ns1:Customer ;
+    ns1:customer_id "413"^^xsd:string ;
+    ns1:customer_name "Lauren Silva"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/414> a ns1:Customer ;
+    ns1:customer_id "414"^^xsd:string ;
+    ns1:customer_name "Chad Brown"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/415> a ns1:Customer ;
+    ns1:customer_id "415"^^xsd:string ;
+    ns1:customer_name "Dylan Allen"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/416> a ns1:Customer ;
+    ns1:customer_id "416"^^xsd:string ;
+    ns1:customer_name "William Dougherty"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/417> a ns1:Customer ;
+    ns1:customer_id "417"^^xsd:string ;
+    ns1:customer_name "Mr. Anthony Peterson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/418> a ns1:Customer ;
+    ns1:customer_id "418"^^xsd:string ;
+    ns1:customer_name "Haley Webb"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/419> a ns1:Customer ;
+    ns1:customer_id "419"^^xsd:string ;
+    ns1:customer_name "Christine Hill"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/42> a ns1:Customer ;
+    ns1:customer_id "42"^^xsd:string ;
+    ns1:customer_name "Michelle Long"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/420> a ns1:Customer ;
+    ns1:customer_id "420"^^xsd:string ;
+    ns1:customer_name "Jeremiah Weber"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/421> a ns1:Customer ;
+    ns1:customer_id "421"^^xsd:string ;
+    ns1:customer_name "Joseph Wilson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/422> a ns1:Customer ;
+    ns1:customer_id "422"^^xsd:string ;
+    ns1:customer_name "Heather Lang"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/423> a ns1:Customer ;
+    ns1:customer_id "423"^^xsd:string ;
+    ns1:customer_name "Michelle Ellis"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/424> a ns1:Customer ;
+    ns1:customer_id "424"^^xsd:string ;
+    ns1:customer_name "Randall Watson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/425> a ns1:Customer ;
+    ns1:customer_id "425"^^xsd:string ;
+    ns1:customer_name "Thomas Ballard"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/426> a ns1:Customer ;
+    ns1:customer_id "426"^^xsd:string ;
+    ns1:customer_name "Zachary Griffin"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/427> a ns1:Customer ;
+    ns1:customer_id "427"^^xsd:string ;
+    ns1:customer_name "Jennifer Butler"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/428> a ns1:Customer ;
+    ns1:customer_id "428"^^xsd:string ;
+    ns1:customer_name "Brian Odom"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/429> a ns1:Customer ;
+    ns1:customer_id "429"^^xsd:string ;
+    ns1:customer_name "Dr. Jason Bennett"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/43> a ns1:Customer ;
+    ns1:customer_id "43"^^xsd:string ;
+    ns1:customer_name "Julia Lewis"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/430> a ns1:Customer ;
+    ns1:customer_id "430"^^xsd:string ;
+    ns1:customer_name "Christopher Sanchez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/431> a ns1:Customer ;
+    ns1:customer_id "431"^^xsd:string ;
+    ns1:customer_name "Michael Perez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/432> a ns1:Customer ;
+    ns1:customer_id "432"^^xsd:string ;
+    ns1:customer_name "David Gonzalez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/433> a ns1:Customer ;
+    ns1:customer_id "433"^^xsd:string ;
+    ns1:customer_name "Ashley Coleman"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/434> a ns1:Customer ;
+    ns1:customer_id "434"^^xsd:string ;
+    ns1:customer_name "Ricky Wolf"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/435> a ns1:Customer ;
+    ns1:customer_id "435"^^xsd:string ;
+    ns1:customer_name "Bruce Ritter"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/436> a ns1:Customer ;
+    ns1:customer_id "436"^^xsd:string ;
+    ns1:customer_name "Whitney Huang"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/437> a ns1:Customer ;
+    ns1:customer_id "437"^^xsd:string ;
+    ns1:customer_name "Brenda Swanson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/438> a ns1:Customer ;
+    ns1:customer_id "438"^^xsd:string ;
+    ns1:customer_name "Jason Campbell"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/439> a ns1:Customer ;
+    ns1:customer_id "439"^^xsd:string ;
+    ns1:customer_name "Nathan Rodriguez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/44> a ns1:Customer ;
+    ns1:customer_id "44"^^xsd:string ;
+    ns1:customer_name "Brenda Brewer"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/440> a ns1:Customer ;
+    ns1:customer_id "440"^^xsd:string ;
+    ns1:customer_name "Patricia Wilson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/441> a ns1:Customer ;
+    ns1:customer_id "441"^^xsd:string ;
+    ns1:customer_name "Jesse Perez PhD"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/442> a ns1:Customer ;
+    ns1:customer_id "442"^^xsd:string ;
+    ns1:customer_name "Ashley Haas"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/443> a ns1:Customer ;
+    ns1:customer_id "443"^^xsd:string ;
+    ns1:customer_name "Katie Lewis"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/444> a ns1:Customer ;
+    ns1:customer_id "444"^^xsd:string ;
+    ns1:customer_name "Ralph Thomas"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/445> a ns1:Customer ;
+    ns1:customer_id "445"^^xsd:string ;
+    ns1:customer_name "Zachary Ross"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/446> a ns1:Customer ;
+    ns1:customer_id "446"^^xsd:string ;
+    ns1:customer_name "Jason Chapman"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/447> a ns1:Customer ;
+    ns1:customer_id "447"^^xsd:string ;
+    ns1:customer_name "David Smith"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/448> a ns1:Customer ;
+    ns1:customer_id "448"^^xsd:string ;
+    ns1:customer_name "Michael Smith"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/449> a ns1:Customer ;
+    ns1:customer_id "449"^^xsd:string ;
+    ns1:customer_name "Melissa Holt"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/45> a ns1:Customer ;
+    ns1:customer_id "45"^^xsd:string ;
+    ns1:customer_name "Jonathan Wright"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/450> a ns1:Customer ;
+    ns1:customer_id "450"^^xsd:string ;
+    ns1:customer_name "Yvonne Crawford"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/451> a ns1:Customer ;
+    ns1:customer_id "451"^^xsd:string ;
+    ns1:customer_name "Emily Johnson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/452> a ns1:Customer ;
+    ns1:customer_id "452"^^xsd:string ;
+    ns1:customer_name "Amy Juarez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/453> a ns1:Customer ;
+    ns1:customer_id "453"^^xsd:string ;
+    ns1:customer_name "Vicki Elliott"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/454> a ns1:Customer ;
+    ns1:customer_id "454"^^xsd:string ;
+    ns1:customer_name "Mr. Nicholas Smith MD"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/455> a ns1:Customer ;
+    ns1:customer_id "455"^^xsd:string ;
+    ns1:customer_name "Stephen Green"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/456> a ns1:Customer ;
+    ns1:customer_id "456"^^xsd:string ;
+    ns1:customer_name "Robert Woodard"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/457> a ns1:Customer ;
+    ns1:customer_id "457"^^xsd:string ;
+    ns1:customer_name "Eric Jones"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/458> a ns1:Customer ;
+    ns1:customer_id "458"^^xsd:string ;
+    ns1:customer_name "Richard Melendez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/459> a ns1:Customer ;
+    ns1:customer_id "459"^^xsd:string ;
+    ns1:customer_name "Melissa Cardenas"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/46> a ns1:Customer ;
+    ns1:customer_id "46"^^xsd:string ;
+    ns1:customer_name "Philip Huerta"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/460> a ns1:Customer ;
+    ns1:customer_id "460"^^xsd:string ;
+    ns1:customer_name "Cynthia Johnson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/461> a ns1:Customer ;
+    ns1:customer_id "461"^^xsd:string ;
+    ns1:customer_name "Mr. Marcus Butler MD"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/462> a ns1:Customer ;
+    ns1:customer_id "462"^^xsd:string ;
+    ns1:customer_name "Brett Rollins"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/463> a ns1:Customer ;
+    ns1:customer_id "463"^^xsd:string ;
+    ns1:customer_name "Hannah Kelly"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/464> a ns1:Customer ;
+    ns1:customer_id "464"^^xsd:string ;
+    ns1:customer_name "Mark Roberts"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/465> a ns1:Customer ;
+    ns1:customer_id "465"^^xsd:string ;
+    ns1:customer_name "Misty Carter"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/466> a ns1:Customer ;
+    ns1:customer_id "466"^^xsd:string ;
+    ns1:customer_name "Jason Mitchell"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/467> a ns1:Customer ;
+    ns1:customer_id "467"^^xsd:string ;
+    ns1:customer_name "Caitlin Martin"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/468> a ns1:Customer ;
+    ns1:customer_id "468"^^xsd:string ;
+    ns1:customer_name "Jamie Jones"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/469> a ns1:Customer ;
+    ns1:customer_id "469"^^xsd:string ;
+    ns1:customer_name "James Alexander"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/47> a ns1:Customer ;
+    ns1:customer_id "47"^^xsd:string ;
+    ns1:customer_name "Angela Williamson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/470> a ns1:Customer ;
+    ns1:customer_id "470"^^xsd:string ;
+    ns1:customer_name "Thomas Carroll"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/471> a ns1:Customer ;
+    ns1:customer_id "471"^^xsd:string ;
+    ns1:customer_name "Laura Nguyen"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/472> a ns1:Customer ;
+    ns1:customer_id "472"^^xsd:string ;
+    ns1:customer_name "Jesus Arroyo"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/473> a ns1:Customer ;
+    ns1:customer_id "473"^^xsd:string ;
+    ns1:customer_name "Andrea James"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/474> a ns1:Customer ;
+    ns1:customer_id "474"^^xsd:string ;
+    ns1:customer_name "Victoria Torres"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/475> a ns1:Customer ;
+    ns1:customer_id "475"^^xsd:string ;
+    ns1:customer_name "Rhonda Moore"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/476> a ns1:Customer ;
+    ns1:customer_id "476"^^xsd:string ;
+    ns1:customer_name "John Hampton"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/477> a ns1:Customer ;
+    ns1:customer_id "477"^^xsd:string ;
+    ns1:customer_name "Jimmy Yoder"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/478> a ns1:Customer ;
+    ns1:customer_id "478"^^xsd:string ;
+    ns1:customer_name "David Bradley"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/479> a ns1:Customer ;
+    ns1:customer_id "479"^^xsd:string ;
+    ns1:customer_name "Charles Rowe"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/48> a ns1:Customer ;
+    ns1:customer_id "48"^^xsd:string ;
+    ns1:customer_name "Katherine Garza"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/480> a ns1:Customer ;
+    ns1:customer_id "480"^^xsd:string ;
+    ns1:customer_name "Michael Duran"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/481> a ns1:Customer ;
+    ns1:customer_id "481"^^xsd:string ;
+    ns1:customer_name "Tonya Jones"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/482> a ns1:Customer ;
+    ns1:customer_id "482"^^xsd:string ;
+    ns1:customer_name "Denise Jones"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/483> a ns1:Customer ;
+    ns1:customer_id "483"^^xsd:string ;
+    ns1:customer_name "Justin Holmes"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/484> a ns1:Customer ;
+    ns1:customer_id "484"^^xsd:string ;
+    ns1:customer_name "Meghan Chandler"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/485> a ns1:Customer ;
+    ns1:customer_id "485"^^xsd:string ;
+    ns1:customer_name "Jared Smith"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/486> a ns1:Customer ;
+    ns1:customer_id "486"^^xsd:string ;
+    ns1:customer_name "Michael Kelley"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/487> a ns1:Customer ;
+    ns1:customer_id "487"^^xsd:string ;
+    ns1:customer_name "Robert Ortega"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/488> a ns1:Customer ;
+    ns1:customer_id "488"^^xsd:string ;
+    ns1:customer_name "Debra George"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/489> a ns1:Customer ;
+    ns1:customer_id "489"^^xsd:string ;
+    ns1:customer_name "David Oneill"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/49> a ns1:Customer ;
+    ns1:customer_id "49"^^xsd:string ;
+    ns1:customer_name "Stacie Brock"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/490> a ns1:Customer ;
+    ns1:customer_id "490"^^xsd:string ;
+    ns1:customer_name "Erik Bates"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/491> a ns1:Customer ;
+    ns1:customer_id "491"^^xsd:string ;
+    ns1:customer_name "Kristopher Newman"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/492> a ns1:Customer ;
+    ns1:customer_id "492"^^xsd:string ;
+    ns1:customer_name "Cole Clark"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/493> a ns1:Customer ;
+    ns1:customer_id "493"^^xsd:string ;
+    ns1:customer_name "James Cruz"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/494> a ns1:Customer ;
+    ns1:customer_id "494"^^xsd:string ;
+    ns1:customer_name "Margaret Mahoney"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/495> a ns1:Customer ;
+    ns1:customer_id "495"^^xsd:string ;
+    ns1:customer_name "Angela Thompson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/496> a ns1:Customer ;
+    ns1:customer_id "496"^^xsd:string ;
+    ns1:customer_name "Alexis Hopkins"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/497> a ns1:Customer ;
+    ns1:customer_id "497"^^xsd:string ;
+    ns1:customer_name "Kristy Fisher"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/498> a ns1:Customer ;
+    ns1:customer_id "498"^^xsd:string ;
+    ns1:customer_name "Gina Gordon"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/499> a ns1:Customer ;
+    ns1:customer_id "499"^^xsd:string ;
+    ns1:customer_name "Brian Martin"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/5> a ns1:Customer ;
+    ns1:customer_id "5"^^xsd:string ;
+    ns1:customer_name "Joyce Austin MD"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/50> a ns1:Customer ;
+    ns1:customer_id "50"^^xsd:string ;
+    ns1:customer_name "Roger Rivera"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/500> a ns1:Customer ;
+    ns1:customer_id "500"^^xsd:string ;
+    ns1:customer_name "Jerry Preston"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/51> a ns1:Customer ;
+    ns1:customer_id "51"^^xsd:string ;
+    ns1:customer_name "Carrie Mosley"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/52> a ns1:Customer ;
+    ns1:customer_id "52"^^xsd:string ;
+    ns1:customer_name "Cody Smith"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/53> a ns1:Customer ;
+    ns1:customer_id "53"^^xsd:string ;
+    ns1:customer_name "Nicole Simpson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/54> a ns1:Customer ;
+    ns1:customer_id "54"^^xsd:string ;
+    ns1:customer_name "Cathy Miranda"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/55> a ns1:Customer ;
+    ns1:customer_id "55"^^xsd:string ;
+    ns1:customer_name "Raymond Vargas"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/56> a ns1:Customer ;
+    ns1:customer_id "56"^^xsd:string ;
+    ns1:customer_name "Nicholas Burns PhD"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/57> a ns1:Customer ;
+    ns1:customer_id "57"^^xsd:string ;
+    ns1:customer_name "Deborah Church"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/58> a ns1:Customer ;
+    ns1:customer_id "58"^^xsd:string ;
+    ns1:customer_name "Daniel Sutton"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/59> a ns1:Customer ;
+    ns1:customer_id "59"^^xsd:string ;
+    ns1:customer_name "Meghan Bridges"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/6> a ns1:Customer ;
+    ns1:customer_id "6"^^xsd:string ;
+    ns1:customer_name "Xavier Johnson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/60> a ns1:Customer ;
+    ns1:customer_id "60"^^xsd:string ;
+    ns1:customer_name "Taylor Herrera"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/61> a ns1:Customer ;
+    ns1:customer_id "61"^^xsd:string ;
+    ns1:customer_name "Robert Villa"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/62> a ns1:Customer ;
+    ns1:customer_id "62"^^xsd:string ;
+    ns1:customer_name "Maria Wilson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/63> a ns1:Customer ;
+    ns1:customer_id "63"^^xsd:string ;
+    ns1:customer_name "Christian Turner"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/64> a ns1:Customer ;
+    ns1:customer_id "64"^^xsd:string ;
+    ns1:customer_name "Miss Martha Smith"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/65> a ns1:Customer ;
+    ns1:customer_id "65"^^xsd:string ;
+    ns1:customer_name "Robert Rodriguez"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/66> a ns1:Customer ;
+    ns1:customer_id "66"^^xsd:string ;
+    ns1:customer_name "Scott Taylor"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/67> a ns1:Customer ;
+    ns1:customer_id "67"^^xsd:string ;
+    ns1:customer_name "Leon Santos"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/68> a ns1:Customer ;
+    ns1:customer_id "68"^^xsd:string ;
+    ns1:customer_name "Luke Baldwin"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/69> a ns1:Customer ;
+    ns1:customer_id "69"^^xsd:string ;
+    ns1:customer_name "Carla Taylor MD"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/7> a ns1:Customer ;
+    ns1:customer_id "7"^^xsd:string ;
+    ns1:customer_name "Timothy Gray"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/70> a ns1:Customer ;
+    ns1:customer_id "70"^^xsd:string ;
+    ns1:customer_name "Scott Estrada"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/71> a ns1:Customer ;
+    ns1:customer_id "71"^^xsd:string ;
+    ns1:customer_name "Teresa Bailey"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/72> a ns1:Customer ;
+    ns1:customer_id "72"^^xsd:string ;
+    ns1:customer_name "Michele Butler"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/73> a ns1:Customer ;
+    ns1:customer_id "73"^^xsd:string ;
+    ns1:customer_name "Paula Garcia"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/74> a ns1:Customer ;
+    ns1:customer_id "74"^^xsd:string ;
+    ns1:customer_name "Anthony Jenkins"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/75> a ns1:Customer ;
+    ns1:customer_id "75"^^xsd:string ;
+    ns1:customer_name "James Collins"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/76> a ns1:Customer ;
+    ns1:customer_id "76"^^xsd:string ;
+    ns1:customer_name "John Johnson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/77> a ns1:Customer ;
+    ns1:customer_id "77"^^xsd:string ;
+    ns1:customer_name "Leah Diaz"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/78> a ns1:Customer ;
+    ns1:customer_id "78"^^xsd:string ;
+    ns1:customer_name "Ashley Bryant"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/79> a ns1:Customer ;
+    ns1:customer_id "79"^^xsd:string ;
+    ns1:customer_name "Annette Aguirre"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/8> a ns1:Customer ;
+    ns1:customer_id "8"^^xsd:string ;
+    ns1:customer_name "Heidi Bean"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/80> a ns1:Customer ;
+    ns1:customer_id "80"^^xsd:string ;
+    ns1:customer_name "Linda Santos"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/81> a ns1:Customer ;
+    ns1:customer_id "81"^^xsd:string ;
+    ns1:customer_name "Wesley Gibbs"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/82> a ns1:Customer ;
+    ns1:customer_id "82"^^xsd:string ;
+    ns1:customer_name "Antonio Powell"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/83> a ns1:Customer ;
+    ns1:customer_id "83"^^xsd:string ;
+    ns1:customer_name "Jennifer Sanders"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/84> a ns1:Customer ;
+    ns1:customer_id "84"^^xsd:string ;
+    ns1:customer_name "Natasha Pierce"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/85> a ns1:Customer ;
+    ns1:customer_id "85"^^xsd:string ;
+    ns1:customer_name "Angela Duncan"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/86> a ns1:Customer ;
+    ns1:customer_id "86"^^xsd:string ;
+    ns1:customer_name "Beth Reed"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/87> a ns1:Customer ;
+    ns1:customer_id "87"^^xsd:string ;
+    ns1:customer_name "Craig Bowen"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/88> a ns1:Customer ;
+    ns1:customer_id "88"^^xsd:string ;
+    ns1:customer_name "Danielle White"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/89> a ns1:Customer ;
+    ns1:customer_id "89"^^xsd:string ;
+    ns1:customer_name "Brandy Garrett"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/9> a ns1:Customer ;
+    ns1:customer_id "9"^^xsd:string ;
+    ns1:customer_name "Ronald Taylor"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/90> a ns1:Customer ;
+    ns1:customer_id "90"^^xsd:string ;
+    ns1:customer_name "Jessica Lowe"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/91> a ns1:Customer ;
+    ns1:customer_id "91"^^xsd:string ;
+    ns1:customer_name "Nancy Garcia"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/92> a ns1:Customer ;
+    ns1:customer_id "92"^^xsd:string ;
+    ns1:customer_name "Donna Sampson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/93> a ns1:Customer ;
+    ns1:customer_id "93"^^xsd:string ;
+    ns1:customer_name "Kevin Spence"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/94> a ns1:Customer ;
+    ns1:customer_id "94"^^xsd:string ;
+    ns1:customer_name "Nancy Henderson"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/95> a ns1:Customer ;
+    ns1:customer_id "95"^^xsd:string ;
+    ns1:customer_name "Nicholas Navarro"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/96> a ns1:Customer ;
+    ns1:customer_id "96"^^xsd:string ;
+    ns1:customer_name "Kimberly Castro"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/97> a ns1:Customer ;
+    ns1:customer_id "97"^^xsd:string ;
+    ns1:customer_name "Mark Davis"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/98> a ns1:Customer ;
+    ns1:customer_id "98"^^xsd:string ;
+    ns1:customer_name "Kelly Proctor"^^xsd:string .
+
+<http://www.example.edu/spicy_bytes/customer/99> a ns1:Customer ;
+    ns1:customer_id "99"^^xsd:string ;
+    ns1:customer_name "Natasha Green"^^xsd:string .
+
